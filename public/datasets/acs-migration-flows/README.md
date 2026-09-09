@@ -13,29 +13,38 @@ edges — and it joins directly to the other county datasets in this collection
 
 ---
 
-## Dataset File
+## Dataset Files
 
-| File | Size | Rows | Origin Counties | Destination Counties | Total Movers |
-|---|---|---|---|---|---|
-| `county_to_county_flows.csv` | 13.2 MB | 254,348 | 3,220 | 3,219 | 18,061,885 |
+| File | Size | Rows | Contents |
+|---|---|---|---|
+| `county_to_county_flows.csv` | 4.3 MB | 254,348 | Directed county-pair edges (origin, destination, flow, MOE) |
+| `county_geoids.csv` | 76 KB | 3,221 | GEOID → county name + state lookup (join key) |
 
-## Schema (8 columns)
+**Flow network:** 254,348 directed edges, 3,220 origin counties, 3,219
+destination counties, 18,061,885 total movers (2016–2020).
+
+## Schema — `county_to_county_flows.csv` (4 columns)
 
 | # | Column | Type | Description | Sample Value |
 |---|---|---|---|---|
 | 1 | `origin_geoid` | string | Origin county FIPS code (5-digit) | `01003` |
-| 2 | `origin_county` | string | Origin county name | `Baldwin County` |
-| 3 | `origin_state` | string | Origin state abbreviation | `AL` |
-| 4 | `dest_geoid` | string | Destination county FIPS code | `01001` |
-| 5 | `dest_county` | string | Destination county name | `Autauga County` |
-| 6 | `dest_state` | string | Destination state abbreviation | `AL` |
-| 7 | `flow` | number | Weighted movers, origin → destination (2016–2020) | `30` |
-| 8 | `moe` | number | Margin of error (90% confidence) for `flow` | `37` |
+| 2 | `dest_geoid` | string | Destination county FIPS code | `01001` |
+| 3 | `flow` | number | Weighted movers, origin → destination (2016–2020) | `30` |
+| 4 | `moe` | number | Margin of error (90% confidence) for `flow` | `37` |
 
-A tuple of row 1 + rows like this forms a **directed weighted graph**: the edge
-`(01003 → 01001)` has weight 30. Aggregating by `dest_state` reproduces state
-inflow totals; `origin_geoid` plus the county boundary `geoid` gives geographic
-coordinates for arcs or flow maps.
+## Schema — `county_geoids.csv` (3 columns, lookup table)
+
+| # | Column | Type | Description | Sample Value |
+|---|---|---|---|---|
+| 1 | `geoid` | string | County FIPS code (5-digit) | `01003` |
+| 2 | `county_name` | string | County name | `Baldwin County` |
+| 3 | `state_abbr` | string | State abbreviation | `AL` |
+
+Each `geoid` appears once. The two files together form a **directed weighted
+graph**: the edge `(01003 → 01001)` has weight 30, and joining `county_geoids.csv`
+on `origin_geoid`/`dest_geoid` recovers county names and states. Aggregating
+flows by state reproduces state inflow totals; joining on `geoid` with the
+county boundary file gives geographic coordinates for arcs or flow maps.
 
 ---
 
@@ -66,6 +75,10 @@ people whose current and previous residences are both U.S. counties.
 5. **Exclude** rows whose origin is a foreign region or U.S. island area
    (10,219 rows; 1.86M movers) — these have no U.S. county endpoint — and
    zero-flow rows. 254,348 county-pair rows remain.
+6. **Split** into two files to avoid repeating county names on every edge:
+   the narrow flow edge list (`origin_geoid`, `dest_geoid`, `flow`, `moe`) and
+   a de-duplicated `geoid → county_name, state_abbr` lookup (3,221 rows,
+   every geoid in the edge list resolves in it).
 
 ### Actual Statistics (2016–2020)
 
@@ -95,7 +108,7 @@ node fetch-migration-flows.mjs
 ## Usage Ideas
 
 - **Chord/arc diagram**: county-to-county arcs on a U.S. map, alpha-weighted
-  by flow.
+  by flow (join `county_geoids.csv` for labels).
 - **Node-link diagram**: state-aggregated flows as a 51-node directed network.
 - **Choropleth**: net migration per county computed from in/out flows.
 - **Small multiples / animation**: top destination by county, or "where do

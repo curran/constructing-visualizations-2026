@@ -4,7 +4,7 @@ A collection of public datasets curated for the Constructing Visualizations cour
 Each dataset is stored as a clean CSV file alongside a script that documents how
 it was generated.
 
-Total: **24 datasets**, **32 CSV files** (~58 MB combined).
+Total: **24 datasets**, **33 CSV files** (~49 MB combined).
 
 ## Dataset Index
 
@@ -36,7 +36,7 @@ Total: **24 datasets**, **32 CSV files** (~58 MB combined).
 | `bls-laus` | `bls_laus_county.csv` | 6.2M | 119,104 | BLS FTP |
 | `online-retail-ii` | `online_retail_ii.csv` | 8.1M | 127,531 | UCI ML Repository |
 | `bts-od-survey` | `bts_airline_routes.csv` + `bts_airports.csv` | 8.5M + 516K | 244,966 + 6,054 | BTS TranStats + DuckDB |
-| `acs-migration-flows` | `county_to_county_flows.csv` | 14M | 254,348 | Census ACS 5-yr flows |
+| `acs-migration-flows` | `county_to_county_flows.csv` + `county_geoids.csv` | 4.3M + 76K | 254,348 + 3,221 | Census ACS 5-yr flows |
 
 ## Notes
 
@@ -47,7 +47,8 @@ Total: **24 datasets**, **32 CSV files** (~58 MB combined).
 - **atus** aggregates the official BLS 2024 ATUS microdata into weighted,
   minute-by-minute activity shares for stream graphs (the "rhythm of daily life").
 - **acs-migration-flows** contains the ACS 2016-2020 county-to-county migration
-  flows (the latest county-pair vintage) as a directed network keyed by FIPS code.
+  flows (the latest county-pair vintage) as a directed edge list keyed by FIPS
+  code, plus a compact `geoid → county/state` lookup table.
 - Each dataset subdirectory contains the CSV file(s), a generation script (`.mjs`), and a README
   with schema documentation and methodology.
 

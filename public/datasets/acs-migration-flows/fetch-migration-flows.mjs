@@ -20,8 +20,9 @@
  * Source:
  *   https://www2.census.gov/programs-surveys/demo/tables/geographic-mobility/2020/county-to-county-migration-2016-2020/county-to-county-migration-flows/county-to-county-2016-2020-current-residence-sort.xlsx
  *
- * Output:
- *   county_to_county_flows.csv
+ * Output (two files to avoid repeating county names on every row):
+ *   county_to_county_flows.csv  — origin_geoid, dest_geoid, flow, moe
+ *   county_geoids.csv           — geoid -> county_name, state_abbr lookup
  *
  * Run:  node fetch-migration-flows.mjs
  */
@@ -190,6 +191,7 @@ async function main() {
 
   const edges = [];
   let skippedForeign = 0;
+  const geoidMap = new Map();
 
   for (const sheetFile of sheetNames) {
     const xml = decoder.decode(files[sheetFile]);
@@ -217,14 +219,14 @@ async function main() {
 
       edges.push({
         origin_geoid: originFips,
-        origin_county: cells.V ?? "",
-        origin_state: STATE_ABBR[prevState.slice(-2)] ?? prevState,
         dest_geoid: destFips,
-        dest_county: cells.F ?? "",
-        dest_state: STATE_ABBR[curState.slice(-2)] ?? curState,
         flow,
         moe: Number.isNaN(parseFloat(moeText)) ? "" : Math.round(parseFloat(moeText)),
       });
+
+      // Collect GEOID -> county name/state mappings from both endpoints.
+      geoidMap.set(originFips, { name: cells.V ?? "", state: STATE_ABBR[prevState.slice(-2)] ?? prevState });
+      geoidMap.set(destFips, { name: cells.F ?? "", state: STATE_ABBR[curState.slice(-2)] ?? curState });
     }
   }
 
@@ -237,20 +239,32 @@ async function main() {
       : a.origin_geoid.localeCompare(b.origin_geoid)
   );
 
-  const columns = [
-    "origin_geoid", "origin_county", "origin_state",
-    "dest_geoid", "dest_county", "dest_state",
-    "flow", "moe",
-  ];
-  const lines = [columns.join(",")];
+  const flowColumns = ["origin_geoid", "dest_geoid", "flow", "moe"];
+  const flowLines = [flowColumns.join(",")];
   for (const r of edges) {
-    lines.push(columns.map((c) => csvEscape(r[c] ?? "")).join(","));
+    flowLines.push(flowColumns.map((c) => csvEscape(r[c] ?? "")).join(","));
   }
-  const csv = lines.join("\n") + "\n";
-  const outPath = join(WORK_DIR, "county_to_county_flows.csv");
-  writeFileSync(outPath, csv, "utf8");
+  const flowCsv = flowLines.join("\n") + "\n";
+  const flowPath = join(WORK_DIR, "county_to_county_flows.csv");
+  writeFileSync(flowPath, flowCsv, "utf8");
   console.log(
-    `  Wrote ${outPath} (${(csv.length / 1024 / 1024).toFixed(1)} MB, ${edges.length} rows)`
+    `  Wrote ${flowPath} (${(flowCsv.length / 1024 / 1024).toFixed(1)} MB, ${edges.length} rows)`
+  );
+
+  // Lookup table: GEOID -> county name + state abbreviation. Sorted by GEOID.
+  const lookupRows = [...geoidMap.entries()]
+    .sort((a, b) => a[0].localeCompare(b[0]))
+    .map(([geoid, info]) => ({ geoid, county_name: info.name, state_abbr: info.state }));
+  const lookupColumns = ["geoid", "county_name", "state_abbr"];
+  const lookupLines = [lookupColumns.join(",")];
+  for (const r of lookupRows) {
+    lookupLines.push(lookupColumns.map((c) => csvEscape(r[c] ?? "")).join(","));
+  }
+  const lookupCsv = lookupLines.join("\n") + "\n";
+  const lookupPath = join(WORK_DIR, "county_geoids.csv");
+  writeFileSync(lookupPath, lookupCsv, "utf8");
+  console.log(
+    `  Wrote ${lookupPath} (${(lookupCsv.length / 1024).toFixed(0)} KB, ${lookupRows.length} rows)`
   );
 
   // Summary stats.
