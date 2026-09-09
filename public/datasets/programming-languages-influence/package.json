@@ -1,0 +1,14 @@
+{
+  "name": "programming-languages-influence",
+  "version": "1.0.0",
+  "description": "Programming languages influence network dataset",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {}
+}

@@ -1,0 +1,1220 @@
+label,id,size,paradigms,paradigm_count
+C++,/en/cplusplus,33,Comparison of multi-paradigm programming languages; Functional programming; Generic programming; Object-oriented programming; Procedural programming,5
+C,/wikipedia/fr_id/1711,54,Imperative programming; Procedural programming; Structured programming,3
+Forth,/en/forth,10,Concatenative programming language; Procedural programming; Stack-oriented programming language,3
+APL,/en/apl,17,Array programming; Combinatory logic; Functional programming; Mathematics; Modular programming; Operator; Structured programming,7
+CLU,/en/clu,7,Comparison of multi-paradigm programming languages; Object-oriented programming; Procedural programming,3
+ALGOL,/wikipedia/ru_id/17770,23,Imperative programming; Procedural programming; Structured programming,3
+Simula,/en/simula,7,Object-oriented programming,1
+Smalltalk,/en/smalltalk,49,Object-oriented programming,1
+Objective-C,/en/objective-c,12,Object-oriented programming,1
+Eiffel,/en/eiffel,12,Design by contract; Object-oriented programming,2
+PHP,/en/php,4,Imperative programming; Interpreted language; Object-oriented programming; Procedural programming,4
+J#,/wikipedia/ja_id/1325633,0,Object-oriented programming,1
+C#,/wikipedia/it_id/26842,22,Comparison of multi-paradigm programming languages; Component-oriented programming; Concurrent computing; Event-driven programming; Functional programming; Generic programming; Imperative programming; Object-oriented programming; Structured programming,9
+ALGOL 68,/en/algol_68,9,Comparison of multi-paradigm programming languages; Concurrent computing; Imperative programming; Parallel computing,4
+ALGOL 58,/en/algol_58,3,Imperative programming; Procedural programming; Structured programming,3
+ALGOL W,/en/algol_w,2,Imperative programming; Procedural programming; Structured programming,3
+Elliott ALGOL,/en/elliott_algol,0,,0
+Dartmouth ALGOL 30,/en/dartmouth_algol_30,0,,0
+Pascal,/wikipedia/ru/$041F$0430$0441$043A$0430$043B$044C_$0028$044F$0437$044B$043A_$043F$0440$043E$0433$0440$0430$043C$043C$0438$0440$043E$0432$0430$043D$0438$044F$0029,36,Imperative programming; Structured programming,2
+Oberon,/wikipedia/es/Lenguaje_de_programaci$00F3n_Oberon,6,Imperative programming; Modular programming; Object-oriented programming; Reflective programming; Structured programming,5
+Modula-2,/en/modula-2,9,Imperative programming; Modular Programming; Procedural programming; Structured programming,4
+Modula,/en/modula,3,Modular Programming,1
+Object Pascal,/en/object_pascal,7,Event-driven programming; Functional programming; Generic programming; Imperative programming; Object-oriented programming; Structured programming,6
+Oxygene,/wikipedia/ru_id/1991612,0,Object-oriented programming,1
+UCSD Pascal,/en/ucsd_pascal,1,,0
+Turbo Pascal,/en/turbo_pascal,0,Object-oriented programming,1
+Mesa,/wikipedia/de_id/1570385,3,Modular Programming,1
+Zonnon,/en/zonnon,0,Concurrent computing,1
+Ada,/en/ada,13,Comparison of multi-paradigm programming languages,1
+Objective Modula-2,/en/objective_modula-2,0,,0
+Modula-3,/en/modula-3,7,Imperative programming; Modular programming; Object-oriented programming; Procedural programming; Structured programming,5
+ISO,/m/01xrt9x,0,,0
+PIM4,/en/pim4,0,,0
+PIM3,/en/pim3,0,,0
+PIM2,/m/01xrtbk,0,,0
+Cedar,/m/01xrtb_,0,,0
+*Lisp,/wikipedia/en_title/$002ALisp,0,Parallel computing,1
+Lisp,/wikipedia/it_id/11078,60,Functional programming; Interpreted language; Mathematics; Object-oriented programming; Procedural programming,5
+Common Lisp,/en/common_lisp,18,Comparison of multi-paradigm programming languages; Functional programming; Generic programming; Object-oriented programming; Procedural programming,5
+Scheme,/en/scheme,29,Comparison of multi-paradigm programming languages; Functional programming; Interpreted language; Procedural programming,4
+Emacs Lisp,/en/emacs_lisp,0,Functional programming,1
+Dylan,/en/dylan,8,Comparison of multi-paradigm programming languages; Dynamic programming language; Functional programming; Object-oriented programming; Reflective programming,5
+Common Lisp Object System,/en/clos,3,Object-oriented programming,1
+Logo,/wikipedia/bg_id/68599,12,Comparison of multi-paradigm programming languages; Educational programming language; Functional programming; Procedural programming,4
+Fortran,/en/fortran,13,Generic programming; Imperative programming; Object-oriented programming; Procedural programming; Structured programming,5
+PL/I,/en/pl_i,7,Imperative programming; Procedural programming; Structured programming,3
+FORTRAN II,/en/fortran_ii,0,,0
+FORTRAN III,/en/fortran_iii,0,,0
+FORTRAN IV,/en/fortran_iv,0,,0
+FORTRAN 66,/en/fortran_66,0,,0
+FORTRAN 77,/en/fortran_77,0,,0
+FORTRAN 90,/en/fortran_90,0,,0
+FORTRAN 95,/en/fortran_95,0,,0
+Fortran 2003,/en/fortran_2003,0,,0
+Fortran 2008,/en/fortran_2008,0,,0
+PL/M,/en/pl_m,0,,0
+EPL,/en/epl,0,,0
+XPL,/en/xpl,1,,0
+IBM PL/S,/en/pl_s,0,,0
+PL/C,/en/pl_c,0,Imperative programming; Procedural programming; Structured programming,3
+PL/P,/en/pl_p,0,,0
+PL/8,/en/pl_8,0,,0
+COBOL,/en/cobol,6,Imperative programming; Object-oriented programming; Procedural programming; Structured programming,4
+FP,/en/fp,4,Function-level programming,1
+FL,/en/fl,1,Function-level programming; Functional programming,2
+Ruby,/wikipedia/bg_id/86164,23,Comparison of multi-paradigm programming languages; Dynamic programming language; Functional programming; Imperative programming; Interpreted language; Object-oriented programming; Reflective programming; Structured programming,8
+Perl,/en/perl,23,Comparison of multi-paradigm programming languages; Dynamic programming language; Event-driven programming; Functional programming; Generic programming; Imperative programming; Object-oriented programming; Procedural programming,8
+Groovy,/en/groovy,1,Dynamic programming language; Functional programming; Imperative programming; Object-oriented programming,4
+T,/wikipedia/en_title/T_$0028programming_language$0029,4,Comparison of multi-paradigm programming languages; Functional programming; Imperative programming; Object-oriented programming,4
+COBOL 2002,/en/cobol_2002,0,,0
+COBOL-85,/en/cobol_85,0,,0
+COBOL-74,/en/cobol_74,0,,0
+COBOL-68,/en/cobol_68,0,,0
+FLOW-MATIC,/en/flow-matic,1,Imperative programming,1
+COMTRAN,/en/comtran,1,,0
+Prolog,/en/prolog,11,Declarative programming; Logic programming,2
+Visual Prolog,/en/visual_prolog,0,Object-oriented programming,1
+Erlang,/en/erlang,11,Actor model; Comparison of multi-paradigm programming languages; Concurrent computing; Functional programming,4
+Mercury,/wikipedia/ru/Mercury_$0028$044F$0437$044B$043A_$043F$0440$043E$0433$0440$0430$043C$043C$0438$0440$043E$0432$0430$043D$0438$044F$0029,0,Functional programming; Logic programming; Object-oriented programming,3
+Oz,/wikipedia/es/Lenguaje_de_programaci$00F3n_Oz,3,Comparison of multi-paradigm programming languages; Concurrent computing; Functional programming; Imperative programming; Logic programming; Object-oriented programming; Parallel computing,7
+Python,/wikipedia/fr/Python_$0028langage$0029,30,Comparison of multi-paradigm programming languages; Functional programming; Imperative programming; Interpreted language; Object-oriented programming; Procedural programming,6
+Tcl,/en/tcl,4,Comparison of multi-paradigm programming languages; Event-driven programming; Functional programming; Imperative programming; Object-oriented programming; Procedural programming,6
+Icon,/wikipedia/fr/ICON,4,Comparison of multi-paradigm programming languages; Structured programming,2
+Haskell,/en/haskell,32,Combinatory logic; Compiled language; Declarative programming; Functional programming; Interpreted language; Lazy evaluation; Mathematics; Modular programming; Strong typing; Type inference,10
+ABC,/wikipedia/pt_id/159248,1,Comparison of multi-paradigm programming languages; Imperative programming; Procedural programming; Structured programming,4
+Boo,/en/boo,1,,0
+Smalltalk-80,/en/smalltalk_80,2,,0
+Smalltalk-72,/en/smalltalk_72,0,,0
+Smalltalk-71,/en/smalltalk_71,0,,0
+Smalltalk-76,/en/smalltalk_76,0,,0
+Caml,/en/caml,1,Comparison of multi-paradigm programming languages; Functional programming; Imperative programming; Object-oriented programming,4
+ML,/en/ml,25,Comparison of multi-paradigm programming languages; Functional programming; Imperative programming; Type inference,4
+SKED,/en/sked,0,,0
+JavaScript,/en/javascript,16,Ajax; Comparison of multi-paradigm programming languages; Functional programming; Imperative programming; Object-oriented programming; Prototype-based programming; Reflective programming,7
+mjt,/en/mjt,0,,0
+Forth-79,/en/forth_79,0,,0
+Forth-83,/en/forth_83,0,,0
+Kid,/wikipedia/pt_id/2784265,1,,0
+BASIC,/en/basic,19,Procedural programming; Structured programming,2
+PostScript,/en/postscript,3,Comparison of multi-paradigm programming languages; Concatenative programming language; Procedural programming; Stack-oriented programming language,4
+D,/en/d,4,Comparison of multi-paradigm programming languages; Functional programming; Generic programming; Imperative programming; Object-oriented programming; Procedural programming,6
+Brainfuck,/en/brainfuck,0,Imperative programming; Structured programming; cell based,3
+SQL,/en/sql,6,Comparison of multi-paradigm programming languages; Database programming,2
+Interlisp,/m/0256nby,0,,0
+LPC,/en/lpc,2,Functional programming; Object-oriented programming; Procedural programming; Prototype-based programming,4
+Rexx,/en/rexx,2,Comparison of multi-paradigm programming languages; Object-oriented programming; Procedural programming; Structured programming,4
+AWK,/en/awk,8,Data-driven programming; Procedural programming,2
+sed,/en/sed,3,Procedural programming,1
+C*,/m/02h3zxb,0,,0
+Self,/wikipedia/ja_id/905339,16,Object-oriented programming; Prototype-based programming,2
+NewtonScript,/en/newtonscript,2,Object-oriented programming; Prototype-based programming,2
+Atari ST BASIC,/en/atari_st_basic,0,,0
+Visual Basic,/en/visual_basic,6,Event-driven programming; Object-oriented programming,2
+BBC BASIC,/en/bbc_basic,0,Procedural programming,1
+AppleScript,/en/applescript,0,,0
+Squeak,/en/squeak,2,Object-oriented programming,1
+Lambda calculus,/en/lambda_calculus,2,,0
+Maclisp,/en/maclisp,1,,0
+MUMPS,/en/mumps,1,Database programming; Imperative programming; Parallel computing; Procedural programming; Reflective programming,5
+CycL,/en/cycl,0,Knowledge-based systems,1
+SubL,/en/subl,0,,0
+HTML,/en/html,1,,0
+XHTML,/en/xhtml,0,,0
+Standard ML of New Jersey,/en/standard_ml_of_new_jersey,0,Functional programming; Imperative programming,2
+Standard ML,/en/standard_ml,3,Comparison of multi-paradigm programming languages; Functional programming; Imperative programming,3
+VBScript,/en/vbscript,1,Interpreted language,1
+Linden Scripting Language,/en/linden_scripting_language,0,,0
+Lua,/en/lua_programming_language,8,Comparison of multi-paradigm programming languages; Functional programming; Imperative programming; Object-oriented programming; Procedural programming; Prototype-based programming,6
+ECMAScript,/en/ecmascript,2,Comparison of multi-paradigm programming languages; Functional programming; Imperative programming; Object-oriented programming; Prototype-based programming,5
+ActionScript,/en/actionscript,1,Comparison of multi-paradigm programming languages; Functional programming; Imperative programming; Object-oriented programming; Prototype-based programming,5
+JScript,/en/jscript,1,,0
+JScript .NET,/en/jscript_net,0,Comparison of multi-paradigm programming languages,1
+QBasic,/m/02kznfd,0,,0
+Cascading Style Sheets,/en/cascading_style_sheets,3,,0
+Jython,/en/jython,0,,0
+IronPython,/en/ironpython,0,,0
+Visual Basic .NET,/en/visual_basic_net,0,Declarative programming; Event-driven programming; Generic programming; Imperative programming; Object-oriented programming; Structured programming,6
+StarLogo,/en/starlogo,3,Comparison of multi-paradigm programming languages; Educational programming language; Multi-agent system; Procedural programming,4
+NetLogo,/en/netlogo,0,Educational programming language; Procedural programming,2
+Starlogo TNG,/en/starlogo_tng,0,,0
+ANSI C,/en/ansi_c,1,,0
+XBL,/en/xbl,0,,0
+Syp Script,/en/syp_script,0,,0
+Rebol,/en/rebol,3,Comparison of multi-paradigm programming languages; Dynamic programming language; Functional programming; Imperative programming; Prototype-based programming; Structured programming,6
+MATLAB,/en/matlab,2,Array programming; Imperative programming; Object-oriented programming; Procedural programming,4
+Assembly language,/en/assembly_language,3,,0
+XSLT,/en/xsl_transformations,3,Declarative programming; Functional programming,2
+Subtext,/en/subtext_programming_language,0,Example Centric Programming,1
+Car,/m/02sc8px,0,,0
+Kernel,/m/02rs85b,0,,0
+Cat,/wikipedia/fr/Cat_$0028langage$0029,1,Comparison of multi-paradigm programming languages; Concatenative programming language; Functional programming; Stack-oriented programming language,4
+Caml Light,/en/caml_light,0,,0
+XML,/en/extensible_markup_language,2,,0
+SPARK,/en/spark_programming_language,0,Comparison of multi-paradigm programming languages,1
+COMAL,/en/comal,0,Structured programming,1
+J,/wikipedia/ja/J_$0028$30D7$30ED$30B0$30E9$30DF$30F3$30B0$8A00$8A9E$0029,3,Array programming; Function-level programming; Functional programming; Object-oriented programming,4
+PL/0,/en/pl_0,0,,0
+FLACC,/en/flacc,0,,0
+Embarcadero Delphi,/en/borland_delphi,0,Object-oriented programming,1
+GNU Pascal,/en/gnu_pascal,0,,0
+Prospero Pascal,/en/prospero_pascal,0,,0
+Pascal/MT+,/en/pascal_mt,0,,0
+Atlas Autocode,/en/atlas_autocode,0,,0
+Rapira,/en/rapira,0,,0
+Karel,/en/karel_programming_language,2,Object-oriented programming; Procedural programming,2
+Dialog Manager programming language,/en/dialog_manager_programming_language,0,,0
+Roadsend PHP,/en/roadsend_php,0,,0
+Alma-0,/en/alma-0,0,Imperative programming; Logic programming,2
+ROOP,/en/roop_programming_language,0,Object-oriented programming,1
+Zeno,/en/zeno_programming_language,0,,0
+SCAR,/m/027_5x7,0,,0
+VistaSmalltalk,/en/vistasmalltalk,0,Object-oriented programming,1
+SP/k,/en/sp_k,1,Imperative programming; Structured programming,2
+Windows PowerShell,/en/windows_powershell,0,Comparison of multi-paradigm programming languages; Functional programming; Imperative programming; Object-oriented programming; Pipeline programming,5
+Hartmann pipeline,/en/hartmann_pipeline,0,,0
+JADE,/en/jade_programming_language,0,Object-oriented programming,1
+Glagol,/en/glagol,0,,0
+QBasic,/en/qbasic,1,Procedural programming,1
+Turing,/en/turing_programming_language,2,Comparison of multi-paradigm programming languages; Object-oriented programming; Procedural programming,3
+Magik,/en/magik_programming_language,0,,0
+occam,/en/occam,3,Concurrent computing; Parallel computing,2
+Alef,/en/alef,3,Compiled language; Concurrent computing; Structured programming,3
+SMALL,/en/small,0,Object-oriented programming,1
+lush,/en/lush_programming_language,0,,0
+Cilk,/en/cilk,0,Imperative programming; Parallel computing; Procedural programming; Structured programming,4
+MultiLisp,/en/multilisp,0,Functional programming,1
+Gödel,/en/godel_programming_language,0,Declarative programming; Logic programming,2
+Claire,/en/claire_programming_language,0,Functional programming; Object-oriented programming,2
+NetRexx,/en/netrexx,1,Object-oriented programming; Procedural programming; Structured programming,3
+F-Script,/en/f-script_programming_language,0,Array programming; Comparison of multi-paradigm programming languages; Object-oriented programming,3
+Pike,/en/pike_programming_language,0,Comparison of multi-paradigm programming languages; Dynamic programming language; Functional programming; Interpreted language; Object-oriented programming; Procedural programming,6
+Logtalk,/en/logtalk,0,Logic programming; Object-oriented programming,2
+Modula-2+,/en/modula_2plus,1,Imperative programming; Structured programming,2
+AgentSheets,/en/agentsheets,2,Educational programming language; Object-oriented programming,2
+Speedcoding,/en/speedcoding,7,Generic programming; Object-oriented programming; Structured programming,3
+NEWP,/en/newp,0,,0
+IITRAN,/en/iitran,0,,0
+Split-C,/en/split-c,1,Imperative programming; Parallel computing; Procedural programming; Structured programming,4
+Cecil,/en/cecil_programming_language,0,Object-oriented programming,1
+Prograph,/en/prograph,0,Comparison of multi-paradigm programming languages; Dataflow programming; Object-oriented programming; Visual programming language,4
+Joule,/wikipedia/en_title/Joule_$0028programming_language$0029,1,Comparison of multi-paradigm programming languages; Object-oriented programming,2
+DMDScript,/en/dmdscript,0,,0
+Nemerle,/en/nemerle,0,Comparison of multi-paradigm programming languages; Functional programming; Imperative programming; Object-oriented programming,4
+ALCOR,/en/alcor,0,,0
+Portable Standard Lisp,/en/portable_standard_lisp,0,,0
+BCPL,/en/bcpl,4,Imperative programming; Procedural programming; Structured programming,3
+MIMIC,/wikipedia/en_title/MIMIC,0,,0
+Interlisp,/en/interlisp,2,,0
+Lexico,/en/lexico,0,Object-oriented programming,1
+Little Smalltalk,/en/little_smalltalk,0,,0
+Scala,/en/scala_programming_language,6,Comparison of multi-paradigm programming languages; Concurrent computing; Functional programming; Imperative programming; Object-oriented programming,5
+Sing#,/en/sing_sharp,0,Comparison of multi-paradigm programming languages; Design by contract; Functional programming; Imperative programming; Object-oriented programming; Structured programming,6
+Curry,/en/curry_programming_language,0,Functional programming; Logic programming,2
+Sather,/en/sather,2,Functional programming; Object-oriented programming,2
+Squirrel,/en/squirrel_programming_language,2,Comparison of multi-paradigm programming languages; Functional programming; Imperative programming; Object-oriented programming,4
+PEARL,/en/pearl_programming_language,0,,0
+Limbo,/en/limbo_programming_language,3,Concurrent computing,1
+Mozart Programming System,/en/mozart_programming_system,0,,0
+Bistro,/wikipedia/pt/Bistro_$0028linguagem_de_programa$00E7$00E3o$0029,0,Object-oriented programming,1
+Gambas,/en/gambas,0,,0
+Lazarus,/wikipedia/de_id/367434,0,,0
+Lava,/en/lava_programming_language,0,,0
+Visual FoxPro,/en/visual_foxpro,0,Object-oriented programming,1
+xHarbour,/en/xharbour,0,,0
+Strongtalk,/en/strongtalk,1,,0
+E,/wikipedia/en_title/E_$0028programming_language$0029,1,Comparison of multi-paradigm programming languages; Object-oriented programming,2
+Object REXX,/en/object_rexx,1,Object-oriented programming,1
+Action!,/en/action_programming_language,0,,0
+ELAN,/en/elan_programming_language,0,,0
+ALGO,/en/algo,0,,0
+Clascal,/en/clascal,0,Object-oriented programming,1
+Cel,/en/cel_programming_language,0,Prototype-based programming,1
+TELCOMP,/en/telcomp,1,,0
+Qi,/wikipedia/en_title/Qi_$0028programming_language$0029,0,Functional programming,1
+Extensible ML,/en/extensible_ml,0,Object-oriented programming,1
+MillScript,/en/millscript,0,,0
+Edinburgh IMP,/en/edinburgh_imp,0,,0
+NELIAC,/en/neliac,0,,0
+ALGOL Y,/en/algol_y,1,,0
+Abel programming language,/m/03sk94,0,Object-oriented programming,1
+Aldor,/en/aldor,0,Dependent type; Functional programming; Imperative programming; Logic programming; Object-oriented programming,5
+ALGOL X,/en/algol_x,0,,0
+Afnix programming language,/en/afnix_programming_language,0,Functional programming; Object-oriented programming,2
+Miranda,/en/miranda_programming_language,3,Declarative programming; Functional programming; Lazy evaluation,3
+TYRO,/m/03qtqr,0,,0
+Water programming language,/en/water_programming_language,0,Object-oriented programming,1
+MPD,/en/mpd_programming_language,0,,0
+LEAP,/en/leap_programming_language,0,,0
+Gofer,/wikipedia/es_id/1201621,0,,0
+K,/wikipedia/en_title/K_$0028programming_language$0029,1,Array programming; Database programming; Functional programming,3
+Kite,/m/027fhy7,0,Functional programming; Object-oriented programming,2
+IMP programming language,/en/imp_programming_language,0,,0
+Open Programming Language,/en/open_programming_language,0,Imperative programming; Structured programming,2
+Flow Java,/en/flow_java,0,,0
+Business application language,/en/b_a_l,0,,0
+Strand,/wikipedia/ja/Strand,0,,0
+wxBasic,/en/wxbasic,0,,0
+FoxPro,/en/foxpro_2,0,,0
+CITRAN,/en/citran,0,,0
+SCOOP,/wikipedia/en_title/SCOOP_$0028software$0029,0,,0
+Poplog,/en/poplog,0,Comparison of multi-paradigm programming languages; Stack-oriented programming language,2
+BasicX,/en/basicx,0,,0
+ABCL/R2,/en/abcl_r2,0,,0
+ABCL/R,/en/abcl_r,0,,0
+ABCL/c+,/en/abcl_cplus,0,,0
+ABCL/1,/en/abcl_1,0,,0
+FOIL,/en/foil_programming_language,0,,0
+DIBOL,/en/dibol,0,Imperative programming; Procedural programming; Structured programming,3
+SISAL,/en/sisal,2,Dataflow programming; Functional programming,2
+XOTcl,/en/xotcl,0,Event-driven programming; Functional programming; Imperative programming; Object-oriented programming,4
+Superx++,/en/superxplusplus,0,,0
+RunRev,/en/runtime_revolution,0,,0
+SQL:2003,/en/sql_2003,0,,0
+Pliant,/en/pliant,0,,0
+Python 3,/en/python_3,0,,0
+Game Oriented Assembly Lisp,/en/game_oriented_assembly_lisp,0,Functional programming,1
+SR,/en/sr_programming_language,0,,0
+SAIL,/en/sail_programming_language,0,,0
+BASICODE,/en/basicode,0,,0
+Significantly Prettier and Easier C++ Syntax,/en/significantly_prettier_and_easier_cplusplus_syntax,0,,0
+Ubercode,/en/ubercode,0,,0
+Educational programming language,/en/educational_programming_language,0,,0
+A++,/en/aplusplus,0,Comparison of multi-paradigm programming languages; Functional programming; Imperative programming; Logic programming; Object-oriented programming,5
+Incr Tcl,/en/incr_tcl,0,,0
+EuLisp,/en/eulisp,2,Functional programming; Object-oriented programming; Procedural programming,3
+ToonTalk,/en/toontalk_computer_programming_language,0,,0
+Janus,/wikipedia/en_title/Janus_$0028programming_language$0029,1,,0
+Parser,/m/0b04x,0,,0
+BLISS,/en/bliss,0,Imperative programming; Procedural programming; Structured programming,3
+JoCaml,/en/jocaml,0,,0
+JavaScript syntax,/en/javascript_syntax,0,,0
+Pico,/en/pico_programming_language,0,Procedural programming,1
+AlphaBasic,/en/alphabasic,0,,0
+BBN LISP,/en/bbn_lisp,0,,0
+SuperCollider,/en/supercollider_programming_language,0,Object-oriented programming,1
+TUTOR,/en/tutor_programming_language,0,Imperative programming; Procedural programming,2
+Snit,/en/snit,0,,0
+True BASIC,/en/true_basic,0,,0
+Spec#,/en/spec_sharp,1,Comparison of multi-paradigm programming languages; Design by contract; Event-driven programming; Functional programming; Imperative programming; Object-oriented programming; Structured programming,7
+Phrogram,/en/kids_programming_language,0,,0
+Ch,/en/ch_interpreter,0,,0
+SNOBOL,/en/snobol,3,Comparison of multi-paradigm programming languages; Functional programming; Logic programming; Object-oriented programming,4
+Laning and Zierler system,/en/laning_and_zierler_system,0,,0
+StepTalk,/en/steptalk,0,,0
+Embedded C++,/en/embedded_cplusplus,0,,0
+Sleep programming language,/en/sleep_programming_language,0,Procedural programming,1
+Leda,/en/leda_programming_language,0,,0
+SQL-92,/en/sql-92,0,,0
+Apache Rivet,/en/apache_rivet,0,,0
+Yoix,/en/yoix,0,Comparison of multi-paradigm programming languages; Object-oriented programming; Procedural programming,3
+Join Java,/en/join_java,0,Procedural programming,1
+Ferite,/en/ferite,0,Object-oriented programming,1
+Mary,/en/mary_programming_language,0,Imperative programming,1
+MOO,/en/moo_programming_language,1,Comparison of multi-paradigm programming languages; Object-oriented programming; Prototype-based programming; Structured programming,4
+Ease,/en/ease_programming_language,0,Concurrent computing; Parallel computing,2
+Dependent ML,/en/dependent_ml,1,Functional programming,1
+Epigram,/en/epigram_programming_language,2,Functional programming,1
+XLISP,/en/xlisp,0,Object-oriented programming,1
+FILECOMP,/en/filecomp,0,,0
+C--,/wikipedia/fr_id/1111779,0,Imperative programming,1
+JOSS,/en/joss,5,,0
+MLton,/en/mlton,0,,0
+Absys,/en/absys,1,Logic programming,1
+ABSET,/en/abset,0,,0
+JavaFX Script,/en/javafx_script,0,Declarative programming; Object-oriented programming,2
+Bywater BASIC,/en/bywater_basic,0,,0
+Oaklisp,/en/oaklisp,3,Comparison of multi-paradigm programming languages; Functional programming; Object-oriented programming; Procedural programming,4
+Cω,/wikipedia/pt_id/404784,2,Comparison of multi-paradigm programming languages; Event-driven programming; Functional programming; Imperative programming; Object-oriented programming; Structured programming,6
+GOO,/wikipedia/en_title/Goo_$0028programming_language$0029,0,Comparison of multi-paradigm programming languages; Functional programming; Object-oriented programming,3
+Variable Data Intelligent Postscript Printware,/en/variable_data_intelligent_postscript_printware,0,,0
+Metafont,/en/metafont,1,,0
+LOLPython,/en/lolpython,0,,0
+Perl 6,/en/perl_6,0,Comparison of multi-paradigm programming languages,1
+Perl Data Language,/en/perl_data_language,0,Array programming,1
+Genshi,/en/genshi,1,,0
+en/fr,/en/en_fr,0,,0
+Factor,/en/factor_programming_language,2,Comparison of multi-paradigm programming languages; Concatenative programming language; Functional programming; Stack-oriented programming language,4
+Joy,/en/joy_programming_language,3,Comparison of multi-paradigm programming languages; Concatenative programming language; Functional programming; Stack-oriented programming language,4
+Bigloo,/en/bigloo,0,Functional programming; Object-oriented programming,2
+Racket,/en/plt_scheme,3,Functional programming; Logic programming; Modular programming; Object-oriented programming; Procedural programming,5
+Scheme48,/en/scheme48,1,,0
+Scsh,/en/scsh,0,,0
+Stackless Python,/en/stackless_python,0,Concurrent computing,1
+Mantra,/m/02xkxpr,0,Dynamic programming language; Object-oriented programming,2
+Miller Puckette,/en/miller_puckette,0,,0
+Ajax,/wikipedia/fr/Asynchronous_JavaScript_and_XML,0,,0
+FOCAL-69,/en/focal_69,0,,0
+MIDletPascal,/en/midletpascal,0,,0
+IBM BASIC,/en/microsoft_basica,1,,0
+MAPPER,/en/mapper,0,,0
+Fjölnir,/en/fjolnir_programming_language,0,Object-oriented programming,1
+Pizza,/en/pizza_programming_language,2,Generic programming,1
+AspectJ,/en/aspectj,0,,0
+XBase++,/en/xbaseplusplus,0,,0
+CORC,/en/corc,0,,0
+Microsoft Pascal,/en/microsoft_pascal,0,,0
+Transact-SQL,/en/transact-sql,0,,0
+Dexterity programming language,/en/dexterity_programming_language,0,,0
+AmbientTalk,/en/ambienttalk,1,Concurrent computing; Event-driven programming; Object-oriented programming; Prototype-based programming,4
+Scratch,/wikipedia/de_id/2772564,0,Educational programming language; Event-driven programming; Imperative programming; Object-oriented programming,4
+CODE,/en/code_programming_language,0,,0
+Urbi,/en/urbi,0,,0
+Stagecast Creator,/en/stagecast_creator,0,,0
+Microsoft BASIC,/en/microsoft_basic,0,,0
+SQL/PSM,/en/sql_psm,0,,0
+Clipper,/en/clipper_programming_language,0,,0
+AWL,/en/awl,0,,0
+PL/SQL,/en/pl_sql,1,Imperative programming; Procedural programming,2
+Syntax Definition Formalism,/en/modular_syntax_definition_formalism,0,,0
+.QL,/wikipedia/en_title/$002EQL,0,Comparison of multi-paradigm programming languages; Database programming; Logic programming; Object-oriented programming,4
+Chinese BASIC,/en/chinese_basic,0,,0
+ChinesePython,/en/chinesepython,0,,0
+Nice,/en/nice_programming_language,0,,0
+JRT,/en/jrt,0,,0
+OpenT,/en/opent,0,,0
+FOCAL,/en/focal_programming_language,0,,0
+STRINGCOMP,/en/stringcomp,0,,0
+Visual Objects,/en/visual_objects,0,,0
+GW-BASIC,/en/gw-basic,2,,0
+Plankalkül,/en/plankalkul,1,Procedural programming,1
+Karel++,/en/karelplusplus,0,Object-oriented programming,1
+CPL,/en/combined_programming_language,3,Comparison of multi-paradigm programming languages; Functional programming; Imperative programming; Procedural programming; Structured programming,5
+Polyphonic C#,/en/polyphonic_c_sharp,1,Comparison of multi-paradigm programming languages; Concurrent computing; Event-driven programming; Functional programming; Imperative programming; Object-oriented programming; Structured programming,7
+Nosica,/en/nosica,0,,0
+Extended ML,/en/extended_ml,0,,0
+Generic Java,/en/generic_java_programming_language,1,Object-oriented programming,1
+ARLOGO,/en/arlogo,0,,0
+OBJ,/en/obj,0,,0
+Flow-based programming,/en/flow-based_programming,0,,0
+Lucid,/en/lucid,3,Dataflow programming,1
+Godiva,/en/godiva_programming_language,0,,0
+A+,/wikipedia/ja/A$002B,2,Array programming,1
+Maude system,/en/maude_system,0,,0
+OpenEdge Advanced Business Language,/en/progress_4gl,0,,0
+Tcl/Java,/en/tcl_java,0,,0
+Algebraic Logic Functional programming language,/wikipedia/en_title/Algebraic_Logic_Functional_programming_language,1,Functional programming; Logic programming,2
+C++/Tcl,/en/cplusplus_tcl,0,,0
+Alice ML,/en/alice_ml,1,Comparison of multi-paradigm programming languages; Concurrent computing; Distributed programming; Functional programming; Imperative programming; Parallel computing,6
+Adenine,/wikipedia/de_id/2626255,0,,0
+WCL programming language,/en/wcl_programming_language,0,,0
+Business Process Execution Language,/en/business_process_execution_language,0,,0
+XSL Formatting Objects,/en/xsl_formatting_objects,0,,0
+XML schema,/wikipedia/de_id/2233937,0,,0
+xTalk,/en/xtalk,0,,0
+SuperTalk,/en/supertalk,3,Event-driven programming,1
+HyperTalk,/m/03gm66v,1,,0
+MetaCard,/m/03gm6gt,0,,0
+OracleCard,/en/oraclecard,0,,0
+WAML,/m/027qlt7,0,,0
+Java bytecode,/en/java_bytecode,1,Stack-oriented programming language,1
+XSL,/en/extensible_stylesheet_language,0,,0
+FastPak for Java,/en/fastpak_for_java,0,,0
+Planner,/en/planner_programming_language,1,,0
+Analytica,/en/analytica,0,Functional programming,1
+Rlab,/en/rlab,0,,0
+Onyx,/en/onyx_programming_language,0,Concatenative programming language,1
+Kyma,/wikipedia/en_title/Kyma_$0028sound_design_language$0029,0,,0
+SASL,/en/sasl_programming_language,3,Functional programming,1
+Lily,/wikipedia/en_title/Lily_$0028software$0029,0,,0
+Abstract machine notation,/en/abstract_machine_notation,0,,0
+Magma,/en/magma_computer_algebra_system,0,,0
+FISh programming language,/en/fish_programming_language,0,,0
+Quark Framework,/en/quark_framework,0,Functional programming,1
+Baltie,/en/baltie,0,,0
+Clean,/en/clean_programming_language,2,Functional programming,1
+Nial,/en/nial,0,Array programming,1
+Pure Data,/en/pure_data,0,Visual programming language,1
+APT,/en/apt_programming_language,0,,0
+Keykit,/en/keykit,0,Object-oriented programming,1
+Sawzall,/en/sawzall,0,,0
+GNU Octave,/en/gnu_octave,0,,0
+OBJ3,/en/obj3,0,,0
+Unicon,/en/unicon_programming_language,0,Object-oriented programming; Procedural programming,2
+Piet,/en/piet,0,,0
+Curl,/en/curl_programming_language,0,Comparison of multi-paradigm programming languages; Markup language; Object-oriented programming,3
+colorForth,/en/colorforth,0,Procedural programming; Stack-oriented programming language,2
+Parser,/en/parser,0,,0
+Hume,/wikipedia/en_title/Hume_$0028programming_language$0029,0,Functional programming,1
+UnrealScript,/en/unrealscript,0,Generic programming; Object-oriented programming,2
+O-Matrix,/en/o-matrix,0,,0
+Hugo,/en/hugo_programming_language,0,Object-oriented programming; Procedural programming,2
+Oberon-2,/en/oberon-2,1,Imperative programming; Modular programming; Object-oriented programming; Structured programming,4
+NESL,/en/nesl,0,Array programming; Functional programming,2
+OPS5,/en/ops5,2,,0
+CMusic,/en/cmusic,0,,0
+Etoys,/en/etoys,1,Educational programming language; Object-oriented programming; Prototype-based programming,3
+Frink,/en/frink,0,Functional programming; Imperative programming; Object-oriented programming; Procedural programming,4
+ZZT-oop,/en/zzt-oop,0,Object-oriented programming,1
+Refal,/wikipedia/ru/$0420$0415$0424$0410$041B,0,Functional programming,1
+Orc,/wikipedia/en_title/Orc_$0028programming_language$0029,0,Concurrent computing,1
+PILOT,/en/pilot,0,,0
+Lisp renaissance,/en/lisp_renaissance,0,,0
+bc,/en/bc_programming_language,0,,0
+STOIC,/en/stoic,0,,0
+SMX,/en/smx,0,,0
+Snostorm,/en/snostorm,0,,0
+Whitespace,/wikipedia/it_id/2054877,0,,0
+Unlambda,/en/unlambda,0,Functional programming,1
+Hierarchical Music Specification Language,/en/hierarchical_music_specification_language,0,,0
+Timber,/wikipedia/en_title/Timber_$0028programming_language$0029,0,,0
+IDL,/en/idl_programming_language,0,Array programming,1
+CorbaScript,/en/corbascript,0,Object-oriented programming,1
+Mouse,/wikipedia/en_title/Mouse_$0028programming_language$0029,0,,0
+MetaL,/wikipedia/en_title/MetaL_$0028programming_language$0029,0,Comparison of multi-paradigm programming languages; Functional programming; Imperative programming; Logic programming; Object-oriented programming,5
+PWB shell,/en/pwb_shell,0,,0
+Io,/wikipedia/de_id/216742,5,Object-oriented programming; Prototype-based programming,2
+Judoscript,/en/judoscript,0,Object-oriented programming,1
+rex,/wikipedia/en_title/Rex_$0028programming_language$0029,0,Functional programming,1
+Vala,/wikipedia/it/Vala_$0028linguaggio$0029,0,Imperative programming; Object-oriented programming; Structured programming,3
+VisSim,/en/vissim,0,Visual programming language,1
+Visual DialogScript,/en/visual_dialogscript,0,,0
+Synthesis Toolkit,/en/synthesis_toolkit,0,,0
+Neko,/wikipedia/fr/Neko_$0028langage$0029,0,Object-oriented programming; Prototype-based programming; Structured programming,3
+TeXCAD,/en/texcad,0,,0
+C++/CLI,/en/cplusplus_cli,0,,0
+Lustre,/en/lustre_programming_language,0,,0
+Tom,/wikipedia/pt_id/1981314,0,,0
+Identity transform,/en/identity_transform,0,,0
+IMTEK Mathematica Supplement,/en/imtek_mathematica_supplement,0,,0
+PeRColate,/en/percolate,0,,0
+MIIS,/en/miis_programming_language,0,,0
+ISWIM,/en/iswim,6,Functional programming; Imperative programming,2
+Varuq,/en/varaq,0,,0
+Z programming language,/en/z_programming_language,0,Stack-oriented programming language,1
+O'Haskell,/en/ohaskell,0,Functional programming; Object-oriented programming,2
+Haskore,/en/haskore,0,,0
+Hindawi Programming System,/en/hindawi_programming_system,0,,0
+F#,/en/f_sharp_programming_language,3,Comparison of multi-paradigm programming languages; Concurrent computing; Functional programming; Imperative programming; Object-oriented programming; Type inference,6
+MUSIC-N,/en/music-n,0,,0
+S-Lang,/en/s-lang,0,Imperative programming; Procedural programming,2
+JSyn,/en/jsyn,0,,0
+Snowball,/en/snowball_programming_language,0,,0
+Abundance,/m/09trtv,0,Stack-oriented programming language,1
+Real-time Cmix,/en/real-time_cmix,0,,0
+NIL,/wikipedia/en_title/NIL_$0028programming_language$0029,0,Comparison of multi-paradigm programming languages; Functional programming; Procedural programming,3
+Symbolic Sound Corporation,/en/symbolic_sound_corporation,0,,0
+Befunge,/en/befunge,1,Stack-oriented programming language,1
+S,/en/s_programming_language,1,Imperative programming; Object-oriented programming,2
+Moto programming language,/en/moto_programming_language,0,,0
+COMSOL Script,/en/comsol_script,0,,0
+Inform,/en/inform,0,Declarative programming; Logic programming; Object-oriented programming; Procedural programming,4
+Agilent VEE,/en/agilent_vee,0,,0
+Object Constraint Language,/en/object_constraint_language,0,,0
+Parakeet,/en/parakeet_programming_language,0,,0
+XL,/en/xl_programming_language,0,Imperative programming,1
+Stateflow,/en/stateflow,0,,0
+Revolution,/wikipedia/en_title/Revolution_$0028development_environment$0029,0,,0
+Q,/en/q_programming_language,1,Comparison of multi-paradigm programming languages; Functional programming; Object-oriented programming,3
+FCode,/en/fcode,0,,0
+newLISP,/en/newlisp,0,,0
+MDL,/en/mdl_programming_language,1,,0
+ABAP,/en/abap,0,Imperative programming; Object-oriented programming; Structured programming,3
+ChucK,/en/chuck,0,Comparison of multi-paradigm programming languages,1
+MetaPost,/en/metapost,1,Imperative programming,1
+Promela,/en/promela,0,,0
+ZPL,/en/zpl_programming_language,1,Array programming,1
+V,/m/02vmlcq,0,Comparison of multi-paradigm programming languages; Functional programming; Stack-oriented programming language,3
+Bidule,/en/bidule,0,,0
+Game Maker Language,/en/game_maker_language,0,Event-driven programming; Imperative programming; Object-oriented programming,3
+Euler,/en/euler_programming_language,0,Imperative programming; Procedural programming; Structured programming,3
+HyperTalk,/en/hypertalk,3,Procedural programming,1
+TXL,/en/txl,0,Functional programming,1
+EC,/m/03d00x7,0,,0
+FALSE,/en/false,2,,0
+ColdC,/en/coldc,0,Prototype-based programming,1
+FRACTRAN,/en/fractran,0,Functional programming,1
+NumPy,/en/numerical_python,0,,0
+Yorick,/en/yorick_programming_language,0,,0
+RPython,/en/rpython,0,,0
+Query by Example,/en/query_by_example,0,,0
+Aikido Programming Language,/en/aikido_programming_language,0,Imperative programming; Object-oriented programming,2
+wxWidgets,/en/wxwidgets,0,,0
+Heron,/m/040_6qz,0,,0
+SKI combinator calculus,/en/ski_combinator_calculus,1,,0
+Processing,/en/processing,0,Object-oriented programming,1
+Design By Numbers,/en/design_by_numbers,1,,0
+APL\360,/en/apl_360,0,,0
+I-APL,/en/i_apl,0,,0
+APL*PLUS,/m/045m83k,0,,0
+APL2,/en/apl2,0,,0
+PL/pgSQL,/en/pl_pgsql,0,Imperative programming,1
+Applesoft BASIC,/en/applesoft_basic,0,,0
+R,/wikipedia/pt/R_$0028linguagem_de_programa$00E7$00E3o$0029,2,Array programming; Functional programming; Imperative programming; Object-oriented programming; Procedural programming,5
+A Graphics Language,/en/a_graphics_language,0,,0
+ABLE,/en/able,0,,0
+ATLAS Transformation Language,/en/atlas_transformation_language,0,,0
+ATOLL,/en/atoll_programming_language,0,,0
+Abbreviated Test Language for All Systems,/en/abbreviated_test_language_for_avionics_systems,0,,0
+Advanced Continuous Simulation Language,/en/advanced_continuous_simulation_language,0,,0
+Ana,/wikipedia/en_title/Ana_$0028programming_language$0029,0,,0
+Apple Media Tool,/en/apple_media_tool,0,,0
+Asymptote,/wikipedia/it/Asymptote,0,Imperative programming,1
+AutoLISP,/en/autolisp,0,,0
+BANCStar programming language,/en/bancstar_programming_language,0,,0
+BEFLIX,/en/beflix,0,,0
+BUGSYS,/en/bugsys,0,,0
+BuildProfessional,/en/buildprofessional,0,,0
+CLIPS,/en/clips_programming_language,1,,0
+CMS-2,/en/cms-2_programming_language,0,,0
+COMIT,/en/comit,1,,0
+Camlp4,/en/camlp4,1,,0
+Clarion,/en/clarion_programming_language,0,,0
+Collaborative human interpreter,/en/collaborative_human_interpreter,0,,0
+CyberQuery,/en/cyberquery,0,,0
+Datapoint's Advanced Systems Language,/en/dasl_programming_language,0,,0
+Distributed Application Specification Language,/wikipedia/en_title/Distributed_Application_Specification_Language,0,,0
+DataFlex,/en/dataflex,0,,0
+Eltron Programming Language,/en/eltron_programming_language,0,,0
+Emios,/en/emios,0,,0
+Escapade,/en/escapade,0,,0
+EusLisp Robot Programming Language,/en/euslisp_robot_programming_language,0,Object-oriented programming,1
+FOCUS,/en/focus,0,,0
+FOURGEN,/en/fourgen,0,,0
+Focal,/wikipedia/de_id/4070649,0,,0
+FourGen CASE Tools,/en/fourgen_case_tools,0,,0
+Fuzzy Control Language,/en/fuzzy_control_language,0,,0
+G-code,/en/g-code,0,,0
+GReAT,/en/great,0,,0
+Geometric Description Language,/en/geometric_description_language,0,,0
+Grammar-oriented programming,/en/grammar-oriented_programming,0,,0
+HPGL,/en/hpgl,0,,0
+Harbour,/en/harbour_compiler,1,Functional programming; Imperative programming; Object-oriented programming,3
+Inform version history,/en/history_of_inform_releases,0,,0
+HyperCard,/en/hypercard,3,,0
+IBM Informix-4GL,/en/informix-4gl,0,,0
+IEC 61131-3,/en/iec_61131-3,0,,0
+Interpress,/en/interpress,1,,0
+Job Control Language,/en/job_control_language,1,,0
+Job entry control language,/en/jecl,0,,0
+Krypton,/en/krypton,0,Frame language; Knowledge Representation Language,2
+Kermeta,/en/kermeta,0,,0
+Lego Logo,/en/lego_logo,0,,0
+Loco,/m/062bml,0,,0
+M2M,/wikipedia/en_title/M2M_$0028Eclipse$0029,0,,0
+mIRC scripting language,/en/mirc_script,0,Event-driven programming; Functional programming; Procedural programming,3
+MIVA Script,/en/mivascript,0,Imperative programming,1
+MLisp,/en/mlisp,1,,0
+Macaulay computer algebra system,/en/macaulay_computer_algebra_system,0,,0
+Maya Embedded Language,/en/maya_embedded_language,0,,0
+Mocklisp,/en/mocklisp,0,,0
+Model transformation language,/en/model_transformation_language,0,,0
+Model transformation,/en/model_transformation,0,,0
+Model-driven architecture,/en/model-driven_architecture,0,,0
+Model-driven integration,/en/model_driven_integration,0,,0
+Modelling of General Systems,/en/modelling_of_general_systems,0,,0
+OCAL,/en/ocal,0,,0
+ObjectPAL,/en/objectpal,0,,0
+OmniMark,/en/omnimark,0,,0
+Operational Control Language,/en/operational_control_language,0,,0
+PFXplus,/en/pfxplus,0,,0
+POPS,/en/pops,0,,0
+Page description language,/en/page_description_language,0,,0
+Pantalk,/en/pantalk,0,,0
+Paradiseo,/en/paradiseo,0,,0
+Petriscript,/en/petriscript,0,,0
+QUIKSCRIPT,/wikipedia/en_title/QUIKSCRIPT,0,,0
+QVT,/en/qvt,0,,0
+QuakeC,/en/quakec,0,Imperative programming; Procedural programming; Structured programming,3
+RTML,/en/rtml,0,,0
+SIMCOS,/en/simcos,0,,0
+Shorthand Language,/en/shorthand_language,0,,0
+Simkin,/en/simkin,0,,0
+TACPOL,/en/tacpol_programming_language,0,,0
+TADS,/en/tads,0,Prototype-based programming,1
+TSP,/en/tsp,0,,0
+Tefkat,/en/tefkat,0,,0
+Cocoa,/wikipedia/it_id/49970,0,,0
+2.PAK,/en/2_pak,0,,0
+20-GATE,/en/20-gate,0,,0
+3APL,/en/3apl,0,,0
+473L Query,/en/473l_query,0,,0
+51-FORTH,/en/51-forth,0,,0
+A#,/en/a_sharp,0,,0
+A-0 System,/en/a-0_programming_language,0,,0
+ABC ALGOL,/en/abc_algol,0,,0
+ACC,/en/acc_programming_language,0,,0
+Accent,/en/accent_programming_language,0,,0
+Action Code Script,/en/action_code_script,0,,0
+Algebraic Interpretive Dialogue,/en/algebraic_interpretive_dialogue,0,,0
+AIMMS,/en/aimms,0,,0
+Cleverpath AION Business Rules Expert,/en/cleverpath_aion_business_rules_expert,0,,0
+IBM Basic assembly language and successors,/en/basic_assembly_language,0,,0
+Algae programming language,/en/algae_programming_language,0,,0
+Alphard,/en/alphard_programming_language,0,,0
+Amiga E,/en/amigae,0,,0
+AMOS,/en/amos_basic,0,Imperative programming; Procedural programming,2
+AMPL,/en/ampl,0,Declarative programming; Imperative programming,2
+ApeScript,/en/apescript,0,,0
+Apply,/en/apply,0,,0
+ARexx,/en/arexx,0,,0
+ARS++,/en/arsplusplus,0,,0
+Abstract State Machine Language,/en/abstract_state_machine_language,0,Functional programming,1
+Autocoder,/en/autocoder,0,,0
+AutoIt,/en/autoit,1,,0
+Averest,/en/averest,0,,0
+B,/en/b_programming_language,1,Procedural programming,1
+BCompile,/en/bcompile,0,,0
+BeanShell,/en/beanshell,0,Object-oriented programming,1
+BETA,/en/beta,0,Object-oriented programming,1
+Bigwig,/wikipedia/en_title/Bigwig_$0028programming_language$0029,0,,0
+Blitz BASIC,/en/blitz_basic,0,Imperative programming; Object-oriented programming,2
+Blue,/en/blue_programming_language,0,,0
+Dream Maker,/en/byond,0,,0
+Caché ObjectScript,/en/cache_objectscript,0,Database programming; Object-oriented programming,2
+Cayenne,/en/cayenne_programming_language,0,Functional programming,1
+Cesil,/en/cesil,0,,0
+Cg,/en/cg_programming_language,0,,0
+Chapel,/en/chapel_programming_language,0,Concurrent computing; Object-oriented programming; Parallel computing,3
+CHAIN,/wikipedia/en_title/CHAIN_$0028programming_language$0029,0,,0
+Charity,/en/charity_programming_language,0,Functional programming,1
+Chef,/wikipedia/ru/Chef,0,,0
+CHILL,/en/chill,0,Procedural programming,1
+CICS,/en/cics,0,,0
+CL,/m/02x9y83,0,,0
+CLIST,/en/clist,0,,0
+CobolScript,/en/cobolscript,0,,0
+Cobra,/wikipedia/en_title/Cobra_$0028programming_language$0029,0,Comparison of multi-paradigm programming languages; Object-oriented programming,2
+ColdFusion Markup Language,/en/coldfusion_markup_language,0,Imperative programming; Object-oriented programming,2
+Common Intermediate Language,/en/common_intermediate_language,1,Stack-oriented programming language,1
+Component Pascal,/en/component_pascal,0,Imperative programming; Modular programming; Object-oriented programming; Structured programming,4
+Coral 66,/en/coral66_programming_language,0,Imperative programming; Procedural programming; Structured programming,3
+CorVision,/en/corvision,0,,0
+COWSEL,/en/cowsel,1,,0
+Csound,/en/csound,0,,0
+Cyclone,/en/cyclone_programming_language,1,,0
+Dao Language,/en/dao_language,0,Comparison of multi-paradigm programming languages; Object-oriented programming,2
+DarkBASIC,/en/darkbasic,0,,0
+Datalog,/en/datalog,2,Logic programming,1
+Deesel,/en/deesel,0,,0
+Dialect,/wikipedia/pt/Dialect_$0028linguagem_de_programa$00E7$00E3o$0029,0,Object-oriented programming,1
+DIGITAL Command Language,/en/digital_command_language,1,Imperative programming,1
+EASY,/en/easy,0,,0
+Einstein,/m/043mmnj,0,,0
+EGL,/en/enterprise_generation_language,0,,0
+Esterel,/en/esterel,0,,0
+Euclid,/en/euclid_programming_language,3,Comparison of multi-paradigm programming languages; Functional programming; Imperative programming; Structured programming,4
+CMS EXEC,/en/cms_exec,0,,0
+EXEC 2,/en/exec_2,2,,0
+F,/en/f_programming_language,0,,0
+Felix,/en/felix_programming_language,0,Functional programming; Imperative programming; Object-oriented programming,3
+Focal,/en/focal,0,,0
+FORMAC,/en/formac_programming_language,0,,0
+Formula language,/en/formula_language,0,Functional programming,1
+Fortress,/en/fortress_programming_language,0,Concurrent computing; Parallel computing,2
+Gibiane,/en/gibiane,0,,0
+GPSS,/en/gpss,0,,0
+GRASS,/en/grass_programming_language,0,,0
+The Green Object Oriented Language,/en/the_green_object_oriented_language,1,Object-oriented programming,1
+IBM HAScript,/en/hascript,0,,0
+Hardware description language,/en/hardware_description_language,0,,0
+Hoc,/wikipedia/en_title/Hoc_$0028programming_language$0029,0,,0
+ICI,/en/ici_programming_language,0,,0
+Information Processing Language,/en/information_processing_language,1,,0
+INTERCAL,/en/intercal,0,,0
+IPTSCRAE,/en/iptscrae,0,,0
+ISPF,/en/ispf,0,,0
+Visual J++,/en/visual_jplusplus,1,,0
+JAL,/en/jal,0,,0
+JOVIAL,/en/jovial,2,Imperative programming; Procedural programming; Structured programming,3
+Kiev programming language,/en/kiev_programming_language,0,,0
+Kent Recursive Calculator,/en/kent_recursive_calculator,2,Functional programming,1
+L programming language,/en/l_programming_language,0,Functional programming,1
+Lagoona,/en/lagoona_programming_language,0,,0
+LANSA,/en/lansa,0,,0
+Limnor,/en/limnor,0,,0
+Lingo,/en/lingo_programming_language,0,,0
+Lisaac,/en/lisaac,0,Object-oriented programming; Prototype-based programming,2
+m4,/en/m4,0,,0
+MAD,/en/mad_programming_language,0,Imperative programming,1
+MapBasic,/en/mapbasic,0,,0
+MARK IV,/en/mark_iv,0,,0
+Microassembler,/en/microassembler,0,,0
+MicroScript programming language,/en/microscript_programming_language,0,,0
+Moby,/en/moby_programming_language,0,,0
+Model 204,/en/model_204,0,,0
+Mortran,/en/mortran,0,,0
+Napier88,/en/napier88,1,,0
+NATURAL,/en/natural,0,,0
+NGL,/en/ngl_programming_language,0,,0
+Nickle,/en/nickle_programming_language,0,Comparison of multi-paradigm programming languages,1
+Not Quite C,/en/nqc,0,,0
+Object Lisp,/en/object_lisp,0,Object-oriented programming,1
+ObjectLOGO,/en/objectlogo,0,Object-oriented programming,1
+Obliq,/en/obliq_programming_language,0,Comparison of multi-paradigm programming languages; Parallel computing; Prototype-based programming,3
+occam-π,/wikipedia/en_title/Occam-$03C0,0,,0
+Opal,/en/opal_programming_language,0,Functional programming,1
+Parsing,/en/parsing,0,,0
+Pawn,/wikipedia/pt/Pawn,0,,0
+PBASIC,/en/pbasic,0,,0
+PCASTL,/en/pcastl,0,Imperative programming,1
+Polymorphic Programming Language,/en/polymorphic_programming_language,0,,0
+POP-11,/en/pop-11,0,,0
+PowerBASIC,/en/powerbasic,1,Object-oriented programming; Procedural programming; Structured programming,3
+PROIV,/en/pro-iv,0,,0
+QtScript,/en/qt_script_for_applications,0,,0
+Quantum programming,/en/quantum_programming,0,,0
+Ratfiv,/en/ratfiv,0,,0
+Ratfor,/en/ratfor,0,,0
+Redcode,/en/redcode,0,,0
+LiveCode,/en/revolution_programming_language,0,Object-oriented programming,1
+IBM RPG,/en/rpg_programming_language,1,Comparison of multi-paradigm programming languages,1
+RPL,/en/rpl_programming_language,0,Stack-oriented programming language; Structured programming,2
+S2,/en/s2_programming_language,0,Object-oriented programming,1
+SAM76,/en/sam76,0,,0
+Script.NET,/en/script_net,0,Imperative programming,1
+SETL,/en/setl,3,Comparison of multi-paradigm programming languages; Imperative programming; Object-oriented programming; Procedural programming; Structured programming,5
+SiMPLE,/wikipedia/en_title/SiMPLE,0,,0
+SIMSCRIPT,/en/simscript,0,,0
+Slate programming language,/en/slate_programming_language,0,Prototype-based programming,1
+SLIP,/en/slip_programming_language,0,,0
+Spice programming language,/en/spice_programming_language,0,,0
+Spin,/m/0275kj0,0,,0
+IBM 1620,/en/ibm_1620,0,,0
+S/SL programming language,/en/s_sl_programming_language,0,,0
+Suneido programming language,/en/suneido_programming_language,0,,0
+SYMPL,/en/sympl,0,,0
+SyncCharts,/en/synccharts,0,,0
+TACL,/en/tacl,0,,0
+Tensilica Instruction Extension,/en/tensilica_instruction_extension,0,,0
+Transaction Application Language,/en/transaction_application_language,0,,0
+CA-Telon,/en/ca_telon,0,,0
+thinBasic,/en/thinbasic,0,,0
+TI-BASIC,/en/ti-basic,0,,0
+TOM,/wikipedia/en_title/TOM_$0028object-oriented_programming_language$0029,0,Object-oriented programming,1
+DEC Text Processing Utility,/en/text_processing_utility,0,,0
+TRAC,/en/trac_programming_language,1,,0
+TTCN,/en/ttcn,0,,0
+D,/wikipedia/ja_id/1400992,0,,0
+Uniface,/wikipedia/fr/Uniface,0,,0
+Use,/en/use,0,,0
+Verilog,/en/verilog,2,Structured programming,1
+VHDL,/en/vhsic_hardware_description_language,0,,0
+Visual Assembler,/en/visual_assembler,0,,0
+Visual DataFlex,/en/visual_dataflex,0,,0
+WATFIV,/en/watfiv_programming_language,0,,0
+WebQL,/en/webql,0,,0
+Winbatch,/en/winbatch,0,,0
+WinDev,/en/windev,0,,0
+X10,/wikipedia/ru/X10_$0028$044F$0437$044B$043A_$043F$0440$043E$0433$0440$0430$043C$043C$0438$0440$043E$0432$0430$043D$0438$044F$0029,0,Concurrent computing; Object-oriented programming; Parallel computing,3
+XQuery,/en/xquery,0,Declarative programming; Functional programming; Modular programming,3
+Y programming language,/en/y_programming_language,0,,0
+Z++,/en/zplusplus,0,Object-oriented programming,1
+Z notation,/en/z_notation,1,,0
+ZOPL,/en/zopl,0,,0
+Extensible Application Markup Language,/en/xaml,1,,0
+MXML,/en/mxml,0,,0
+Unified Modeling Language,/en/unified_modeling_language,0,,0
+Language Integrated Query,/en/language_integrated_query,0,,0
+Lazy ML,/en/lazy_ml,1,Functional programming; Lazy evaluation,2
+SPITBOL compiler,/en/spitbol_compiler,0,,0
+High Performance Fortran,/en/high_performance_fortran,1,,0
+eZ Template language,/en/ez_template_language,0,,0
+TeX,/en/tex,1,,0
+Alpha,/m/04_6bg9,0,,0
+Communicating sequential processes,/en/communicating_sequential_processes,5,,0
+x86 assembly language,/en/x86_assembly_language,0,,0
+Bon,/en/bon_programming_language,0,,0
+Lilith programming language,/en/lilith_programming_language,0,,0
+Pop,/m/051rmx5,0,,0
+Object Query Language,/en/object_query_language,0,Database programming,1
+Digital Standard MUMPS,/en/digital_standard_mumps,0,,0
+Micronetics Standard MUMPS,/en/micronetics_standard_mumps,0,,0
+Parlog,/en/parlog,0,,0
+Raven,/m/05bq496,0,Concatenative programming language,1
+Enchilada,/m/05bq49g,0,Concatenative programming language,1
+Staapl,/en/staapl,0,Concatenative programming language,1
+Short Code,/wikipedia/ja/Short_Code_$0028$30D7$30ED$30B0$30E9$30DF$30F3$30B0$8A00$8A9E$0029,0,,0
+Tea,/en/tea_programming_language,0,Functional programming; Object-oriented programming,2
+BitC,/en/bitc,0,Functional programming,1
+CHIP,/en/chip_programming_language,0,,0
+L# .NET,/en/l_sharp,0,,0
+Programming Computable Functions,/en/programming_language_for_computable_functions,0,Functional programming,1
+o:XML,/en/o_xml,0,,0
+NWScript,/en/nwscript,0,,0
+Thue,/en/thue,0,,0
+Lithe,/en/lithe_programming_language,0,,0
+ProSet,/en/proset,0,,0
+SETL2,/en/setl2,0,,0
+ConTeXt,/en/context,0,,0
+Hope,/en/hope_programming_language,4,Functional programming,1
+Agora,/en/agora_programming_language,0,,0
+APLX,/en/aplx,0,,0
+FP84,/en/fp84,0,,0
+FFP programming language,/en/ffp_programming_language,0,,0
+M2001,/en/m2001,0,,0
+ALGOL N,/en/algol_n,0,,0
+NPL,/en/npl_programming_language,0,Functional programming,1
+POP-2,/en/pop-2,0,,0
+Qu,/en/qu,0,,0
+Unified Parallel C,/en/unified_parallel_c,1,Imperative programming; Parallel computing; Procedural programming; Structured programming,4
+OBJ2,/en/obj2,0,,0
+Object Oberon,/en/object_oberon,1,Object-oriented programming,1
+Object-Oriented Turing,/en/object-oriented_turing,0,Comparison of multi-paradigm programming languages; Concurrent computing; Object-oriented programming; Procedural programming,4
+ObjVlisp,/en/objvlisp,1,,0
+Le Lisp,/en/le_lisp,1,,0
+CHIP-8,/en/chip-8,0,,0
+GameMonkey Script,/en/gamemonkey_script,0,,0
+KiXtart,/en/kixtart,0,,0
+DG scripts,/en/dg_scripts,0,,0
+Autocode,/en/autocode,0,,0
+Span,/en/span_programming_language,0,,0
+Converge,/en/converge_pl,0,,0
+CAL,/en/cal_programming_language,0,,0
+Twelf,/en/twelf,0,,0
+ZetaLisp,/en/zetalisp,0,,0
+SAC programming language,/en/sac_programming_language,0,Array programming; Functional programming,2
+Versus programming language,/en/versus_programming_language,0,,0
+Compact Application Solution Language,/en/compact_application_solution_language,0,Object-oriented programming,1
+Linoleum,/en/linoleum_programming_language,0,Procedural programming,1
+Indus programming language,/en/indus_programming_language,0,,0
+SALSA,/en/salsa_programming_language,0,Actor model,1
+MacroML,/en/macroml,0,,0
+Prova,/en/prova,0,,0
+Croma,/en/croma,0,,0
+Fril,/en/fril,0,Logic programming,1
+"""A♯ (Axiom)""",/wikipedia/en_title/A_Sharp_$0028Axiom$0029,1,Functional programming; Object-oriented programming,2
+Brown University Interactive Language,/en/brown_university_interactive_language,0,,0
+IpTables Rope,/en/iptables_rope,0,,0
+Nyquist,/en/nyquist,0,,0
+Moscow ML,/en/moscow_ml,0,,0
+Eager Haskell,/en/eager_haskell,0,,0
+FAUST,/wikipedia/de_id/3833235,0,,0
+S-algol,/en/s-algol,0,,0
+SCAR programming language,/en/scar_programming_language,0,,0
+Haxe,/en/haxe,0,Comparison of multi-paradigm programming languages,1
+ARITH-MATIC,/en/arith-matic,0,,0
+Shakespeare,/wikipedia/fr_id/2743615,0,,0
+Oblog,/en/oblog,0,,0
+QUIKTRAN,/en/quiktran,0,,0
+C*,/wikipedia/en_title/C$002A,0,Comparison of multi-paradigm programming languages; Imperative programming; Object-oriented programming; Parallel computing,4
+LYaPAS,/en/lyapas,0,,0
+XPL0,/en/xpl0,0,,0
+Net.Data,/en/net_data,0,,0
+JFugue,/en/jfugue,0,,0
+chomski,/en/chomski,0,,0
+Rpal,/en/rpal,0,,0
+Sigmac,/en/sigmac,0,,0
+AIS Balise,/en/ais_balise,0,,0
+PROC procedure language,/en/proc_procedure_language,0,,0
+Q,/wikipedia/en_title/Q_$0028programming_language_from_Kx_Systems$0029,1,Array programming; Functional programming,2
+Join-calculus,/en/join-calculus_programming_language,0,,0
+PerlScript,/en/perlscript,0,,0
+Bsisith,/en/bsisith,0,,0
+Microsoft Visual C#,/en/microsoft_visual_c_sharp,0,,0
+Cobra,/m/0fkk97,0,Procedural programming,1
+COFFEE,/wikipedia/en_title/COFFEE_$0028Cinema_4D$0029,0,,0
+Texvc,/en/texvc,0,,0
+SimPy,/en/simpy,0,,0
+MATH-MATIC,/en/math-matic,0,,0
+AMPLE,/en/ample,0,,0
+Malbolge,/en/malbolge,0,,0
+HAL/S,/en/hal_s,1,,0
+Programming Language for Business,/en/programming_language_for_business,0,,0
+IBM RPG II,/en/rpg_ii,0,,0
+AS/400 Control Language,/en/as_400_control_language,1,Imperative programming,1
+Subset-equational language,/en/subset-equational_language,0,,0
+MINC,/en/minc,0,,0
+Draco,/wikipedia/en_title/Draco_$0028programming_language$0029,0,Imperative programming; Procedural programming; Structured programming,3
+PL-11,/en/pl-11,0,,0
+Template Haskell,/en/template_haskell,0,,0
+MUF,/en/muf,2,Procedural programming; Stack-oriented programming language,2
+Message Parsing Interpreter,/en/message_parsing_interpreter,0,,0
+Lispkit Lisp,/en/lispkit_lisp,0,,0
+Cola,/en/cola_programming_language,0,,0
+Jako,/wikipedia/en_title/Jako_$0028programming_language$0029,0,,0
+Larch family,/en/larch_family,0,,0
+Property Specification Language,/en/property_specification_language,0,,0
+XyMTeX,/en/xymtex,0,,0
+Iota and Jot,/en/iota_and_jot,0,,0
+ISLISP,/en/islisp,0,,0
+SketchUp Ruby,/en/sketchup_ruby,0,,0
+Arc,/wikipedia/ru_id/2247840,0,Comparison of multi-paradigm programming languages; Functional programming; Procedural programming,3
+Concurrent Euclid,/en/concurrent_euclid,1,Comparison of multi-paradigm programming languages; Functional programming; Imperative programming; Structured programming,4
+Specification and Description Language,/en/specification_and_description_language,0,,0
+Flapjax,/en/flapjax,0,,0
+S-1 Lisp,/en/s_1_lisp,0,,0
+Ox programming language,/en/ox_programming_language,0,,0
+Turing+,/en/turing_plus,1,Comparison of multi-paradigm programming languages; Concurrent computing; Object-oriented programming; Procedural programming,4
+CFScript,/en/cfscript,0,,0
+Nord Programming Language,/en/nord_programming_language,0,,0
+PC-LISP,/en/pc_lisp,0,,0
+ECL programming language,/en/ecl_programming_language,0,,0
+SA-C,/en/sa_c_programming_language,0,,0
+SenseTalk,/en/sensetalk,0,,0
+Blueprint,/m/027y3_j,0,Comparison of multi-paradigm programming languages,1
+Assertion definition language,/en/assertion_definition_language,0,,0
+ARC Macro Language,/en/arc_macro_language,0,,0
+Obol,/en/obol,0,,0
+Quartz Composer,/en/quartz_composer,0,,0
+PROGOL,/en/progol,0,,0
+Concurrent Pascal,/en/concurrent_pascal,2,,0
+Arbol,/en/arbol,0,,0
+OTcl,/en/otcl,1,Object-oriented programming,1
+DRAKON,/en/drakon,0,,0
+Omega,/m/02p_hks,0,,0
+Interactive ALGOL 68,/en/interactive_algol_68,0,,0
+MiniD,/en/minid,0,Comparison of multi-paradigm programming languages; Imperative programming; Object-oriented programming,3
+BlooP and FlooP,/en/bloop_and_floop_programming_languages,0,,0
+Dartmouth BASIC,/en/dartmouth_basic,0,Imperative programming,1
+Lasso,/en/lasso_programming_language,0,Concurrent computing; Database programming; Imperative programming; Markup language; Object-oriented programming; Procedural programming; Structured programming,7
+KM,/en/km_programming_language,0,Knowledge Representation Language,1
+SabreTalk,/en/sabretalk,0,,0
+LOLCODE,/en/lolcode,1,,0
+Protel,/en/protel,0,,0
+S3,/wikipedia/en_title/S3_$0028programming_language$0029,0,Imperative programming; Structured programming,2
+C/AL,/en/c_al,0,,0
+SISC,/wikipedia/en_title/SISC,0,,0
+Cool,/wikipedia/en_title/Cool_$0028programming_language$0029,0,Object-oriented programming,1
+JAWS Scripting Language,/en/jaws_scripting_language,0,,0
+Smalltalk YX,/en/smalltalk_yx,0,Object-oriented programming,1
+Nu,/wikipedia/en_title/Nu_$0028programming_language$0029,0,Imperative programming; Object-oriented programming; Structured programming,3
+Armed Bear Common Lisp,/en/armed_bear_common_lisp,0,,0
+Euphoria,/en/euphoria_programming_language,0,Imperative programming,1
+Abstract-Type and Scheme-Definition Language,/en/abstract-type_and_scheme-definition_language,0,,0
+IronLisp,/en/ironlisp,0,,0
+LISP 2,/en/lisp_2,0,,0
+Kvikkalkul,/en/kvikkalkul,0,,0
+KISS,/wikipedia/en_title/KISS_$0028system$0029,0,,0
+Micro programming language,/en/micro_programming_language,0,,0
+Baby modula-3,/en/baby_modula_3,0,,0
+Escher,/en/escher,0,Declarative programming; Functional programming; Logic programming,3
+Orwell,/wikipedia/en_title/Orwell_$0028programming_language$0029,1,Functional programming; Lazy evaluation,2
+VLISP,/wikipedia/fr_id/2863687,0,,0
+Clojure,/en/clojure,1,Comparison of multi-paradigm programming languages; Concurrent computing; Functional programming,3
+Lynx,/en/lynx_programming_language,0,,0
+Generalized Automation Language,/en/generalized_automation_language,0,,0
+LSE,/wikipedia/fr_id/621044,0,,0
+PL360,/en/pl360,0,,0
+Python for S60,/en/python_for_s60,0,Comparison of multi-paradigm programming languages; Functional programming; Imperative programming; Object-oriented programming,4
+Tiny programming language,/en/tiny_programming_language,0,,0
+MST Workshop,/en/mst_workshop,0,,0
+Tersus,/en/tersus,0,,0
+QUILL,/wikipedia/en_title/QUILL,0,Declarative programming; Object-oriented programming,2
+XMTC,/en/xmtc,0,,0
+Dript,/en/dript,0,,0
+LIS,/en/lis_programming_language,0,,0
+CGOL,/en/cgol,0,Imperative programming; Procedural programming; Structured programming,3
+CLforJava,/en/clforjava,0,,0
+Id,/wikipedia/en_title/Id_$0028programming_language$0029,1,,0
+PGF/TikZ,/en/pgf_tikz,0,,0
+Fantom,/wikipedia/ja_id/2086305,0,Comparison of multi-paradigm programming languages,1
+MVEL,/en/mvel,0,,0
+Turtle Talk,/en/turtle_talk,0,,0
+Objective-J,/en/objective_j,0,Comparison of multi-paradigm programming languages; Functional programming; Imperative programming; Object-oriented programming,4
+NS Basic,/en/ns_basic,0,,0
+PLEXIL,/en/plexil,0,Comparison of multi-paradigm programming languages,1
+DECLAN Pro,/en/declan_pro,0,,0
+M,/wikipedia/de_id/3908212,0,,0
+Scieneer Common Lisp,/en/scieneer_common_lisp,0,,0
+Ioke,/en/ioke,0,Object-oriented programming; Prototype-based programming,2
+PointDragon,/en/pointdragon,0,,0
+Kaya,/m/04yf9ks,0,,0
+FACT,/en/fact_computer_language,1,Imperative programming; Procedural programming,2
+Pure,/wikipedia/en_title/Pure_$0028programming_language$0029,0,Declarative programming; Functional programming,2
+Scriptol,/en/scriptol,0,Object-oriented programming,1
+Mudlle,/en/mudlle,0,Functional programming,1
+ATS,/wikipedia/ru/ATS_$0028$044F$0437$044B$043A_$043F$0440$043E$0433$0440$0430$043C$043C$0438$0440$043E$0432$0430$043D$0438$044F$0029,0,Comparison of multi-paradigm programming languages; Functional programming; Imperative programming,3
+ThingLab,/en/thinglab,0,,0
+Lapis,/en/lapis_language,0,,0
+PowerHouse,/en/powerhouse_programming_language,0,,0
+Fabrik,/en/fabrik,0,,0
+Hot Soup Processor,/en/hot_soup_processor,0,Imperative programming; Procedural programming,2
+Kaleidoscope,/en/kaleidoscope_programming_language,0,,0
+λProlog,/wikipedia/en_title/$039BProlog,0,,0
+Lisp Machine Lisp,/en/lisp_machine_lisp,1,,0
+SIMSCRIPT II.5,/en/simscript_ii_5,0,,0
+Little b,/en/little_b,0,Functional programming; Object-oriented programming,2
+PLANC,/en/planc,0,,0
+P#,/en/p_sharp,0,,0
+XSB,/en/xsb,0,Logic programming,1
+Variable Assembly Language,/en/variable_assembly_language,0,,0
+Fuxi Programming Language,/en/fuxi_programming_language,0,Declarative programming; Object-oriented programming,2
+Cadence SKILL,/en/cadence_skill,0,Functional programming; Object-oriented programming,2
+CLP(R),/wikipedia/en_title/CLP$0028R$0029,0,,0
+Pnuts,/en/pnuts,0,Object-oriented programming,1
+Not eXactly C,/en/not_exactly_c,0,,0
+Pict,/en/pict_programming_language,0,,0
+Befunge97,/en/befunge97,0,,0
+Befunge93,/en/befunge93,0,,0
+Corba IDL,/en/corba_idl,0,Object-oriented programming,1
+ICON,/m/05z2qqf,0,,0
+UNICON,/m/05z2qq4,0,expression-based,1
+tiscript,/m/05z3dws,0,Prototype-based programming,1
+ASP.NET,/en/asp_net,0,,0
+Structured Audio Orchestra Language,/en/structured_audio_orchestra_language,0,,0
+SAS language,/en/sas_language,0,,0
+Microsoft Small Basic,/en/microsoft_small_basic,0,Imperative programming; Object-oriented programming; Structured programming,3
+Cryptol,/en/cryptol,0,,0
+Active Oberon,/en/active_oberon,0,,0
+Boomerang,/wikipedia/en_title/Boomerang_$0028programming_language$0029,1,,0
+Bertrand,/wikipedia/en_title/Bertrand_$0028programming_language$0029,0,,0
+Lightweight Java,/en/lightweight_java,0,,0
+Ambi,/en/ambi,0,Procedural programming; Stack-oriented programming language,2
+Falcon,/wikipedia/it_id/2239401,0,Comparison of multi-paradigm programming languages; Functional programming; Object-oriented programming; Procedural programming; Prototype-based programming,5
+GOAL agent programming language,/en/goal_agent_programming_language,0,,0
+GScript,/en/gscript,0,,0
+AgentSpeak,/en/agentspeak,0,,0
+Babbage,/wikipedia/en_title/Babbage_$0028programming_language$0029,0,Procedural programming; Structured programming,2
+QASL,/en/qasl,0,,0
+Smith,/m/05q4vfd,0,,0
+Axum,/wikipedia/en_title/Axum_$0028programming_language$0029,0,Object-oriented programming,1
+Web Language,/en/web_language,0,,0
+Macaulay2,/en/macaulay2,0,,0
+Universal Systems Language,/en/universal_systems_language,0,,0
+CLACL,/en/clacl,1,Logic programming,1
+Whizbase,/m/064011l,0,,0
+Simgua,/en/simgua,0,,0
+OpenMusic,/en/openmusic,0,,0
+Tiscript,/m/06426by,0,,0
+JEAN,/wikipedia/pt/JEAN,0,,0
+PS-Algol,/en/ps-algol,0,,0
+JSON,/en/json,0,,0
+XACML,/en/xacml,0,,0
+Paris,/m/08qk5_8,0,,0
+Lite-C,/en/lite_c,0,,0
+Common Language Infrastructure,/en/common_language_infrastructure,0,,0
+Data definition language,/en/data_definition_language,0,,0
+Java,/wikipedia/pt/Java_$0028linguagem_de_programa$00E7$00E3o$0029,39,"Concurrent computing; Functional programming; Generic programming; Imperative programming; Object-oriented programming; Strong typing; Structured programming; Virtual machine; Write once, run anywhere",9
+SystemC,/en/systemc,0,,0
+Go,/wikipedia/ru/Go_$0028$044F$0437$044B$043A_$043F$0440$043E$0433$0440$0430$043C$043C$0438$0440$043E$0432$0430$043D$0438$044F$0029,0,Compiled language; Concurrent computing; Imperative programming; Parallel computing; Structured programming,5
+RDF query language,/en/rdf_query_language,0,,0
+RDF Inference Language,/en/rdf_inference_language,0,,0
+HTML5,/en/html_5,0,,0
+ARM assembly language,/m/0cgrqt5,0,,0
+PureBasic,/en/purebasic,0,Imperative programming; Procedural programming; Structured programming,3
+Dworkin's Game Driver,/en/dworkins_generic_driver,0,,0
+Object Definition Language,/en/object_definition_language,0,,0
+Smallfuck,/m/0dg7746,0,,0
+Paintfuck,/m/0dg7773,0,,0
+Arrow,/m/0dg778l,0,,0
+SMETANA,/m/0dg77c_,0,,0
+ELENA,/m/0dg9lh5,0,Object-oriented programming,1
+Alex Rakov,/m/0dg9lhl,0,,0
+Argh!,/m/0dgcxwt,0,Self-modifying code; Stack-oriented programming language; Two-dimensional; cell based,4
+Aura,/m/0dgcy04,0,Self-modifying code,1
+Turbo Basic,/en/turbo_basic,1,,0
+QuickBASIC,/en/quickbasic,4,,0
+TI BASIC,/en/ti_basic,0,,0
+BPEL,/m/0dk0f3b,0,,0
+Office Open XML,/en/office_open_xml,0,,0
+Web Services Description Language,/en/web_services_description_language,0,,0
+DAML-S,/en/daml-s,0,Knowledge Representation Language,1
+Web Ontology Language,/en/web_ontology_language,0,Knowledge Representation Language,1
+KRL,/en/krl,1,Knowledge Representation Language,1
+DAML+OIL,/en/damlplusoil,0,Knowledge Representation Language,1
+DARPA Agent Markup Language,/en/daml,0,Knowledge Representation Language,1
+LOOM,/wikipedia/en_title/LOOM_$0028ontology$0029,0,Knowledge Representation Language,1
+KL-ONE,/en/kl-one,0,Frame language; Knowledge Representation Language,2
+TextUML-Syntax,/m/0fpp07_,0,,0
+Agda,/en/agda_theorem_prover,1,Declarative programming; Dependent type; Functional programming; Mathematics; Strong typing,5
+Coq,/en/coq,2,Functional programming,1
+Objeck,/wikipedia/en_title/Objeck_$0028programming_language$0029,0,Functional programming; Object-oriented programming; Structured programming,3
+Delphi,/m/0ggc1vz,0,,0
+Alpoca,/m/0gh50t7,0,Comparison of multi-paradigm programming languages; Encapsulation; Object-oriented programming,3
+Argus,/wikipedia/en_title/Argus_$0028programming_language$0029,0,,0
+CoffeeScript,/wikipedia/en_title/CoffeeScript,2,Comparison of multi-paradigm programming languages; Functional programming; Imperative programming; Object-oriented programming; Prototype-based programming,5
+MoonScript,/m/0hjlb4k,0,Comparison of multi-paradigm programming languages; Functional programming; Imperative programming; Object-oriented programming; Procedural programming; Prototype-based programming,6
+Programming Syntax,/m/0hmvnmb,0,,0
+Parrot assembly language,/en/parrot_assembly_language,0,,0
+REFAL programming language,/en/refal_programming_language,0,,0
+Kawa,/en/kawa,0,,0
+Scilab,/m/0jfjdbl,0,,0
+Phoenix,/m/02vy1px,0,,0
+XProc,/en/xproc,0,,0
+SGML,/m/0j_9brh,0,,0
+Micro-Planner,/m/0k04hrk,0,,0
+Little Implementation Language,/wikipedia/en_title/Little_Implementation_Language,0,,0
+Beginners Programming Language,/en/bpl_beginners_programming_langauge,0,,0
+Liberty BASIC,/en/liberty_basic,1,Event-driven programming; Procedural programming,2
+PL/Ruby,/m/0lnrh5r,0,,0
+PL/sh,/m/0lnrh5y,0,,0
+PL/TCL,/m/0lnrh63,0,,0
+PL/Proxy,/m/0lnrh69,0,,0
+PL/LOLCODE,/m/0lnrh6h,0,,0
+PL/Java,/m/0lnrh6p,0,,0
+PL/Perl,/en/pl_perl,0,,0
+PL/Parrot,/m/0lnrh6y,0,,0
+PL/Lua,/m/0lnrh73,0,,0
+PL/PHP,/m/0lnrh79,0,,0
+PL/R,/m/0lnrh7h,0,,0
+PL/PSM,/m/0lnrh7p,0,,0
+PL/Python,/m/0lnrh7w,0,,0
+PL/JS,/m/0lnrh81,0,,0
+PL/Scheme,/m/0lnrh87,0,,0
+AIML,/en/aiml,0,,0
+TTM,/wikipedia/en_title/TTM_$0028programming_language$0029,0,,0
+Elixir,/wikipedia/en_title/Elixir_$0028programming_language$0029,1,Comparison of multi-paradigm programming languages; Concurrent computing; Functional programming,3
+Stylus,/wikipedia/en_title/Stylus_$0028stylesheet_language$0029,0,,0
+Sass,/wikipedia/de_id/5460460,3,,0
+LESS,/wikipedia/en_title/LESS_$0028stylesheet_language$0029,2,,0
+F*,/wikipedia/en_title/F$002A_$0028programming_language$0029,0,Concurrent computing; Functional programming; Imperative programming; Object-oriented programming,4
+SPL,/wikipedia/en_title/SPL_$0028Search_Processing_Language$0029,0,Pipeline programming,1
+Pipeline,/wikipedia/fr/Tube_$0028shell$0029,2,,0
+ooc,/wikipedia/en_title/Ooc,0,,0
+X#,/wikipedia/en_title/X_Sharp_$0028programming_language$0029,0,,0
+Flex,/wikipedia/en_title/Flex_$0028language$0029,0,,0
+XPath,/en/xpath,1,,0
+Idris,/wikipedia/en_title/Idris_$0028programming_language$0029,0,Functional programming,1
+Hopscotch,/wikipedia/en_title/Hopscotch_$0028programming_language$0029,0,,0
+BAIL,/wikipedia/en_title/BAIL_$0028programming_language$0029,0,,0
+DAG,/m/0vsh31n,0,,0
+Nimrod,/m/0vpk27_,0,Compiled language; Concurrent computing; Imperative programming; Object-oriented programming; Procedural programming,5
+UCBLogo,/en/ucblogo,5,Functional programming; Procedural programming,2
+Fountain,/dataworld/freeq/job_6efc54c3-f543-48c9-b8d1-b924b6b95df8_var_en_wikipedia_org_wiki_Fountain_$0028markup_language$0029,0,Markup language,1
+Ela,/m/0wyh6j2,0,,0
+Rust,/wikipedia/en_title/Rust_$0028programming_language$0029,1,Compiled language; Concurrent computing; Functional programming; Imperative programming; Object-oriented programming; Structured programming,6
+Fancy,/wikipedia/en_title/Fancy_$0028programming_language$0029,0,Object-oriented programming,1
+Wolfram Language,/dataworld/freeq/job_fe78308a-a639-40d8-9a0f-68bd5c1305df_var_en_wikipedia_org_wiki_Wolfram_$0028programming_language$0029,1,Array programming; Comparison of multi-paradigm programming languages; Functional programming; Procedural programming,4
+Nemo,/dataworld/freeq/job_6cf50b0b-5659-4545-bd53-dd269f729755_var_en_wikipedia_org_wiki_Nemo_$0028programming_language$0029,0,Imperative programming; Procedural programming; Structured programming,3
+Basic4android,/m/0fqrgs4,0,,0
+Ya,/dataworld/freeq/job_da6fe9a6-2c8a-4c8d-a872-f953b895c101_var_en_wikipedia_org_wiki_Ya_$0028programming_language$0029,0,,0
+Ceylon,/wikipedia/en_title/Ceylon_$0028programming_language$0029,1,Object-oriented programming,1
+ProvideX,/en/providex,0,,0
+Ciao,/wikipedia/en_title/Ciao_$0028programming_language$0029,0,Functional programming; Logic programming; Modular programming; Object-oriented programming,4
+Julia,/wikipedia/en_title/Julia_$0028programming_language$0029,0,Functional programming; Object-oriented programming; Procedural programming,3
+Joyce,/wikipedia/en_title/Joyce_$0028programming_language$0029,1,Imperative programming; Structured programming,2
+Dart,/wikipedia/en_title/Dart_$0028programming_language$0029,0,Object-oriented programming,1
+SuperPascal,/en/superpascal,0,Imperative programming; Structured programming,2
+ParaSail,/wikipedia/en_title/ParaSail_$0028programming_language$0029,0,Compiled language; Imperative programming; Object-oriented programming; Structured programming,4
+ALGOL 60,/en/algol_60,9,Imperative programming; Procedural programming; Structured programming,3
+Cornell University Programming Language,/wikipedia/en_title/Cornell_University_Programming_Language,0,,0
+Dolittle,/dataworld/freeq/job_88bb6bd8-0f37-4943-9adb-80892f3ec3b9_var_en_wikipedia_org_wiki_Dolittle_$0028programming_language$0029,0,Comparison of multi-paradigm programming languages; Object-oriented programming,2
+Potion,/dataworld/freeq/job_88bb6bd8-0f37-4943-9adb-80892f3ec3b9_var_en_wikipedia_org_wiki_Potion_$0028programming_language$0029,0,Functional programming; Stack-oriented programming language,2
+Hoon,/dataworld/freeq/job_6b792f7c-9c35-48bf-afa6-1e7a2a970ba5_var_en_wikipedia_org_wiki_Hoon_$0028programming_language$0029,0,,0
+Nock,/dataworld/freeq/job_6b792f7c-9c35-48bf-afa6-1e7a2a970ba5_var_en_wikipedia_org_wiki_Nock_$0028programming_language$0029,0,Functional programming,1
+Acumen,/dataworld/freeq/job_57a0acb3-264f-4329-b948-525ab8e14fbc_var_en_wikipedia_org_wiki_Acumen_$0028programming_language$0029,0,,0
+P*,/dataworld/freeq/job_57a0acb3-264f-4329-b948-525ab8e14fbc_var_en_wikipedia_org_wiki_P$002A,0,,0
+Genie,/wikipedia/es/Genie_$0028lenguaje_de_programaci$00F3n$0029,0,Imperative programming; Object-oriented programming; Structured programming,3
+Xojo,/en/realbasic,0,Object-oriented programming,1
+DoTS,/dataworld/freeq/job_f2a66e32-b80c-45a9-b491-c1af01fd4eaf_var_en_wikipedia_org_wiki_DoTS,0,,0
+CSS,/en/cansei_de_ser_sexy,0,,0
+LFE,/dataworld/freeq/job_fc372b70-658e-4162-b332-6858145a4195_var_en_wikipedia_org_wiki_LFE_$0028programming_language$0029,1,Comparison of multi-paradigm programming languages; Concurrent computing; Functional programming,3
+Pastel,/dataworld/freeq/job_97bee9f2-44cd-48e5-a6e4-8fb0994e8ae6_var_en_wikipedia_org_wiki_Pastel_$0028programming_language$0029,0,,0
+WLanguage,/dataworld/freeq/job_9fd886e7-d11c-44b5-9ef3-060dc4a07abb_var_en_wikipedia_org_wiki_WLanguage,0,,0
+Jaql,/en/jaql,0,,0
+LotusScript,/m/01025wcw,0,,0
+Qt Quick,/wikipedia/en_title/Qt_Quick,0,,0
+Enchanting,/dataworld/freeq/job_c59a2de6-7db8-4a18-b0e7-a307c280663c_var_en_wikipedia_org_wiki_Enchanting_$0028programming_language$0029,0,,0
+Hack,/dataworld/freeq/job_a7c6672a-3218-436d-9199-448dbdeb2124_var_en_wikipedia_org_wiki_Hack_$0028programming_language$0029,0,,0
+LotusScript,/en/lotusscript,0,,0
+KL0,/en/kl0,0,,0
+SystemVerilog,/en/systemverilog,0,Object-oriented programming; Structured programming,2
+Kotlin,/dataworld/freeq/job_97bee9f2-44cd-48e5-a6e4-8fb0994e8ae6_var_en_wikipedia_org_wiki_Kotlin_$0028programming_language$0029,0,,0
+Opa,/wikipedia/en_title/Opa_$0028programming_language$0029,0,Functional programming; Imperative programming,2
+Reia,/en/reia,0,Declarative programming; Functional programming; Imperative programming,3
+Newsqueak,/en/newsqueak,4,Concurrent computing,1
+Hermes,/wikipedia/en_title/Hermes_$0028programming_language$0029,1,,0
+Qore,/m/0hnc442,0,,0
+Boxer,/m/010p5v53,0,,0
+DScript,/m/010pkn7n,0,,0
+Premise,/dataworld/freeq/job_e8f1caf2-6b5c-43d6-ac03-28a4ed3e809c_var_en_wikipedia_org_wiki_Premise_$0028programming_language$0029,0,,0
+TML,/dataworld/freeq/job_d53e1bbb-c49d-434a-9a35-7421c6afcbc5_var_en_wikipedia_org_wiki_TML$0028triangular_markup_language$0029,0,,0
+Swift,/dataworld/freeq/job_abea7b16-a55a-4d95-8ac0-5100371bfbac_var_en_wikipedia_org_wiki_Swift_$0028parallel_scripting_language$0029,0,,0
+Swift,/dataworld/freeq/job_abea7b16-a55a-4d95-8ac0-5100371bfbac_var_en_wikipedia_org_wiki_Swift_$0028Apple_programming_language$0029,0,Comparison of multi-paradigm programming languages; Functional programming; Generic programming; Imperative programming; Object-oriented programming; Procedural programming,6
+LiveScript,/dataworld/freeq/job_97bee9f2-44cd-48e5-a6e4-8fb0994e8ae6_var_en_wikipedia_org_wiki_LiveScript,0,Functional programming,1
+Tritium,/wikipedia/en_title/Tritium_$0028programming_language$0029,0,,0
+Lean,/m/01159vfc,1,,0
+ELI,/dataworld/freeq/job_91c5f39d-30ad-46ba-bb20-a3e294e29df8_var_en_wikipedia_org_wiki_ELI_$0028programming_language$0029,0,Array programming,1
+Constant,/wikipedia/ru_id/753066,0,,0

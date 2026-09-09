@@ -4,7 +4,7 @@ A collection of public datasets curated for the Constructing Visualizations cour
 Each dataset is stored as a clean CSV file alongside a script that documents how
 it was generated.
 
-Total: **20 datasets**, **24 CSV files** (~42 MB combined).
+Total: **24 datasets**, **32 CSV files** (~58 MB combined).
 
 ## Dataset Index
 
@@ -15,6 +15,8 @@ Total: **20 datasets**, **24 CSV files** (~42 MB combined).
 | `yrbss-2023` | `yrbss_2023.csv` | 12K | 151 | Published CDC rates |
 | `fred-macro` | `fred_macro.csv` | 16K | 313 | FRED CSV download |
 | `un-m49` | `un_m49_hierarchy.csv` | 20K | 280 | ISO-3166 with Regions |
+| `starwars-social-network` | `starwars_edges.csv` + `starwars_nodes.csv` | 24K + 8.0K | 1,012 + 298 | GitHub (evelinag) |
+| `programming-languages-influence` | `languages.csv` + `influence_edges.csv` + `paradigms.csv` | 80K + 76K + 4.0K | 1,219 + 1,139 + 55 | GitHub (yaph) |
 | `pew-religion` | `pew_religion.csv` | 96K | 1,289 | Pew Research ZIP |
 | `openrouter-models` | `openrouter_models.csv` | 112K | 365 | OpenRouter API |
 | `statsbomb` | `statsbomb_shots.csv` | 132K | 1,495 | StatsBomb GitHub |
@@ -25,6 +27,7 @@ Total: **20 datasets**, **24 CSV files** (~42 MB combined).
 | `ga4-ecommerce` | `ga4_ecommerce.csv` | 368K | 7,328 | Synthetic GA4 ecommerce |
 | `bls-qcew` | `bls_qcew_county_all_industries.csv` | 1.2M | 15,686 | Derived (`00` code, all years) |
 | `bls-qcew` | `bls_qcew_county_manufacturing.csv` | 1.1M | 15,562 | Derived (`31-33` code, all years) |
+| `atus` | `atus_streamgraph.csv` + `atus_streamgraph_15min_by_sex_age.csv` | 1.4M + 1.0M | 24,536 + 15,721 | BLS ATUS 2024 microdata |
 | `nyc-tlc` | `nyc_tlc_trips.csv` | 1.6M | 24,119 | NYC S3 + DuckDB |
 | `un-wpp-2024` | `un_wpp_2024.csv` | 1.9M | 16,966 | World Bank API |
 | `nasa-exoplanets` | `nasa_exoplanets.csv` | 2.5M | 27,522 | NASA TAP API |
@@ -33,6 +36,7 @@ Total: **20 datasets**, **24 CSV files** (~42 MB combined).
 | `bls-laus` | `bls_laus_county.csv` | 6.2M | 119,104 | BLS FTP |
 | `online-retail-ii` | `online_retail_ii.csv` | 8.1M | 127,531 | UCI ML Repository |
 | `bts-od-survey` | `bts_airline_routes.csv` + `bts_airports.csv` | 8.5M + 516K | 244,966 + 6,054 | BTS TranStats + DuckDB |
+| `acs-migration-flows` | `county_to_county_flows.csv` | 14M | 254,348 | Census ACS 5-yr flows |
 
 ## Notes
 
@@ -40,6 +44,10 @@ Total: **20 datasets**, **24 CSV files** (~42 MB combined).
   for most sources. Exceptions noted in each dataset's README.
 - **ga4-ecommerce** uses realistic synthetic data (BigQuery access unavailable).
 - **un-wpp-2024** uses the UN World Population Prospects 2024 estimates.
+- **atus** aggregates the official BLS 2024 ATUS microdata into weighted,
+  minute-by-minute activity shares for stream graphs (the "rhythm of daily life").
+- **acs-migration-flows** contains the ACS 2016-2020 county-to-county migration
+  flows (the latest county-pair vintage) as a directed network keyed by FIPS code.
 - Each dataset subdirectory contains the CSV file(s), a generation script (`.mjs`), and a README
   with schema documentation and methodology.
 
