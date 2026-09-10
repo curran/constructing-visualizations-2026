@@ -1,0 +1,1 @@
+For the `county_to_county_flows.csv` file, please Split the CSV into two smaller CSVs. One that has the core flow data with just origin GEOID and destination GEOID and the flow and MOE metrics, and make a secondary table that just maps GEOID to county and state, just to reduce the size of the dataset and reduce duplication.
