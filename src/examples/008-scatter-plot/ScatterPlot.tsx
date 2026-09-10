@@ -3,7 +3,7 @@ import { select } from 'd3-selection';
 import { useDimensions } from '../005-responsive-pseudo-scatter-plot/useDimensions';
 import { usePenguinsDataset } from '../006-loading-and-summarizing-data/usePenguinsDataset';
 import type { PenguinRow } from '../006-loading-and-summarizing-data/usePenguinsDataset';
-import { margins } from './margins';
+import type { Margin } from './margin';
 import { useScales } from './useScales';
 import { renderCircles } from './renderCircles';
 import { renderAxes } from './renderAxes';
@@ -12,6 +12,17 @@ import { renderLabels } from './renderLabels';
 // Accessors extract the x and y values from each row of the dataset.
 const xValue = (row: PenguinRow) => row.bill_length_mm;
 const yValue = (row: PenguinRow) => row.bill_depth_mm;
+
+// Chart configuration. All tweakable values live here in one place so they
+// can be adjusted without hunting through the rendering functions.
+const margin: Margin = { top: 60, right: 20, bottom: 60, left: 80 };
+const title = 'Palmer Penguins';
+const titleFontSize = 20;
+const xAxisLabel = 'Bill Length (mm)';
+const yAxisLabel = 'Bill Depth (mm)';
+const axisLabelFontSize = 14;
+const xAxisLabelOffset = 40;
+const yAxisLabelOffset = 40;
 
 export function ScatterPlot() {
   const svgRef = useRef<SVGSVGElement>(null);
@@ -29,12 +40,13 @@ export function ScatterPlot() {
     [data],
   );
 
-  const scales = useScales({ data: rows, ...dimensions, margins, xValue, yValue });
+  const scales = useScales({ data: rows, ...dimensions, margin, xValue, yValue });
 
   useEffect(() => {
     const svg = svgRef.current;
     if (!svg || dimensions.width === 0 || dimensions.height === 0 || !rows || !scales) return;
 
+    // Render the marks first, then layer the axes and labels on top.
     renderCircles(select(svg), {
       data: rows,
       xScale: scales.xScale,
@@ -42,26 +54,27 @@ export function ScatterPlot() {
       xValue,
       yValue,
     });
-  }, [dimensions, rows, scales]);
-
-  useEffect(() => {
-    const svg = svgRef.current;
-    if (!svg || dimensions.width === 0 || dimensions.height === 0 || !scales) return;
 
     renderAxes(select(svg), {
       height: dimensions.height,
-      margins,
+      margin,
       xScale: scales.xScale,
       yScale: scales.yScale,
     });
-  }, [dimensions, scales]);
 
-  useEffect(() => {
-    const svg = svgRef.current;
-    if (!svg || dimensions.width === 0 || dimensions.height === 0) return;
-
-    renderLabels(select(svg), { width: dimensions.width, height: dimensions.height, margins });
-  }, [dimensions]);
+    renderLabels(select(svg), {
+      width: dimensions.width,
+      height: dimensions.height,
+      margin,
+      title,
+      titleFontSize,
+      xAxisLabel,
+      yAxisLabel,
+      axisLabelFontSize,
+      xAxisLabelOffset,
+      yAxisLabelOffset,
+    });
+  }, [dimensions, rows, scales]);
 
   return (
     <div ref={divRef} className="relative w-full h-full">

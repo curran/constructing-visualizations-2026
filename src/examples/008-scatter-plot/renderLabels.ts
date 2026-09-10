@@ -1,24 +1,39 @@
 import type { Selection } from 'd3-selection';
-import type { Margins } from './margins';
-
-// The axis labels sit just outside the axes.
-const AXIS_LABEL_OFFSET = 40;
+import type { Margin } from './margin';
 
 export interface RenderLabelsOptions {
   width: number;
   height: number;
-  margins: Margins;
+  margin: Margin;
+  title: string;
+  titleFontSize: number;
+  xAxisLabel: string;
+  yAxisLabel: string;
+  axisLabelFontSize: number;
+  xAxisLabelOffset: number;
+  yAxisLabelOffset: number;
 }
 
 export function renderLabels(
   selection: Selection<SVGSVGElement, unknown, null, undefined>,
   options: RenderLabelsOptions,
 ) {
-  const { width, height, margins } = options;
+  const {
+    width,
+    height,
+    margin,
+    title,
+    titleFontSize,
+    xAxisLabel,
+    yAxisLabel,
+    axisLabelFontSize,
+    xAxisLabelOffset,
+    yAxisLabelOffset,
+  } = options;
 
   // The centers of the plot area define where axis labels are centered.
-  const plotCenterX = margins.left + (width - margins.left - margins.right) / 2;
-  const plotCenterY = margins.top + (height - margins.top - margins.bottom) / 2;
+  const plotCenterX = margin.left + (width - margin.left - margin.right) / 2;
+  const plotCenterY = margin.top + (height - margin.top - margin.bottom) / 2;
 
   // The title sits centered at the top of the chart.
   selection
@@ -27,10 +42,10 @@ export function renderLabels(
     .join('text')
     .attr('class', 'title')
     .attr('x', width / 2)
-    .attr('y', margins.top / 2)
+    .attr('y', margin.top / 2)
     .attr('text-anchor', 'middle')
-    .attr('font-size', '20px')
-    .text('Palmer Penguins');
+    .attr('font-size', titleFontSize)
+    .text(title);
 
   // The x axis label is centered horizontally on the x axis, below it.
   selection
@@ -39,10 +54,10 @@ export function renderLabels(
     .join('text')
     .attr('class', 'x-axis-label')
     .attr('x', plotCenterX)
-    .attr('y', height - margins.bottom + AXIS_LABEL_OFFSET)
+    .attr('y', height - margin.bottom + xAxisLabelOffset)
     .attr('text-anchor', 'middle')
-    .attr('font-size', '14px')
-    .text('Bill Length (mm)');
+    .attr('font-size', axisLabelFontSize)
+    .text(xAxisLabel);
 
   // The y axis label is rotated -90 degrees so it runs bottom to top,
   // centered vertically on the y axis, to its left.
@@ -51,8 +66,8 @@ export function renderLabels(
     .data([null])
     .join('text')
     .attr('class', 'y-axis-label')
-    .attr('transform', `translate(${margins.left - AXIS_LABEL_OFFSET}, ${plotCenterY}) rotate(-90)`)
+    .attr('transform', `translate(${margin.left - yAxisLabelOffset}, ${plotCenterY}) rotate(-90)`)
     .attr('text-anchor', 'middle')
-    .attr('font-size', '14px')
-    .text('Bill Depth (mm)');
+    .attr('font-size', axisLabelFontSize)
+    .text(yAxisLabel);
 }
