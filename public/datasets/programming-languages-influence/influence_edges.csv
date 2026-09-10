@@ -1,0 +1,1140 @@
+language,language_id,influenced_by,influenced_by_id
+C++,/en/cplusplus,ALGOL 68,/en/algol_68
+C++,/en/cplusplus,Ada,/en/ada
+C++,/en/cplusplus,C,/wikipedia/fr_id/1711
+C++,/en/cplusplus,CLU,/en/clu
+C++,/en/cplusplus,ML,/en/ml
+C++,/en/cplusplus,Simula,/en/simula
+C,/wikipedia/fr_id/1711,ALGOL,/wikipedia/ru_id/17770
+C,/wikipedia/fr_id/1711,ALGOL 60,/en/algol_60
+C,/wikipedia/fr_id/1711,ALGOL 68,/en/algol_68
+C,/wikipedia/fr_id/1711,Assembly language,/en/assembly_language
+C,/wikipedia/fr_id/1711,B,/en/b_programming_language
+C,/wikipedia/fr_id/1711,BCPL,/en/bcpl
+C,/wikipedia/fr_id/1711,CLACL,/en/clacl
+C,/wikipedia/fr_id/1711,CPL,/en/combined_programming_language
+C,/wikipedia/fr_id/1711,Fortran,/en/fortran
+C,/wikipedia/fr_id/1711,PL/I,/en/pl_i
+C,/wikipedia/fr_id/1711,Speedcoding,/en/speedcoding
+Forth,/en/forth,APL,/en/apl
+Forth,/en/forth,Lisp,/wikipedia/it_id/11078
+CLU,/en/clu,ALGOL,/wikipedia/ru_id/17770
+CLU,/en/clu,Lisp,/wikipedia/it_id/11078
+CLU,/en/clu,Pascal,/wikipedia/ru/$041F$0430$0441$043A$0430$043B$044C_$0028$044F$0437$044B$043A_$043F$0440$043E$0433$0440$0430$043C$043C$0438$0440$043E$0432$0430$043D$0438$044F$0029
+CLU,/en/clu,Simula,/en/simula
+ALGOL,/wikipedia/ru_id/17770,ALGOL 58,/en/algol_58
+Simula,/en/simula,ALGOL,/wikipedia/ru_id/17770
+Simula,/en/simula,ALGOL 60,/en/algol_60
+Smalltalk,/en/smalltalk,Lisp,/wikipedia/it_id/11078
+Smalltalk,/en/smalltalk,Logo,/wikipedia/bg_id/68599
+Smalltalk,/en/smalltalk,Simula,/en/simula
+Smalltalk,/en/smalltalk,UCBLogo,/en/ucblogo
+Objective-C,/en/objective-c,C,/wikipedia/fr_id/1711
+Objective-C,/en/objective-c,Smalltalk,/en/smalltalk
+Eiffel,/en/eiffel,Ada,/en/ada
+Eiffel,/en/eiffel,Simula,/en/simula
+Eiffel,/en/eiffel,Z notation,/en/z_notation
+PHP,/en/php,C,/wikipedia/fr_id/1711
+PHP,/en/php,C#,/wikipedia/it_id/26842
+PHP,/en/php,C++,/en/cplusplus
+PHP,/en/php,Java,/wikipedia/pt/Java_$0028linguagem_de_programa$00E7$00E3o$0029
+PHP,/en/php,Perl,/en/perl
+PHP,/en/php,Python,/wikipedia/fr/Python_$0028langage$0029
+PHP,/en/php,Smalltalk,/en/smalltalk
+PHP,/en/php,Tcl,/en/tcl
+J#,/wikipedia/ja_id/1325633,Java,/wikipedia/pt/Java_$0028linguagem_de_programa$00E7$00E3o$0029
+J#,/wikipedia/ja_id/1325633,Visual J++,/en/visual_jplusplus
+C#,/wikipedia/it_id/26842,C,/wikipedia/fr_id/1711
+C#,/wikipedia/it_id/26842,C++,/en/cplusplus
+C#,/wikipedia/it_id/26842,Cω,/wikipedia/pt_id/404784
+C#,/wikipedia/it_id/26842,Eiffel,/en/eiffel
+C#,/wikipedia/it_id/26842,Extensible Application Markup Language,/en/xaml
+C#,/wikipedia/it_id/26842,Haskell,/en/haskell
+C#,/wikipedia/it_id/26842,Icon,/wikipedia/fr/ICON
+C#,/wikipedia/it_id/26842,Java,/wikipedia/pt/Java_$0028linguagem_de_programa$00E7$00E3o$0029
+C#,/wikipedia/it_id/26842,ML,/en/ml
+C#,/wikipedia/it_id/26842,Modula-3,/en/modula-3
+C#,/wikipedia/it_id/26842,Object Pascal,/en/object_pascal
+C#,/wikipedia/it_id/26842,Visual Basic,/en/visual_basic
+ALGOL 68,/en/algol_68,ALGOL,/wikipedia/ru_id/17770
+ALGOL 68,/en/algol_68,ALGOL 60,/en/algol_60
+ALGOL 68,/en/algol_68,ALGOL Y,/en/algol_y
+ALGOL 58,/en/algol_58,Fortran,/en/fortran
+ALGOL 58,/en/algol_58,Plankalkül,/en/plankalkul
+ALGOL 58,/en/algol_58,Speedcoding,/en/speedcoding
+Pascal,/wikipedia/ru/$041F$0430$0441$043A$0430$043B$044C_$0028$044F$0437$044B$043A_$043F$0440$043E$0433$0440$0430$043C$043C$0438$0440$043E$0432$0430$043D$0438$044F$0029,ALGOL,/wikipedia/ru_id/17770
+Pascal,/wikipedia/ru/$041F$0430$0441$043A$0430$043B$044C_$0028$044F$0437$044B$043A_$043F$0440$043E$0433$0440$0430$043C$043C$0438$0440$043E$0432$0430$043D$0438$044F$0029,ALGOL 60,/en/algol_60
+Pascal,/wikipedia/ru/$041F$0430$0441$043A$0430$043B$044C_$0028$044F$0437$044B$043A_$043F$0440$043E$0433$0440$0430$043C$043C$0438$0440$043E$0432$0430$043D$0438$044F$0029,ALGOL W,/en/algol_w
+Oberon,/wikipedia/es/Lenguaje_de_programaci$00F3n_Oberon,Modula-2,/en/modula-2
+Oberon,/wikipedia/es/Lenguaje_de_programaci$00F3n_Oberon,Pascal,/wikipedia/ru/$041F$0430$0441$043A$0430$043B$044C_$0028$044F$0437$044B$043A_$043F$0440$043E$0433$0440$0430$043C$043C$0438$0440$043E$0432$0430$043D$0438$044F$0029
+Modula-2,/en/modula-2,ALGOL,/wikipedia/ru_id/17770
+Modula-2,/en/modula-2,ALGOL W,/en/algol_w
+Modula-2,/en/modula-2,Mesa,/wikipedia/de_id/1570385
+Modula-2,/en/modula-2,Modula,/en/modula
+Modula-2,/en/modula-2,Pascal,/wikipedia/ru/$041F$0430$0441$043A$0430$043B$044C_$0028$044F$0437$044B$043A_$043F$0440$043E$0433$0440$0430$043C$043C$0438$0440$043E$0432$0430$043D$0438$044F$0029
+Modula-2,/en/modula-2,Simula,/en/simula
+Modula,/en/modula,Pascal,/wikipedia/ru/$041F$0430$0441$043A$0430$043B$044C_$0028$044F$0437$044B$043A_$043F$0440$043E$0433$0440$0430$043C$043C$0438$0440$043E$0432$0430$043D$0438$044F$0029
+Object Pascal,/en/object_pascal,Pascal,/wikipedia/ru/$041F$0430$0441$043A$0430$043B$044C_$0028$044F$0437$044B$043A_$043F$0440$043E$0433$0440$0430$043C$043C$0438$0440$043E$0432$0430$043D$0438$044F$0029
+Object Pascal,/en/object_pascal,Smalltalk,/en/smalltalk
+Oxygene,/wikipedia/ru_id/1991612,C#,/wikipedia/it_id/26842
+Oxygene,/wikipedia/ru_id/1991612,Object Pascal,/en/object_pascal
+Oxygene,/wikipedia/ru_id/1991612,Pascal,/wikipedia/ru/$041F$0430$0441$043A$0430$043B$044C_$0028$044F$0437$044B$043A_$043F$0440$043E$0433$0440$0430$043C$043C$0438$0440$043E$0432$0430$043D$0438$044F$0029
+UCSD Pascal,/en/ucsd_pascal,Pascal,/wikipedia/ru/$041F$0430$0441$043A$0430$043B$044C_$0028$044F$0437$044B$043A_$043F$0440$043E$0433$0440$0430$043C$043C$0438$0440$043E$0432$0430$043D$0438$044F$0029
+Mesa,/wikipedia/de_id/1570385,ALGOL,/wikipedia/ru_id/17770
+Mesa,/wikipedia/de_id/1570385,Euclid,/en/euclid_programming_language
+Zonnon,/en/zonnon,Modula-2,/en/modula-2
+Zonnon,/en/zonnon,Oberon,/wikipedia/es/Lenguaje_de_programaci$00F3n_Oberon
+Zonnon,/en/zonnon,Pascal,/wikipedia/ru/$041F$0430$0441$043A$0430$043B$044C_$0028$044F$0437$044B$043A_$043F$0440$043E$0433$0440$0430$043C$043C$0438$0440$043E$0432$0430$043D$0438$044F$0029
+Ada,/en/ada,ALGOL,/wikipedia/ru_id/17770
+Ada,/en/ada,ALGOL 60,/en/algol_60
+Ada,/en/ada,ALGOL 68,/en/algol_68
+Ada,/en/ada,APL,/en/apl
+Ada,/en/ada,C++,/en/cplusplus
+Ada,/en/ada,CLU,/en/clu
+Ada,/en/ada,Eiffel,/en/eiffel
+Ada,/en/ada,Java,/wikipedia/pt/Java_$0028linguagem_de_programa$00E7$00E3o$0029
+Ada,/en/ada,Modula-2,/en/modula-2
+Ada,/en/ada,Pascal,/wikipedia/ru/$041F$0430$0441$043A$0430$043B$044C_$0028$044F$0437$044B$043A_$043F$0440$043E$0433$0440$0430$043C$043C$0438$0440$043E$0432$0430$043D$0438$044F$0029
+Ada,/en/ada,Smalltalk,/en/smalltalk
+Ada,/en/ada,The Green Object Oriented Language,/en/the_green_object_oriented_language
+Objective Modula-2,/en/objective_modula-2,Modula-2,/en/modula-2
+Modula-3,/en/modula-3,ALGOL,/wikipedia/ru_id/17770
+Modula-3,/en/modula-3,Modula-2,/en/modula-2
+Modula-3,/en/modula-3,Modula-2+,/en/modula_2plus
+Modula-3,/en/modula-3,Oberon,/wikipedia/es/Lenguaje_de_programaci$00F3n_Oberon
+Modula-3,/en/modula-3,Pascal,/wikipedia/ru/$041F$0430$0441$043A$0430$043B$044C_$0028$044F$0437$044B$043A_$043F$0440$043E$0433$0440$0430$043C$043C$0438$0440$043E$0432$0430$043D$0438$044F$0029
+Cedar,/m/01xrtb_,Mesa,/wikipedia/de_id/1570385
+*Lisp,/wikipedia/en_title/$002ALisp,Lisp,/wikipedia/it_id/11078
+Lisp,/wikipedia/it_id/11078,Information Processing Language,/en/information_processing_language
+Common Lisp,/en/common_lisp,APL,/en/apl
+Common Lisp,/en/common_lisp,Interlisp,/en/interlisp
+Common Lisp,/en/common_lisp,Lisp,/wikipedia/it_id/11078
+Common Lisp,/en/common_lisp,Lisp Machine Lisp,/en/lisp_machine_lisp
+Common Lisp,/en/common_lisp,Maclisp,/en/maclisp
+Common Lisp,/en/common_lisp,Scheme,/en/scheme
+Common Lisp,/en/common_lisp,Smalltalk-80,/en/smalltalk_80
+Scheme,/en/scheme,ALGOL,/wikipedia/ru_id/17770
+Scheme,/en/scheme,Lisp,/wikipedia/it_id/11078
+Scheme,/en/scheme,MDL,/en/mdl_programming_language
+Scheme,/en/scheme,Racket,/en/plt_scheme
+Emacs Lisp,/en/emacs_lisp,Common Lisp,/en/common_lisp
+Emacs Lisp,/en/emacs_lisp,Lisp,/wikipedia/it_id/11078
+Dylan,/en/dylan,ALGOL,/wikipedia/ru_id/17770
+Dylan,/en/dylan,C++,/en/cplusplus
+Dylan,/en/dylan,Common Lisp,/en/common_lisp
+Dylan,/en/dylan,Common Lisp Object System,/en/clos
+Dylan,/en/dylan,EuLisp,/en/eulisp
+Dylan,/en/dylan,Lisp,/wikipedia/it_id/11078
+Dylan,/en/dylan,Oaklisp,/en/oaklisp
+Dylan,/en/dylan,Scheme,/en/scheme
+Dylan,/en/dylan,Smalltalk,/en/smalltalk
+Common Lisp Object System,/en/clos,Common Lisp,/en/common_lisp
+Common Lisp Object System,/en/clos,Lisp,/wikipedia/it_id/11078
+Common Lisp Object System,/en/clos,Smalltalk,/en/smalltalk
+Logo,/wikipedia/bg_id/68599,Lisp,/wikipedia/it_id/11078
+Fortran,/en/fortran,Modula-2,/en/modula-2
+Fortran,/en/fortran,Speedcoding,/en/speedcoding
+PL/I,/en/pl_i,ALGOL,/wikipedia/ru_id/17770
+PL/I,/en/pl_i,COBOL,/en/cobol
+PL/I,/en/pl_i,Fortran,/en/fortran
+PL/I,/en/pl_i,Speedcoding,/en/speedcoding
+PL/M,/en/pl_m,XPL,/en/xpl
+COBOL,/en/cobol,COMTRAN,/en/comtran
+COBOL,/en/cobol,FACT,/en/fact_computer_language
+COBOL,/en/cobol,FLOW-MATIC,/en/flow-matic
+FP,/en/fp,APL,/en/apl
+FL,/en/fl,FP,/en/fp
+Ruby,/wikipedia/bg_id/86164,Ada,/en/ada
+Ruby,/wikipedia/bg_id/86164,C++,/en/cplusplus
+Ruby,/wikipedia/bg_id/86164,CLU,/en/clu
+Ruby,/wikipedia/bg_id/86164,Dylan,/en/dylan
+Ruby,/wikipedia/bg_id/86164,Eiffel,/en/eiffel
+Ruby,/wikipedia/bg_id/86164,Lisp,/wikipedia/it_id/11078
+Ruby,/wikipedia/bg_id/86164,Lua,/en/lua_programming_language
+Ruby,/wikipedia/bg_id/86164,Perl,/en/perl
+Ruby,/wikipedia/bg_id/86164,Python,/wikipedia/fr/Python_$0028langage$0029
+Ruby,/wikipedia/bg_id/86164,Scheme,/en/scheme
+Ruby,/wikipedia/bg_id/86164,Smalltalk,/en/smalltalk
+Perl,/en/perl,AWK,/en/awk
+Perl,/en/perl,BASIC,/en/basic
+Perl,/en/perl,C,/wikipedia/fr_id/1711
+Perl,/en/perl,C++,/en/cplusplus
+Perl,/en/perl,Lisp,/wikipedia/it_id/11078
+Perl,/en/perl,Pascal,/wikipedia/ru/$041F$0430$0441$043A$0430$043B$044C_$0028$044F$0437$044B$043A_$043F$0440$043E$0433$0440$0430$043C$043C$0438$0440$043E$0432$0430$043D$0438$044F$0029
+Perl,/en/perl,Python,/wikipedia/fr/Python_$0028langage$0029
+Perl,/en/perl,Smalltalk,/en/smalltalk
+Perl,/en/perl,Unix shell,/en/unix_shell
+Perl,/en/perl,sed,/en/sed
+Groovy,/en/groovy,Java,/wikipedia/pt/Java_$0028linguagem_de_programa$00E7$00E3o$0029
+Groovy,/en/groovy,Objective-C,/en/objective-c
+Groovy,/en/groovy,Perl,/en/perl
+Groovy,/en/groovy,Python,/wikipedia/fr/Python_$0028langage$0029
+Groovy,/en/groovy,Ruby,/wikipedia/bg_id/86164
+Groovy,/en/groovy,Smalltalk,/en/smalltalk
+T,/wikipedia/en_title/T_$0028programming_language$0029,Scheme,/en/scheme
+Prolog,/en/prolog,Absys,/en/absys
+Prolog,/en/prolog,Planner,/en/planner_programming_language
+Visual Prolog,/en/visual_prolog,Prolog,/en/prolog
+Erlang,/en/erlang,ML,/en/ml
+Erlang,/en/erlang,Prolog,/en/prolog
+Erlang,/en/erlang,Smalltalk,/en/smalltalk
+Mercury,/wikipedia/ru/Mercury_$0028$044F$0437$044B$043A_$043F$0440$043E$0433$0440$0430$043C$043C$0438$0440$043E$0432$0430$043D$0438$044F$0029,Haskell,/en/haskell
+Mercury,/wikipedia/ru/Mercury_$0028$044F$0437$044B$043A_$043F$0440$043E$0433$0440$0430$043C$043C$0438$0440$043E$0432$0430$043D$0438$044F$0029,Hope,/en/hope_programming_language
+Mercury,/wikipedia/ru/Mercury_$0028$044F$0437$044B$043A_$043F$0440$043E$0433$0440$0430$043C$043C$0438$0440$043E$0432$0430$043D$0438$044F$0029,Prolog,/en/prolog
+Oz,/wikipedia/es/Lenguaje_de_programaci$00F3n_Oz,Prolog,/en/prolog
+Python,/wikipedia/fr/Python_$0028langage$0029,ABC,/wikipedia/pt_id/159248
+Python,/wikipedia/fr/Python_$0028langage$0029,ALGOL 68,/en/algol_68
+Python,/wikipedia/fr/Python_$0028langage$0029,C++,/en/cplusplus
+Python,/wikipedia/fr/Python_$0028langage$0029,Dylan,/en/dylan
+Python,/wikipedia/fr/Python_$0028langage$0029,Haskell,/en/haskell
+Python,/wikipedia/fr/Python_$0028langage$0029,Icon,/wikipedia/fr/ICON
+Python,/wikipedia/fr/Python_$0028langage$0029,Java,/wikipedia/pt/Java_$0028linguagem_de_programa$00E7$00E3o$0029
+Python,/wikipedia/fr/Python_$0028langage$0029,Lisp,/wikipedia/it_id/11078
+Python,/wikipedia/fr/Python_$0028langage$0029,Modula-3,/en/modula-3
+Python,/wikipedia/fr/Python_$0028langage$0029,Perl,/en/perl
+Python,/wikipedia/fr/Python_$0028langage$0029,Smalltalk,/en/smalltalk
+Tcl,/en/tcl,AWK,/en/awk
+Tcl,/en/tcl,Lisp,/wikipedia/it_id/11078
+Icon,/wikipedia/fr/ICON,ALGOL,/wikipedia/ru_id/17770
+Icon,/wikipedia/fr/ICON,Pascal,/wikipedia/ru/$041F$0430$0441$043A$0430$043B$044C_$0028$044F$0437$044B$043A_$043F$0440$043E$0433$0440$0430$043C$043C$0438$0440$043E$0432$0430$043D$0438$044F$0029
+Icon,/wikipedia/fr/ICON,SNOBOL,/en/snobol
+Haskell,/en/haskell,APL,/en/apl
+Haskell,/en/haskell,Clean,/en/clean_programming_language
+Haskell,/en/haskell,FP,/en/fp
+Haskell,/en/haskell,Hope,/en/hope_programming_language
+Haskell,/en/haskell,ISWIM,/en/iswim
+Haskell,/en/haskell,Id,/wikipedia/en_title/Id_$0028programming_language$0029
+Haskell,/en/haskell,Kent Recursive Calculator,/en/kent_recursive_calculator
+Haskell,/en/haskell,Lazy ML,/en/lazy_ml
+Haskell,/en/haskell,Lisp,/wikipedia/it_id/11078
+Haskell,/en/haskell,ML,/en/ml
+Haskell,/en/haskell,Miranda,/en/miranda_programming_language
+Haskell,/en/haskell,Orwell,/wikipedia/en_title/Orwell_$0028programming_language$0029
+Haskell,/en/haskell,Perl,/en/perl
+Haskell,/en/haskell,SASL,/en/sasl_programming_language
+Haskell,/en/haskell,SISAL,/en/sisal
+Haskell,/en/haskell,Scheme,/en/scheme
+ABC,/wikipedia/pt_id/159248,ALGOL 68,/en/algol_68
+ABC,/wikipedia/pt_id/159248,SETL,/en/setl
+Boo,/en/boo,C#,/wikipedia/it_id/26842
+Boo,/en/boo,Python,/wikipedia/fr/Python_$0028langage$0029
+Caml,/en/caml,Lisp,/wikipedia/it_id/11078
+Caml,/en/caml,ML,/en/ml
+Caml,/en/caml,Modula-3,/en/modula-3
+ML,/en/ml,ISWIM,/en/iswim
+ML,/en/ml,Lisp,/wikipedia/it_id/11078
+JavaScript,/en/javascript,C,/wikipedia/fr_id/1711
+JavaScript,/en/javascript,Java,/wikipedia/pt/Java_$0028linguagem_de_programa$00E7$00E3o$0029
+JavaScript,/en/javascript,Lisp,/wikipedia/it_id/11078
+JavaScript,/en/javascript,Perl,/en/perl
+JavaScript,/en/javascript,Python,/wikipedia/fr/Python_$0028langage$0029
+JavaScript,/en/javascript,Scheme,/en/scheme
+JavaScript,/en/javascript,Self,/wikipedia/ja_id/905339
+mjt,/en/mjt,Genshi,/en/genshi
+mjt,/en/mjt,JavaScript,/en/javascript
+mjt,/en/mjt,Kid,/wikipedia/pt_id/2784265
+BASIC,/en/basic,ALGOL,/wikipedia/ru_id/17770
+BASIC,/en/basic,ALGOL 60,/en/algol_60
+BASIC,/en/basic,Fortran,/en/fortran
+BASIC,/en/basic,JOSS,/en/joss
+BASIC,/en/basic,Speedcoding,/en/speedcoding
+PostScript,/en/postscript,Forth,/en/forth
+PostScript,/en/postscript,Interpress,/en/interpress
+PostScript,/en/postscript,Lisp,/wikipedia/it_id/11078
+D,/en/d,C,/wikipedia/fr_id/1711
+D,/en/d,C#,/wikipedia/it_id/26842
+D,/en/d,C++,/en/cplusplus
+D,/en/d,Eiffel,/en/eiffel
+D,/en/d,Java,/wikipedia/pt/Java_$0028linguagem_de_programa$00E7$00E3o$0029
+D,/en/d,Python,/wikipedia/fr/Python_$0028langage$0029
+D,/en/d,Ruby,/wikipedia/bg_id/86164
+Brainfuck,/en/brainfuck,FALSE,/en/false
+SQL,/en/sql,Datalog,/en/datalog
+LPC,/en/lpc,C,/wikipedia/fr_id/1711
+LPC,/en/lpc,C++,/en/cplusplus
+LPC,/en/lpc,Lisp,/wikipedia/it_id/11078
+LPC,/en/lpc,Perl,/en/perl
+Rexx,/en/rexx,BASIC,/en/basic
+Rexx,/en/rexx,EXEC 2,/en/exec_2
+Rexx,/en/rexx,PL/I,/en/pl_i
+AWK,/en/awk,C,/wikipedia/fr_id/1711
+AWK,/en/awk,SNOBOL,/en/snobol
+AWK,/en/awk,sed,/en/sed
+Self,/wikipedia/ja_id/905339,Smalltalk,/en/smalltalk
+NewtonScript,/en/newtonscript,Dylan,/en/dylan
+NewtonScript,/en/newtonscript,Self,/wikipedia/ja_id/905339
+NewtonScript,/en/newtonscript,Smalltalk,/en/smalltalk
+Visual Basic,/en/visual_basic,BASIC,/en/basic
+Visual Basic,/en/visual_basic,QuickBASIC,/en/quickbasic
+BBC BASIC,/en/bbc_basic,BASIC,/en/basic
+BBC BASIC,/en/bbc_basic,BCPL,/en/bcpl
+AppleScript,/en/applescript,HyperCard,/en/hypercard
+AppleScript,/en/applescript,HyperTalk,/en/hypertalk
+AppleScript,/en/applescript,Smalltalk,/en/smalltalk
+Squeak,/en/squeak,Lisp,/wikipedia/it_id/11078
+Squeak,/en/squeak,Logo,/wikipedia/bg_id/68599
+Squeak,/en/squeak,Self,/wikipedia/ja_id/905339
+Squeak,/en/squeak,Simula,/en/simula
+Squeak,/en/squeak,Smalltalk,/en/smalltalk
+Squeak,/en/squeak,Smalltalk-80,/en/smalltalk_80
+MUMPS,/en/mumps,Fortran,/en/fortran
+MUMPS,/en/mumps,JOSS,/en/joss
+MUMPS,/en/mumps,Speedcoding,/en/speedcoding
+MUMPS,/en/mumps,TELCOMP,/en/telcomp
+CycL,/en/cycl,Lisp,/wikipedia/it_id/11078
+SubL,/en/subl,Common Lisp,/en/common_lisp
+HTML,/en/html,XML,/en/extensible_markup_language
+Standard ML of New Jersey,/en/standard_ml_of_new_jersey,ML,/en/ml
+Standard ML of New Jersey,/en/standard_ml_of_new_jersey,Standard ML,/en/standard_ml
+Standard ML,/en/standard_ml,Hope,/en/hope_programming_language
+Standard ML,/en/standard_ml,ML,/en/ml
+VBScript,/en/vbscript,Visual Basic,/en/visual_basic
+Lua,/en/lua_programming_language,AWK,/en/awk
+Lua,/en/lua_programming_language,C++,/en/cplusplus
+Lua,/en/lua_programming_language,CLU,/en/clu
+Lua,/en/lua_programming_language,Icon,/wikipedia/fr/ICON
+Lua,/en/lua_programming_language,Lisp,/wikipedia/it_id/11078
+Lua,/en/lua_programming_language,Modula-2,/en/modula-2
+Lua,/en/lua_programming_language,Pascal,/wikipedia/ru/$041F$0430$0441$043A$0430$043B$044C_$0028$044F$0437$044B$043A_$043F$0440$043E$0433$0440$0430$043C$043C$0438$0440$043E$0432$0430$043D$0438$044F$0029
+Lua,/en/lua_programming_language,SNOBOL,/en/snobol
+Lua,/en/lua_programming_language,Scheme,/en/scheme
+Lua,/en/lua_programming_language,Self,/wikipedia/ja_id/905339
+ECMAScript,/en/ecmascript,AWK,/en/awk
+ECMAScript,/en/ecmascript,AmbientTalk,/en/ambienttalk
+ECMAScript,/en/ecmascript,C,/wikipedia/fr_id/1711
+ECMAScript,/en/ecmascript,HyperTalk,/en/hypertalk
+ECMAScript,/en/ecmascript,Java,/wikipedia/pt/Java_$0028linguagem_de_programa$00E7$00E3o$0029
+ECMAScript,/en/ecmascript,Perl,/en/perl
+ECMAScript,/en/ecmascript,Python,/wikipedia/fr/Python_$0028langage$0029
+ECMAScript,/en/ecmascript,Scheme,/en/scheme
+ECMAScript,/en/ecmascript,Self,/wikipedia/ja_id/905339
+ActionScript,/en/actionscript,Java,/wikipedia/pt/Java_$0028linguagem_de_programa$00E7$00E3o$0029
+ActionScript,/en/actionscript,JavaScript,/en/javascript
+JScript,/en/jscript,JavaScript,/en/javascript
+JScript .NET,/en/jscript_net,ECMAScript,/en/ecmascript
+JScript .NET,/en/jscript_net,JScript,/en/jscript
+JScript .NET,/en/jscript_net,JavaScript,/en/javascript
+Visual Basic .NET,/en/visual_basic_net,BASIC,/en/basic
+Visual Basic .NET,/en/visual_basic_net,F#,/en/f_sharp_programming_language
+Visual Basic .NET,/en/visual_basic_net,Haskell,/en/haskell
+Visual Basic .NET,/en/visual_basic_net,Visual Basic,/en/visual_basic
+StarLogo,/en/starlogo,Logo,/wikipedia/bg_id/68599
+NetLogo,/en/netlogo,Logo,/wikipedia/bg_id/68599
+NetLogo,/en/netlogo,StarLogo,/en/starlogo
+NetLogo,/en/netlogo,UCBLogo,/en/ucblogo
+Syp Script,/en/syp_script,BASIC,/en/basic
+Syp Script,/en/syp_script,Rebol,/en/rebol
+Rebol,/en/rebol,Forth,/en/forth
+Rebol,/en/rebol,Lisp,/wikipedia/it_id/11078
+Rebol,/en/rebol,Logo,/wikipedia/bg_id/68599
+Rebol,/en/rebol,Self,/wikipedia/ja_id/905339
+Rebol,/en/rebol,UCBLogo,/en/ucblogo
+XSLT,/en/xsl_transformations,Boomerang,/wikipedia/en_title/Boomerang_$0028programming_language$0029
+Kernel,/m/02rs85b,Scheme,/en/scheme
+Cat,/wikipedia/fr/Cat_$0028langage$0029,Common Intermediate Language,/en/common_intermediate_language
+Cat,/wikipedia/fr/Cat_$0028langage$0029,Factor,/en/factor_programming_language
+Cat,/wikipedia/fr/Cat_$0028langage$0029,Forth,/en/forth
+Cat,/wikipedia/fr/Cat_$0028langage$0029,Haskell,/en/haskell
+Cat,/wikipedia/fr/Cat_$0028langage$0029,Java bytecode,/en/java_bytecode
+Cat,/wikipedia/fr/Cat_$0028langage$0029,Joy,/en/joy_programming_language
+SPARK,/en/spark_programming_language,Ada,/en/ada
+SPARK,/en/spark_programming_language,Eiffel,/en/eiffel
+SPARK,/en/spark_programming_language,HAL/S,/en/hal_s
+COMAL,/en/comal,BASIC,/en/basic
+COMAL,/en/comal,Pascal,/wikipedia/ru/$041F$0430$0441$043A$0430$043B$044C_$0028$044F$0437$044B$043A_$043F$0440$043E$0433$0440$0430$043C$043C$0438$0440$043E$0432$0430$043D$0438$044F$0029
+J,/wikipedia/ja/J_$0028$30D7$30ED$30B0$30E9$30DF$30F3$30B0$8A00$8A9E$0029,APL,/en/apl
+J,/wikipedia/ja/J_$0028$30D7$30ED$30B0$30E9$30DF$30F3$30B0$8A00$8A9E$0029,FL,/en/fl
+J,/wikipedia/ja/J_$0028$30D7$30ED$30B0$30E9$30DF$30F3$30B0$8A00$8A9E$0029,FP,/en/fp
+Karel,/en/karel_programming_language,Pascal,/wikipedia/ru/$041F$0430$0441$043A$0430$043B$044C_$0028$044F$0437$044B$043A_$043F$0440$043E$0433$0440$0430$043C$043C$0438$0440$043E$0432$0430$043D$0438$044F$0029
+VistaSmalltalk,/en/vistasmalltalk,Smalltalk,/en/smalltalk
+SP/k,/en/sp_k,PL/I,/en/pl_i
+Windows PowerShell,/en/windows_powershell,AS/400 Control Language,/en/as_400_control_language
+Windows PowerShell,/en/windows_powershell,C#,/wikipedia/it_id/26842
+Windows PowerShell,/en/windows_powershell,DIGITAL Command Language,/en/digital_command_language
+Windows PowerShell,/en/windows_powershell,Korn shell,/en/korn_shell
+Windows PowerShell,/en/windows_powershell,Lisp,/wikipedia/it_id/11078
+Windows PowerShell,/en/windows_powershell,Perl,/en/perl
+Windows PowerShell,/en/windows_powershell,Ruby,/wikipedia/bg_id/86164
+Windows PowerShell,/en/windows_powershell,SQL,/en/sql
+Windows PowerShell,/en/windows_powershell,Tcl,/en/tcl
+Windows PowerShell,/en/windows_powershell,VBScript,/en/vbscript
+Hartmann pipeline,/en/hartmann_pipeline,APL,/en/apl
+Hartmann pipeline,/en/hartmann_pipeline,Pipeline,/wikipedia/fr/Tube_$0028shell$0029
+QBasic,/en/qbasic,GW-BASIC,/en/gw-basic
+QBasic,/en/qbasic,QuickBASIC,/en/quickbasic
+Turing,/en/turing_programming_language,Euclid,/en/euclid_programming_language
+Turing,/en/turing_programming_language,Pascal,/wikipedia/ru/$041F$0430$0441$043A$0430$043B$044C_$0028$044F$0437$044B$043A_$043F$0440$043E$0433$0440$0430$043C$043C$0438$0440$043E$0432$0430$043D$0438$044F$0029
+Turing,/en/turing_programming_language,SP/k,/en/sp_k
+occam,/en/occam,Communicating sequential processes,/en/communicating_sequential_processes
+Alef,/en/alef,C,/wikipedia/fr_id/1711
+Alef,/en/alef,Newsqueak,/en/newsqueak
+Cilk,/en/cilk,C,/wikipedia/fr_id/1711
+Claire,/en/claire_programming_language,C,/wikipedia/fr_id/1711
+Claire,/en/claire_programming_language,Lisp,/wikipedia/it_id/11078
+Claire,/en/claire_programming_language,ML,/en/ml
+Claire,/en/claire_programming_language,OPS5,/en/ops5
+Claire,/en/claire_programming_language,SETL,/en/setl
+Claire,/en/claire_programming_language,Smalltalk,/en/smalltalk
+NetRexx,/en/netrexx,BASIC,/en/basic
+NetRexx,/en/netrexx,EXEC 2,/en/exec_2
+NetRexx,/en/netrexx,Java,/wikipedia/pt/Java_$0028linguagem_de_programa$00E7$00E3o$0029
+NetRexx,/en/netrexx,Object REXX,/en/object_rexx
+NetRexx,/en/netrexx,PL/I,/en/pl_i
+NetRexx,/en/netrexx,Rexx,/en/rexx
+F-Script,/en/f-script_programming_language,APL,/en/apl
+F-Script,/en/f-script_programming_language,Smalltalk,/en/smalltalk
+Pike,/en/pike_programming_language,C,/wikipedia/fr_id/1711
+Pike,/en/pike_programming_language,C++,/en/cplusplus
+Pike,/en/pike_programming_language,LPC,/en/lpc
+Pike,/en/pike_programming_language,Lisp,/wikipedia/it_id/11078
+Logtalk,/en/logtalk,Objective-C,/en/objective-c
+Logtalk,/en/logtalk,Prolog,/en/prolog
+Logtalk,/en/logtalk,Smalltalk,/en/smalltalk
+Modula-2+,/en/modula_2plus,ALGOL,/wikipedia/ru_id/17770
+Modula-2+,/en/modula_2plus,Modula-2,/en/modula-2
+Modula-2+,/en/modula_2plus,Pascal,/wikipedia/ru/$041F$0430$0441$043A$0430$043B$044C_$0028$044F$0437$044B$043A_$043F$0440$043E$0433$0440$0430$043C$043C$0438$0440$043E$0432$0430$043D$0438$044F$0029
+AgentSheets,/en/agentsheets,Karel,/en/karel_programming_language
+AgentSheets,/en/agentsheets,Lisp,/wikipedia/it_id/11078
+AgentSheets,/en/agentsheets,Logo,/wikipedia/bg_id/68599
+AgentSheets,/en/agentsheets,Smalltalk,/en/smalltalk
+Speedcoding,/en/speedcoding,Assembly language,/en/assembly_language
+Split-C,/en/split-c,C,/wikipedia/fr_id/1711
+Joule,/wikipedia/en_title/Joule_$0028programming_language$0029,T,/wikipedia/en_title/T_$0028programming_language$0029
+Nemerle,/en/nemerle,C#,/wikipedia/it_id/26842
+Nemerle,/en/nemerle,Lisp,/wikipedia/it_id/11078
+Nemerle,/en/nemerle,ML,/en/ml
+BCPL,/en/bcpl,CPL,/en/combined_programming_language
+Scala,/en/scala_programming_language,Eiffel,/en/eiffel
+Scala,/en/scala_programming_language,Erlang,/en/erlang
+Scala,/en/scala_programming_language,Haskell,/en/haskell
+Scala,/en/scala_programming_language,Java,/wikipedia/pt/Java_$0028linguagem_de_programa$00E7$00E3o$0029
+Scala,/en/scala_programming_language,Lisp,/wikipedia/it_id/11078
+Scala,/en/scala_programming_language,ML,/en/ml
+Scala,/en/scala_programming_language,Oz,/wikipedia/es/Lenguaje_de_programaci$00F3n_Oz
+Scala,/en/scala_programming_language,Pizza,/en/pizza_programming_language
+Scala,/en/scala_programming_language,Scheme,/en/scheme
+Scala,/en/scala_programming_language,Smalltalk,/en/smalltalk
+Scala,/en/scala_programming_language,Standard ML,/en/standard_ml
+Sing#,/en/sing_sharp,Spec#,/en/spec_sharp
+Curry,/en/curry_programming_language,Haskell,/en/haskell
+Sather,/en/sather,CLU,/en/clu
+Sather,/en/sather,Common Lisp,/en/common_lisp
+Sather,/en/sather,Eiffel,/en/eiffel
+Sather,/en/sather,Scheme,/en/scheme
+Squirrel,/en/squirrel_programming_language,C++,/en/cplusplus
+Squirrel,/en/squirrel_programming_language,JavaScript,/en/javascript
+Squirrel,/en/squirrel_programming_language,Lua,/en/lua_programming_language
+Squirrel,/en/squirrel_programming_language,Python,/wikipedia/fr/Python_$0028langage$0029
+Limbo,/en/limbo_programming_language,Alef,/en/alef
+Limbo,/en/limbo_programming_language,C,/wikipedia/fr_id/1711
+Limbo,/en/limbo_programming_language,Communicating sequential processes,/en/communicating_sequential_processes
+Limbo,/en/limbo_programming_language,Newsqueak,/en/newsqueak
+Limbo,/en/limbo_programming_language,Pascal,/wikipedia/ru/$041F$0430$0441$043A$0430$043B$044C_$0028$044F$0437$044B$043A_$043F$0440$043E$0433$0440$0430$043C$043C$0438$0440$043E$0432$0430$043D$0438$044F$0029
+Bistro,/wikipedia/pt/Bistro_$0028linguagem_de_programa$00E7$00E3o$0029,Java,/wikipedia/pt/Java_$0028linguagem_de_programa$00E7$00E3o$0029
+Bistro,/wikipedia/pt/Bistro_$0028linguagem_de_programa$00E7$00E3o$0029,Smalltalk,/en/smalltalk
+Gambas,/en/gambas,Java,/wikipedia/pt/Java_$0028linguagem_de_programa$00E7$00E3o$0029
+Gambas,/en/gambas,Visual Basic,/en/visual_basic
+xHarbour,/en/xharbour,Harbour,/en/harbour_compiler
+E,/wikipedia/en_title/E_$0028programming_language$0029,Java,/wikipedia/pt/Java_$0028linguagem_de_programa$00E7$00E3o$0029
+E,/wikipedia/en_title/E_$0028programming_language$0029,Joule,/wikipedia/en_title/Joule_$0028programming_language$0029
+Object REXX,/en/object_rexx,BASIC,/en/basic
+Object REXX,/en/object_rexx,C++,/en/cplusplus
+Object REXX,/en/object_rexx,NetRexx,/en/netrexx
+Object REXX,/en/object_rexx,Rexx,/en/rexx
+Object REXX,/en/object_rexx,Smalltalk,/en/smalltalk
+ELAN,/en/elan_programming_language,ALGOL 68,/en/algol_68
+Cel,/en/cel_programming_language,Forth,/en/forth
+Cel,/en/cel_programming_language,NewtonScript,/en/newtonscript
+Cel,/en/cel_programming_language,Objective-C,/en/objective-c
+Cel,/en/cel_programming_language,Python,/wikipedia/fr/Python_$0028langage$0029
+Cel,/en/cel_programming_language,Self,/wikipedia/ja_id/905339
+Cel,/en/cel_programming_language,Smalltalk,/en/smalltalk
+TELCOMP,/en/telcomp,JOSS,/en/joss
+Qi,/wikipedia/en_title/Qi_$0028programming_language$0029,Haskell,/en/haskell
+Qi,/wikipedia/en_title/Qi_$0028programming_language$0029,Lisp,/wikipedia/it_id/11078
+Aldor,/en/aldor,"""A♯ (Axiom)""",/wikipedia/en_title/A_Sharp_$0028Axiom$0029
+Miranda,/en/miranda_programming_language,Hope,/en/hope_programming_language
+Miranda,/en/miranda_programming_language,ISWIM,/en/iswim
+Miranda,/en/miranda_programming_language,Kent Recursive Calculator,/en/kent_recursive_calculator
+Miranda,/en/miranda_programming_language,ML,/en/ml
+Miranda,/en/miranda_programming_language,SASL,/en/sasl_programming_language
+K,/wikipedia/en_title/K_$0028programming_language$0029,A+,/wikipedia/ja/A$002B
+K,/wikipedia/en_title/K_$0028programming_language$0029,APL,/en/apl
+K,/wikipedia/en_title/K_$0028programming_language$0029,J,/wikipedia/ja/J_$0028$30D7$30ED$30B0$30E9$30DF$30F3$30B0$8A00$8A9E$0029
+K,/wikipedia/en_title/K_$0028programming_language$0029,Scheme,/en/scheme
+Strand,/wikipedia/ja/Strand,Prolog,/en/prolog
+DIBOL,/en/dibol,BASIC,/en/basic
+DIBOL,/en/dibol,COBOL,/en/cobol
+DIBOL,/en/dibol,Fortran,/en/fortran
+SISAL,/en/sisal,C,/wikipedia/fr_id/1711
+SISAL,/en/sisal,Fortran,/en/fortran
+SISAL,/en/sisal,Lucid,/en/lucid
+SISAL,/en/sisal,Pascal,/wikipedia/ru/$041F$0430$0441$043A$0430$043B$044C_$0028$044F$0437$044B$043A_$043F$0440$043E$0433$0440$0430$043C$043C$0438$0440$043E$0432$0430$043D$0438$044F$0029
+XOTcl,/en/xotcl,OTcl,/en/otcl
+XOTcl,/en/xotcl,Tcl,/en/tcl
+RunRev,/en/runtime_revolution,SuperTalk,/en/supertalk
+A++,/en/aplusplus,Lambda calculus,/en/lambda_calculus
+EuLisp,/en/eulisp,Common Lisp,/en/common_lisp
+EuLisp,/en/eulisp,Common Lisp Object System,/en/clos
+EuLisp,/en/eulisp,Dylan,/en/dylan
+EuLisp,/en/eulisp,Interlisp,/en/interlisp
+EuLisp,/en/eulisp,Le Lisp,/en/le_lisp
+EuLisp,/en/eulisp,Oaklisp,/en/oaklisp
+EuLisp,/en/eulisp,ObjVlisp,/en/objvlisp
+EuLisp,/en/eulisp,Scheme,/en/scheme
+EuLisp,/en/eulisp,T,/wikipedia/en_title/T_$0028programming_language$0029
+ToonTalk,/en/toontalk_computer_programming_language,Janus,/wikipedia/en_title/Janus_$0028programming_language$0029
+BLISS,/en/bliss,ALGOL,/wikipedia/ru_id/17770
+JavaScript syntax,/en/javascript_syntax,AWK,/en/awk
+SuperCollider,/en/supercollider_programming_language,J,/wikipedia/ja/J_$0028$30D7$30ED$30B0$30E9$30DF$30F3$30B0$8A00$8A9E$0029
+Spec#,/en/spec_sharp,C#,/wikipedia/it_id/26842
+Spec#,/en/spec_sharp,Eiffel,/en/eiffel
+Phrogram,/en/kids_programming_language,C#,/wikipedia/it_id/26842
+SNOBOL,/en/snobol,COMIT,/en/comit
+Sleep programming language,/en/sleep_programming_language,Objective-C,/en/objective-c
+Sleep programming language,/en/sleep_programming_language,Perl,/en/perl
+Yoix,/en/yoix,C,/wikipedia/fr_id/1711
+Yoix,/en/yoix,Java,/wikipedia/pt/Java_$0028linguagem_de_programa$00E7$00E3o$0029
+Yoix,/en/yoix,PostScript,/en/postscript
+Ferite,/en/ferite,C,/wikipedia/fr_id/1711
+Ferite,/en/ferite,C++,/en/cplusplus
+Ferite,/en/ferite,Java,/wikipedia/pt/Java_$0028linguagem_de_programa$00E7$00E3o$0029
+Ferite,/en/ferite,PHP,/en/php
+Ferite,/en/ferite,Python,/wikipedia/fr/Python_$0028langage$0029
+Ferite,/en/ferite,Ruby,/wikipedia/bg_id/86164
+Ferite,/en/ferite,Scheme,/en/scheme
+Mary,/en/mary_programming_language,ALGOL 68,/en/algol_68
+MOO,/en/moo_programming_language,ALGOL,/wikipedia/ru_id/17770
+MOO,/en/moo_programming_language,Ada,/en/ada
+MOO,/en/moo_programming_language,C,/wikipedia/fr_id/1711
+MOO,/en/moo_programming_language,Lisp,/wikipedia/it_id/11078
+MOO,/en/moo_programming_language,MUF,/en/muf
+MOO,/en/moo_programming_language,Scheme,/en/scheme
+MOO,/en/moo_programming_language,Self,/wikipedia/ja_id/905339
+MOO,/en/moo_programming_language,Smalltalk,/en/smalltalk
+Ease,/en/ease_programming_language,Communicating sequential processes,/en/communicating_sequential_processes
+Ease,/en/ease_programming_language,occam,/en/occam
+Epigram,/en/epigram_programming_language,Algebraic Logic Functional programming language,/wikipedia/en_title/Algebraic_Logic_Functional_programming_language
+Epigram,/en/epigram_programming_language,Haskell,/en/haskell
+C--,/wikipedia/fr_id/1111779,C,/wikipedia/fr_id/1711
+Oaklisp,/en/oaklisp,Scheme,/en/scheme
+Oaklisp,/en/oaklisp,Smalltalk,/en/smalltalk
+Oaklisp,/en/oaklisp,T,/wikipedia/en_title/T_$0028programming_language$0029
+Cω,/wikipedia/pt_id/404784,C#,/wikipedia/it_id/26842
+Cω,/wikipedia/pt_id/404784,Polyphonic C#,/en/polyphonic_c_sharp
+GOO,/wikipedia/en_title/Goo_$0028programming_language$0029,Dylan,/en/dylan
+GOO,/wikipedia/en_title/Goo_$0028programming_language$0029,Scheme,/en/scheme
+LOLPython,/en/lolpython,LOLCODE,/en/lolcode
+Perl 6,/en/perl_6,Haskell,/en/haskell
+Perl 6,/en/perl_6,JavaScript,/en/javascript
+Perl 6,/en/perl_6,Perl,/en/perl
+Perl 6,/en/perl_6,Ruby,/wikipedia/bg_id/86164
+Perl 6,/en/perl_6,Smalltalk,/en/smalltalk
+Factor,/en/factor_programming_language,Forth,/en/forth
+Factor,/en/factor_programming_language,Haskell,/en/haskell
+Factor,/en/factor_programming_language,Joy,/en/joy_programming_language
+Factor,/en/factor_programming_language,Lisp,/wikipedia/it_id/11078
+Factor,/en/factor_programming_language,Self,/wikipedia/ja_id/905339
+Joy,/en/joy_programming_language,C,/wikipedia/fr_id/1711
+Joy,/en/joy_programming_language,FP,/en/fp
+Joy,/en/joy_programming_language,Forth,/en/forth
+Joy,/en/joy_programming_language,Scheme,/en/scheme
+Racket,/en/plt_scheme,Eiffel,/en/eiffel
+Racket,/en/plt_scheme,Lisp,/wikipedia/it_id/11078
+Racket,/en/plt_scheme,Scheme,/en/scheme
+Scheme48,/en/scheme48,T,/wikipedia/en_title/T_$0028programming_language$0029
+Scsh,/en/scsh,Scheme48,/en/scheme48
+Stackless Python,/en/stackless_python,Limbo,/en/limbo_programming_language
+Stackless Python,/en/stackless_python,Python,/wikipedia/fr/Python_$0028langage$0029
+Mantra,/m/02xkxpr,Python,/wikipedia/fr/Python_$0028langage$0029
+Mantra,/m/02xkxpr,Ruby,/wikipedia/bg_id/86164
+Pizza,/en/pizza_programming_language,Java,/wikipedia/pt/Java_$0028linguagem_de_programa$00E7$00E3o$0029
+AmbientTalk,/en/ambienttalk,E,/wikipedia/en_title/E_$0028programming_language$0029
+AmbientTalk,/en/ambienttalk,Scheme,/en/scheme
+AmbientTalk,/en/ambienttalk,Self,/wikipedia/ja_id/905339
+AmbientTalk,/en/ambienttalk,Smalltalk,/en/smalltalk
+Scratch,/wikipedia/de_id/2772564,AgentSheets,/en/agentsheets
+Scratch,/wikipedia/de_id/2772564,Etoys,/en/etoys
+Scratch,/wikipedia/de_id/2772564,HyperCard,/en/hypercard
+Scratch,/wikipedia/de_id/2772564,Logo,/wikipedia/bg_id/68599
+Scratch,/wikipedia/de_id/2772564,Smalltalk,/en/smalltalk
+Scratch,/wikipedia/de_id/2772564,Squeak,/en/squeak
+Scratch,/wikipedia/de_id/2772564,StarLogo,/en/starlogo
+Scratch,/wikipedia/de_id/2772564,UCBLogo,/en/ucblogo
+Urbi,/en/urbi,C++,/en/cplusplus
+Urbi,/en/urbi,Io,/wikipedia/de_id/216742
+Urbi,/en/urbi,Ruby,/wikipedia/bg_id/86164
+PL/SQL,/en/pl_sql,Ada,/en/ada
+PL/SQL,/en/pl_sql,Pascal,/wikipedia/ru/$041F$0430$0441$043A$0430$043B$044C_$0028$044F$0437$044B$043A_$043F$0440$043E$0433$0440$0430$043C$043C$0438$0440$043E$0432$0430$043D$0438$044F$0029
+PL/SQL,/en/pl_sql,SQL,/en/sql
+.QL,/wikipedia/en_title/$002EQL,Datalog,/en/datalog
+FOCAL,/en/focal_programming_language,JOSS,/en/joss
+GW-BASIC,/en/gw-basic,IBM BASIC,/en/microsoft_basica
+Karel++,/en/karelplusplus,Karel,/en/karel_programming_language
+CPL,/en/combined_programming_language,ALGOL,/wikipedia/ru_id/17770
+CPL,/en/combined_programming_language,ALGOL 60,/en/algol_60
+Polyphonic C#,/en/polyphonic_c_sharp,C#,/wikipedia/it_id/26842
+Generic Java,/en/generic_java_programming_language,Haskell,/en/haskell
+Generic Java,/en/generic_java_programming_language,Java,/wikipedia/pt/Java_$0028linguagem_de_programa$00E7$00E3o$0029
+Generic Java,/en/generic_java_programming_language,Pizza,/en/pizza_programming_language
+Lucid,/en/lucid,ISWIM,/en/iswim
+A+,/wikipedia/ja/A$002B,APL,/en/apl
+Alice ML,/en/alice_ml,ML,/en/ml
+Alice ML,/en/alice_ml,Oz,/wikipedia/es/Lenguaje_de_programaci$00F3n_Oz
+SuperTalk,/en/supertalk,HyperTalk,/m/03gm66v
+SuperTalk,/en/supertalk,Smalltalk,/en/smalltalk
+MetaCard,/m/03gm6gt,SuperTalk,/en/supertalk
+OracleCard,/en/oraclecard,SuperTalk,/en/supertalk
+SASL,/en/sasl_programming_language,ISWIM,/en/iswim
+Quark Framework,/en/quark_framework,Clean,/en/clean_programming_language
+Quark Framework,/en/quark_framework,Haskell,/en/haskell
+Quark Framework,/en/quark_framework,Java,/wikipedia/pt/Java_$0028linguagem_de_programa$00E7$00E3o$0029
+Clean,/en/clean_programming_language,Haskell,/en/haskell
+Clean,/en/clean_programming_language,ISWIM,/en/iswim
+Clean,/en/clean_programming_language,Lean,/m/01159vfc
+Clean,/en/clean_programming_language,Miranda,/en/miranda_programming_language
+Nial,/en/nial,APL,/en/apl
+Nial,/en/nial,Lisp,/wikipedia/it_id/11078
+Pure Data,/en/pure_data,Lucid,/en/lucid
+Unicon,/en/unicon_programming_language,Icon,/wikipedia/fr/ICON
+Curl,/en/curl_programming_language,C++,/en/cplusplus
+Curl,/en/curl_programming_language,HTML,/en/html
+Curl,/en/curl_programming_language,JavaScript,/en/javascript
+Curl,/en/curl_programming_language,Lisp,/wikipedia/it_id/11078
+Curl,/en/curl_programming_language,TeX,/en/tex
+colorForth,/en/colorforth,Forth,/en/forth
+UnrealScript,/en/unrealscript,C++,/en/cplusplus
+UnrealScript,/en/unrealscript,Java,/wikipedia/pt/Java_$0028linguagem_de_programa$00E7$00E3o$0029
+Oberon-2,/en/oberon-2,Modula-2,/en/modula-2
+Oberon-2,/en/oberon-2,Oberon,/wikipedia/es/Lenguaje_de_programaci$00F3n_Oberon
+Oberon-2,/en/oberon-2,Object Oberon,/en/object_oberon
+Oberon-2,/en/oberon-2,Pascal,/wikipedia/ru/$041F$0430$0441$043A$0430$043B$044C_$0028$044F$0437$044B$043A_$043F$0440$043E$0433$0440$0430$043C$043C$0438$0440$043E$0432$0430$043D$0438$044F$0029
+OPS5,/en/ops5,Lisp,/wikipedia/it_id/11078
+Etoys,/en/etoys,AgentSheets,/en/agentsheets
+Etoys,/en/etoys,HyperCard,/en/hypercard
+Etoys,/en/etoys,Logo,/wikipedia/bg_id/68599
+Etoys,/en/etoys,Smalltalk,/en/smalltalk
+Etoys,/en/etoys,Squeak,/en/squeak
+Etoys,/en/etoys,StarLogo,/en/starlogo
+Etoys,/en/etoys,UCBLogo,/en/ucblogo
+Frink,/en/frink,BASIC,/en/basic
+Frink,/en/frink,Java,/wikipedia/pt/Java_$0028linguagem_de_programa$00E7$00E3o$0029
+Frink,/en/frink,Perl,/en/perl
+Frink,/en/frink,Ruby,/wikipedia/bg_id/86164
+Frink,/en/frink,Smalltalk,/en/smalltalk
+Orc,/wikipedia/en_title/Orc_$0028programming_language$0029,Haskell,/en/haskell
+Orc,/wikipedia/en_title/Orc_$0028programming_language$0029,ML,/en/ml
+Orc,/wikipedia/en_title/Orc_$0028programming_language$0029,Oz,/wikipedia/es/Lenguaje_de_programaci$00F3n_Oz
+Orc,/wikipedia/en_title/Orc_$0028programming_language$0029,Smalltalk,/en/smalltalk
+Unlambda,/en/unlambda,Lambda calculus,/en/lambda_calculus
+Unlambda,/en/unlambda,SKI combinator calculus,/en/ski_combinator_calculus
+Timber,/wikipedia/en_title/Timber_$0028programming_language$0029,Haskell,/en/haskell
+MetaL,/wikipedia/en_title/MetaL_$0028programming_language$0029,XML,/en/extensible_markup_language
+Io,/wikipedia/de_id/216742,Lisp,/wikipedia/it_id/11078
+Io,/wikipedia/de_id/216742,Lua,/en/lua_programming_language
+Io,/wikipedia/de_id/216742,NewtonScript,/en/newtonscript
+Io,/wikipedia/de_id/216742,Python,/wikipedia/fr/Python_$0028langage$0029
+Io,/wikipedia/de_id/216742,Self,/wikipedia/ja_id/905339
+Io,/wikipedia/de_id/216742,Smalltalk,/en/smalltalk
+Judoscript,/en/judoscript,Java,/wikipedia/pt/Java_$0028linguagem_de_programa$00E7$00E3o$0029
+Judoscript,/en/judoscript,Perl,/en/perl
+Judoscript,/en/judoscript,Python,/wikipedia/fr/Python_$0028langage$0029
+Judoscript,/en/judoscript,Ruby,/wikipedia/bg_id/86164
+Judoscript,/en/judoscript,Smalltalk,/en/smalltalk
+Vala,/wikipedia/it/Vala_$0028linguaggio$0029,C,/wikipedia/fr_id/1711
+Vala,/wikipedia/it/Vala_$0028linguaggio$0029,C#,/wikipedia/it_id/26842
+Vala,/wikipedia/it/Vala_$0028linguaggio$0029,C++,/en/cplusplus
+Vala,/wikipedia/it/Vala_$0028linguaggio$0029,D,/en/d
+Vala,/wikipedia/it/Vala_$0028linguaggio$0029,Java,/wikipedia/pt/Java_$0028linguagem_de_programa$00E7$00E3o$0029
+VisSim,/en/vissim,C,/wikipedia/fr_id/1711
+Lustre,/en/lustre_programming_language,Lucid,/en/lucid
+Tom,/wikipedia/pt_id/1981314,Objective-C,/en/objective-c
+ISWIM,/en/iswim,ALGOL 60,/en/algol_60
+ISWIM,/en/iswim,Lisp,/wikipedia/it_id/11078
+F#,/en/f_sharp_programming_language,C#,/wikipedia/it_id/26842
+F#,/en/f_sharp_programming_language,Caml,/en/caml
+F#,/en/f_sharp_programming_language,Erlang,/en/erlang
+F#,/en/f_sharp_programming_language,Haskell,/en/haskell
+F#,/en/f_sharp_programming_language,ML,/en/ml
+F#,/en/f_sharp_programming_language,Python,/wikipedia/fr/Python_$0028langage$0029
+F#,/en/f_sharp_programming_language,Scala,/en/scala_programming_language
+S-Lang,/en/s-lang,C,/wikipedia/fr_id/1711
+Abundance,/m/09trtv,Forth,/en/forth
+Befunge,/en/befunge,FALSE,/en/false
+S,/en/s_programming_language,APL,/en/apl
+S,/en/s_programming_language,C,/wikipedia/fr_id/1711
+S,/en/s_programming_language,Fortran,/en/fortran
+S,/en/s_programming_language,Scheme,/en/scheme
+XL,/en/xl_programming_language,Ada,/en/ada
+XL,/en/xl_programming_language,C++,/en/cplusplus
+Q,/en/q_programming_language,APL,/en/apl
+newLISP,/en/newlisp,Common Lisp,/en/common_lisp
+MDL,/en/mdl_programming_language,Lisp,/wikipedia/it_id/11078
+ABAP,/en/abap,COBOL,/en/cobol
+ABAP,/en/abap,Java,/wikipedia/pt/Java_$0028linguagem_de_programa$00E7$00E3o$0029
+ABAP,/en/abap,Objective-C,/en/objective-c
+ABAP,/en/abap,SQL,/en/sql
+MetaPost,/en/metapost,Metafont,/en/metafont
+V,/m/02vmlcq,Joy,/en/joy_programming_language
+V,/m/02vmlcq,PostScript,/en/postscript
+Game Maker Language,/en/game_maker_language,BASIC,/en/basic
+Game Maker Language,/en/game_maker_language,C,/wikipedia/fr_id/1711
+Game Maker Language,/en/game_maker_language,Object Pascal,/en/object_pascal
+Euler,/en/euler_programming_language,ALGOL,/wikipedia/ru_id/17770
+Euler,/en/euler_programming_language,ALGOL 60,/en/algol_60
+ColdC,/en/coldc,C,/wikipedia/fr_id/1711
+ColdC,/en/coldc,MOO,/en/moo_programming_language
+ColdC,/en/coldc,MUF,/en/muf
+NumPy,/en/numerical_python,J,/wikipedia/ja/J_$0028$30D7$30ED$30B0$30E9$30DF$30F3$30B0$8A00$8A9E$0029
+Aikido Programming Language,/en/aikido_programming_language,Ada,/en/ada
+Aikido Programming Language,/en/aikido_programming_language,BASIC,/en/basic
+Aikido Programming Language,/en/aikido_programming_language,C,/wikipedia/fr_id/1711
+Aikido Programming Language,/en/aikido_programming_language,C++,/en/cplusplus
+Aikido Programming Language,/en/aikido_programming_language,Java,/wikipedia/pt/Java_$0028linguagem_de_programa$00E7$00E3o$0029
+Aikido Programming Language,/en/aikido_programming_language,JavaScript,/en/javascript
+Aikido Programming Language,/en/aikido_programming_language,Pascal,/wikipedia/ru/$041F$0430$0441$043A$0430$043B$044C_$0028$044F$0437$044B$043A_$043F$0440$043E$0433$0440$0430$043C$043C$0438$0440$043E$0432$0430$043D$0438$044F$0029
+Aikido Programming Language,/en/aikido_programming_language,Perl,/en/perl
+Aikido Programming Language,/en/aikido_programming_language,Verilog,/en/verilog
+Processing,/en/processing,C,/wikipedia/fr_id/1711
+Processing,/en/processing,Design By Numbers,/en/design_by_numbers
+Processing,/en/processing,Java,/wikipedia/pt/Java_$0028linguagem_de_programa$00E7$00E3o$0029
+Processing,/en/processing,Logo,/wikipedia/bg_id/68599
+Processing,/en/processing,PostScript,/en/postscript
+PL/pgSQL,/en/pl_pgsql,PL/SQL,/en/pl_sql
+R,/wikipedia/pt/R_$0028linguagem_de_programa$00E7$00E3o$0029,Common Lisp,/en/common_lisp
+R,/wikipedia/pt/R_$0028linguagem_de_programa$00E7$00E3o$0029,Lisp,/wikipedia/it_id/11078
+R,/wikipedia/pt/R_$0028linguagem_de_programa$00E7$00E3o$0029,S,/en/s_programming_language
+R,/wikipedia/pt/R_$0028linguagem_de_programa$00E7$00E3o$0029,Scheme,/en/scheme
+Asymptote,/wikipedia/it/Asymptote,MetaPost,/en/metapost
+CLIPS,/en/clips_programming_language,Lisp,/wikipedia/it_id/11078
+MIVA Script,/en/mivascript,C,/wikipedia/fr_id/1711
+MIVA Script,/en/mivascript,C++,/en/cplusplus
+MIVA Script,/en/mivascript,Java,/wikipedia/pt/Java_$0028linguagem_de_programa$00E7$00E3o$0029
+MIVA Script,/en/mivascript,Perl,/en/perl
+QuakeC,/en/quakec,C,/wikipedia/fr_id/1711
+AMPL,/en/ampl,AWK,/en/awk
+AMPL,/en/ampl,C,/wikipedia/fr_id/1711
+AutoIt,/en/autoit,BASIC,/en/basic
+B,/en/b_programming_language,BCPL,/en/bcpl
+B,/en/b_programming_language,PL/I,/en/pl_i
+BeanShell,/en/beanshell,Java,/wikipedia/pt/Java_$0028linguagem_de_programa$00E7$00E3o$0029
+BeanShell,/en/beanshell,Perl,/en/perl
+BeanShell,/en/beanshell,Python,/wikipedia/fr/Python_$0028langage$0029
+BeanShell,/en/beanshell,Ruby,/wikipedia/bg_id/86164
+BeanShell,/en/beanshell,Smalltalk,/en/smalltalk
+BETA,/en/beta,Simula,/en/simula
+Caché ObjectScript,/en/cache_objectscript,MUMPS,/en/mumps
+Cayenne,/en/cayenne_programming_language,Haskell,/en/haskell
+Chapel,/en/chapel_programming_language,High Performance Fortran,/en/high_performance_fortran
+Chapel,/en/chapel_programming_language,ZPL,/en/zpl_programming_language
+CHILL,/en/chill,COBOL,/en/cobol
+CHILL,/en/chill,PL/I,/en/pl_i
+CobolScript,/en/cobolscript,COBOL,/en/cobol
+Cobra,/wikipedia/en_title/Cobra_$0028programming_language$0029,C#,/wikipedia/it_id/26842
+Cobra,/wikipedia/en_title/Cobra_$0028programming_language$0029,Eiffel,/en/eiffel
+Cobra,/wikipedia/en_title/Cobra_$0028programming_language$0029,Objective-C,/en/objective-c
+Cobra,/wikipedia/en_title/Cobra_$0028programming_language$0029,Python,/wikipedia/fr/Python_$0028langage$0029
+Component Pascal,/en/component_pascal,Oberon-2,/en/oberon-2
+Component Pascal,/en/component_pascal,Pascal,/wikipedia/ru/$041F$0430$0441$043A$0430$043B$044C_$0028$044F$0437$044B$043A_$043F$0440$043E$0433$0440$0430$043C$043C$0438$0440$043E$0432$0430$043D$0438$044F$0029
+Coral 66,/en/coral66_programming_language,ALGOL,/wikipedia/ru_id/17770
+Coral 66,/en/coral66_programming_language,JOVIAL,/en/jovial
+COWSEL,/en/cowsel,Lisp,/wikipedia/it_id/11078
+Cyclone,/en/cyclone_programming_language,ML,/en/ml
+Dao Language,/en/dao_language,C++,/en/cplusplus
+Dao Language,/en/dao_language,Lua,/en/lua_programming_language
+Dao Language,/en/dao_language,Perl,/en/perl
+Dao Language,/en/dao_language,Python,/wikipedia/fr/Python_$0028langage$0029
+Dao Language,/en/dao_language,Squirrel,/en/squirrel_programming_language
+Datalog,/en/datalog,Prolog,/en/prolog
+Euclid,/en/euclid_programming_language,Pascal,/wikipedia/ru/$041F$0430$0441$043A$0430$043B$044C_$0028$044F$0437$044B$043A_$043F$0440$043E$0433$0440$0430$043C$043C$0438$0440$043E$0432$0430$043D$0438$044F$0029
+Felix,/en/felix_programming_language,C++,/en/cplusplus
+Felix,/en/felix_programming_language,ML,/en/ml
+Fortress,/en/fortress_programming_language,Fortran,/en/fortran
+Fortress,/en/fortress_programming_language,Haskell,/en/haskell
+Fortress,/en/fortress_programming_language,Scala,/en/scala_programming_language
+GRASS,/en/grass_programming_language,BASIC,/en/basic
+JOVIAL,/en/jovial,ALGOL,/wikipedia/ru_id/17770
+Kent Recursive Calculator,/en/kent_recursive_calculator,SASL,/en/sasl_programming_language
+Lisaac,/en/lisaac,Eiffel,/en/eiffel
+Lisaac,/en/lisaac,Self,/wikipedia/ja_id/905339
+Lisaac,/en/lisaac,Smalltalk,/en/smalltalk
+MAD,/en/mad_programming_language,ALGOL 58,/en/algol_58
+Nickle,/en/nickle_programming_language,C,/wikipedia/fr_id/1711
+Nickle,/en/nickle_programming_language,Java,/wikipedia/pt/Java_$0028linguagem_de_programa$00E7$00E3o$0029
+Nickle,/en/nickle_programming_language,Lisp,/wikipedia/it_id/11078
+Nickle,/en/nickle_programming_language,ML,/en/ml
+Nickle,/en/nickle_programming_language,Modula-3,/en/modula-3
+Obliq,/en/obliq_programming_language,Modula-3,/en/modula-3
+Obliq,/en/obliq_programming_language,Oberon,/wikipedia/es/Lenguaje_de_programaci$00F3n_Oberon
+Obliq,/en/obliq_programming_language,Self,/wikipedia/ja_id/905339
+PCASTL,/en/pcastl,C,/wikipedia/fr_id/1711
+PCASTL,/en/pcastl,R,/wikipedia/pt/R_$0028linguagem_de_programa$00E7$00E3o$0029
+Polymorphic Programming Language,/en/polymorphic_programming_language,APL,/en/apl
+POP-11,/en/pop-11,Lisp,/wikipedia/it_id/11078
+PowerBASIC,/en/powerbasic,QBasic,/en/qbasic
+PowerBASIC,/en/powerbasic,QuickBASIC,/en/quickbasic
+PowerBASIC,/en/powerbasic,Turbo Basic,/en/turbo_basic
+Ratfor,/en/ratfor,Fortran,/en/fortran
+Ratfor,/en/ratfor,Speedcoding,/en/speedcoding
+LiveCode,/en/revolution_programming_language,HyperTalk,/en/hypertalk
+RPL,/en/rpl_programming_language,Forth,/en/forth
+Script.NET,/en/script_net,JavaScript,/en/javascript
+Slate programming language,/en/slate_programming_language,Common Lisp,/en/common_lisp
+Slate programming language,/en/slate_programming_language,Dylan,/en/dylan
+Slate programming language,/en/slate_programming_language,Self,/wikipedia/ja_id/905339
+Slate programming language,/en/slate_programming_language,Smalltalk,/en/smalltalk
+Slate programming language,/en/slate_programming_language,Strongtalk,/en/strongtalk
+SYMPL,/en/sympl,JOVIAL,/en/jovial
+thinBasic,/en/thinbasic,PowerBASIC,/en/powerbasic
+TOM,/wikipedia/en_title/TOM_$0028object-oriented_programming_language$0029,Objective-C,/en/objective-c
+Verilog,/en/verilog,C,/wikipedia/fr_id/1711
+VHDL,/en/vhsic_hardware_description_language,Ada,/en/ada
+VHDL,/en/vhsic_hardware_description_language,Pascal,/wikipedia/ru/$041F$0430$0441$043A$0430$043B$044C_$0028$044F$0437$044B$043A_$043F$0440$043E$0433$0440$0430$043C$043C$0438$0440$043E$0432$0430$043D$0438$044F$0029
+X10,/wikipedia/ru/X10_$0028$044F$0437$044B$043A_$043F$0440$043E$0433$0440$0430$043C$043C$0438$0440$043E$0432$0430$043D$0438$044F$0029,Java,/wikipedia/pt/Java_$0028linguagem_de_programa$00E7$00E3o$0029
+XQuery,/en/xquery,SQL,/en/sql
+XQuery,/en/xquery,XPath,/en/xpath
+XQuery,/en/xquery,XSLT,/en/xsl_transformations
+Language Integrated Query,/en/language_integrated_query,Cω,/wikipedia/pt_id/404784
+Language Integrated Query,/en/language_integrated_query,Haskell,/en/haskell
+Language Integrated Query,/en/language_integrated_query,SQL,/en/sql
+Parlog,/en/parlog,Prolog,/en/prolog
+Tea,/en/tea_programming_language,Tcl,/en/tcl
+BitC,/en/bitc,C,/wikipedia/fr_id/1711
+BitC,/en/bitc,Haskell,/en/haskell
+BitC,/en/bitc,ML,/en/ml
+NWScript,/en/nwscript,C,/wikipedia/fr_id/1711
+NWScript,/en/nwscript,Java,/wikipedia/pt/Java_$0028linguagem_de_programa$00E7$00E3o$0029
+ProSet,/en/proset,SETL,/en/setl
+Agora,/en/agora_programming_language,Self,/wikipedia/ja_id/905339
+POP-2,/en/pop-2,COWSEL,/en/cowsel
+POP-2,/en/pop-2,CPL,/en/combined_programming_language
+POP-2,/en/pop-2,Lisp,/wikipedia/it_id/11078
+Unified Parallel C,/en/unified_parallel_c,C,/wikipedia/fr_id/1711
+Unified Parallel C,/en/unified_parallel_c,Split-C,/en/split-c
+Object-Oriented Turing,/en/object-oriented_turing,Turing,/en/turing_programming_language
+Object-Oriented Turing,/en/object-oriented_turing,Turing+,/en/turing_plus
+Le Lisp,/en/le_lisp,Common Lisp,/en/common_lisp
+GameMonkey Script,/en/gamemonkey_script,Lua,/en/lua_programming_language
+CAL,/en/cal_programming_language,JOSS,/en/joss
+SAC programming language,/en/sac_programming_language,APL,/en/apl
+SAC programming language,/en/sac_programming_language,C,/wikipedia/fr_id/1711
+SAC programming language,/en/sac_programming_language,SISAL,/en/sisal
+Croma,/en/croma,Lisp,/wikipedia/it_id/11078
+Nyquist,/en/nyquist,Lisp,/wikipedia/it_id/11078
+SCAR programming language,/en/scar_programming_language,Pascal,/wikipedia/ru/$041F$0430$0441$043A$0430$043B$044C_$0028$044F$0437$044B$043A_$043F$0440$043E$0433$0440$0430$043C$043C$0438$0440$043E$0432$0430$043D$0438$044F$0029
+Haxe,/en/haxe,ActionScript,/en/actionscript
+Haxe,/en/haxe,C#,/wikipedia/it_id/26842
+Shakespeare,/wikipedia/fr_id/2743615,Assembly language,/en/assembly_language
+C*,/wikipedia/en_title/C$002A,ANSI C,/en/ansi_c
+C*,/wikipedia/en_title/C$002A,Unified Parallel C,/en/unified_parallel_c
+chomski,/en/chomski,AWK,/en/awk
+chomski,/en/chomski,sed,/en/sed
+Q,/wikipedia/en_title/Q_$0028programming_language_from_Kx_Systems$0029,A+,/wikipedia/ja/A$002B
+Q,/wikipedia/en_title/Q_$0028programming_language_from_Kx_Systems$0029,APL,/en/apl
+Q,/wikipedia/en_title/Q_$0028programming_language_from_Kx_Systems$0029,K,/wikipedia/en_title/K_$0028programming_language$0029
+Q,/wikipedia/en_title/Q_$0028programming_language_from_Kx_Systems$0029,Scheme,/en/scheme
+Cobra,/m/0fkk97,Pascal,/wikipedia/ru/$041F$0430$0441$043A$0430$043B$044C_$0028$044F$0437$044B$043A_$043F$0440$043E$0433$0440$0430$043C$043C$0438$0440$043E$0432$0430$043D$0438$044F$0029
+Cobra,/m/0fkk97,Python,/wikipedia/fr/Python_$0028langage$0029
+IBM RPG II,/en/rpg_ii,IBM RPG,/en/rpg_programming_language
+AS/400 Control Language,/en/as_400_control_language,Job Control Language,/en/job_control_language
+AS/400 Control Language,/en/as_400_control_language,PL/I,/en/pl_i
+Draco,/wikipedia/en_title/Draco_$0028programming_language$0029,ALGOL 68,/en/algol_68
+Draco,/wikipedia/en_title/Draco_$0028programming_language$0029,C,/wikipedia/fr_id/1711
+Draco,/wikipedia/en_title/Draco_$0028programming_language$0029,Pascal,/wikipedia/ru/$041F$0430$0441$043A$0430$043B$044C_$0028$044F$0437$044B$043A_$043F$0440$043E$0433$0440$0430$043C$043C$0438$0440$043E$0432$0430$043D$0438$044F$0029
+ISLISP,/en/islisp,Common Lisp,/en/common_lisp
+ISLISP,/en/islisp,EuLisp,/en/eulisp
+Arc,/wikipedia/ru_id/2247840,Lisp,/wikipedia/it_id/11078
+Concurrent Euclid,/en/concurrent_euclid,Communicating sequential processes,/en/communicating_sequential_processes
+Concurrent Euclid,/en/concurrent_euclid,Euclid,/en/euclid_programming_language
+Turing+,/en/turing_plus,Concurrent Euclid,/en/concurrent_euclid
+Turing+,/en/turing_plus,Turing,/en/turing_programming_language
+Blueprint,/m/027y3_j,C++,/en/cplusplus
+Blueprint,/m/027y3_j,Lisp,/wikipedia/it_id/11078
+Blueprint,/m/027y3_j,Smalltalk,/en/smalltalk
+MiniD,/en/minid,D,/en/d
+MiniD,/en/minid,ECMAScript,/en/ecmascript
+MiniD,/en/minid,Io,/wikipedia/de_id/216742
+MiniD,/en/minid,Lua,/en/lua_programming_language
+MiniD,/en/minid,Python,/wikipedia/fr/Python_$0028langage$0029
+MiniD,/en/minid,Squirrel,/en/squirrel_programming_language
+Dartmouth BASIC,/en/dartmouth_basic,ALGOL,/wikipedia/ru_id/17770
+Dartmouth BASIC,/en/dartmouth_basic,Fortran,/en/fortran
+Lasso,/en/lasso_programming_language,Dylan,/en/dylan
+Lasso,/en/lasso_programming_language,Scala,/en/scala_programming_language
+Lasso,/en/lasso_programming_language,Smalltalk,/en/smalltalk
+KM,/en/km_programming_language,KRL,/en/krl
+S3,/wikipedia/en_title/S3_$0028programming_language$0029,ALGOL 68,/en/algol_68
+Cool,/wikipedia/en_title/Cool_$0028programming_language$0029,Java,/wikipedia/pt/Java_$0028linguagem_de_programa$00E7$00E3o$0029
+Cool,/wikipedia/en_title/Cool_$0028programming_language$0029,ML,/en/ml
+Cool,/wikipedia/en_title/Cool_$0028programming_language$0029,Pascal,/wikipedia/ru/$041F$0430$0441$043A$0430$043B$044C_$0028$044F$0437$044B$043A_$043F$0440$043E$0433$0440$0430$043C$043C$0438$0440$043E$0432$0430$043D$0438$044F$0029
+Cool,/wikipedia/en_title/Cool_$0028programming_language$0029,Sather,/en/sather
+Nu,/wikipedia/en_title/Nu_$0028programming_language$0029,Lisp,/wikipedia/it_id/11078
+Nu,/wikipedia/en_title/Nu_$0028programming_language$0029,Objective-C,/en/objective-c
+Nu,/wikipedia/en_title/Nu_$0028programming_language$0029,Ruby,/wikipedia/bg_id/86164
+Armed Bear Common Lisp,/en/armed_bear_common_lisp,Common Lisp,/en/common_lisp
+Euphoria,/en/euphoria_programming_language,Ada,/en/ada
+Escher,/en/escher,Haskell,/en/haskell
+Orwell,/wikipedia/en_title/Orwell_$0028programming_language$0029,Miranda,/en/miranda_programming_language
+Clojure,/en/clojure,Common Lisp,/en/common_lisp
+Clojure,/en/clojure,Erlang,/en/erlang
+Clojure,/en/clojure,Haskell,/en/haskell
+Clojure,/en/clojure,Java,/wikipedia/pt/Java_$0028linguagem_de_programa$00E7$00E3o$0029
+Clojure,/en/clojure,Lisp,/wikipedia/it_id/11078
+Clojure,/en/clojure,ML,/en/ml
+Clojure,/en/clojure,Prolog,/en/prolog
+Clojure,/en/clojure,Racket,/en/plt_scheme
+Clojure,/en/clojure,Ruby,/wikipedia/bg_id/86164
+Clojure,/en/clojure,Scheme,/en/scheme
+QUILL,/wikipedia/en_title/QUILL,C++,/en/cplusplus
+QUILL,/wikipedia/en_title/QUILL,Java,/wikipedia/pt/Java_$0028linguagem_de_programa$00E7$00E3o$0029
+QUILL,/wikipedia/en_title/QUILL,Pascal,/wikipedia/ru/$041F$0430$0441$043A$0430$043B$044C_$0028$044F$0437$044B$043A_$043F$0440$043E$0433$0440$0430$043C$043C$0438$0440$043E$0432$0430$043D$0438$044F$0029
+CGOL,/en/cgol,ALGOL,/wikipedia/ru_id/17770
+CGOL,/en/cgol,Fortran,/en/fortran
+CGOL,/en/cgol,MLisp,/en/mlisp
+Fantom,/wikipedia/ja_id/2086305,C#,/wikipedia/it_id/26842
+Fantom,/wikipedia/ja_id/2086305,Erlang,/en/erlang
+Fantom,/wikipedia/ja_id/2086305,Java,/wikipedia/pt/Java_$0028linguagem_de_programa$00E7$00E3o$0029
+Fantom,/wikipedia/ja_id/2086305,Ruby,/wikipedia/bg_id/86164
+Fantom,/wikipedia/ja_id/2086305,Scala,/en/scala_programming_language
+Objective-J,/en/objective_j,JavaScript,/en/javascript
+Objective-J,/en/objective_j,Objective-C,/en/objective-c
+DECLAN Pro,/en/declan_pro,JavaScript,/en/javascript
+DECLAN Pro,/en/declan_pro,Object Pascal,/en/object_pascal
+Ioke,/en/ioke,Io,/wikipedia/de_id/216742
+Ioke,/en/ioke,Lisp,/wikipedia/it_id/11078
+Ioke,/en/ioke,Ruby,/wikipedia/bg_id/86164
+Ioke,/en/ioke,Smalltalk,/en/smalltalk
+Kaya,/m/04yf9ks,C,/wikipedia/fr_id/1711
+Kaya,/m/04yf9ks,Haskell,/en/haskell
+Pure,/wikipedia/en_title/Pure_$0028programming_language$0029,Alice ML,/en/alice_ml
+Pure,/wikipedia/en_title/Pure_$0028programming_language$0029,Haskell,/en/haskell
+Pure,/wikipedia/en_title/Pure_$0028programming_language$0029,Lisp,/wikipedia/it_id/11078
+Pure,/wikipedia/en_title/Pure_$0028programming_language$0029,MATLAB,/en/matlab
+Pure,/wikipedia/en_title/Pure_$0028programming_language$0029,Q,/en/q_programming_language
+Mudlle,/en/mudlle,LPC,/en/lpc
+Mudlle,/en/mudlle,Scheme,/en/scheme
+ATS,/wikipedia/ru/ATS_$0028$044F$0437$044B$043A_$043F$0440$043E$0433$0440$0430$043C$043C$0438$0440$043E$0432$0430$043D$0438$044F$0029,Dependent ML,/en/dependent_ml
+ATS,/wikipedia/ru/ATS_$0028$044F$0437$044B$043A_$043F$0440$043E$0433$0440$0430$043C$043C$0438$0440$043E$0432$0430$043D$0438$044F$0029,ML,/en/ml
+Hot Soup Processor,/en/hot_soup_processor,BASIC,/en/basic
+Little b,/en/little_b,Lisp,/wikipedia/it_id/11078
+Cadence SKILL,/en/cadence_skill,Common Lisp,/en/common_lisp
+Cadence SKILL,/en/cadence_skill,Common Lisp Object System,/en/clos
+Cadence SKILL,/en/cadence_skill,Scheme,/en/scheme
+Corba IDL,/en/corba_idl,C,/wikipedia/fr_id/1711
+Corba IDL,/en/corba_idl,C++,/en/cplusplus
+Corba IDL,/en/corba_idl,COBOL,/en/cobol
+Corba IDL,/en/corba_idl,Smalltalk,/en/smalltalk
+Ambi,/en/ambi,Cat,/wikipedia/fr/Cat_$0028langage$0029
+Ambi,/en/ambi,Forth,/en/forth
+Falcon,/wikipedia/it_id/2239401,C++,/en/cplusplus
+Falcon,/wikipedia/it_id/2239401,Lisp,/wikipedia/it_id/11078
+Falcon,/wikipedia/it_id/2239401,Lua,/en/lua_programming_language
+Falcon,/wikipedia/it_id/2239401,PHP,/en/php
+Falcon,/wikipedia/it_id/2239401,Perl,/en/perl
+Falcon,/wikipedia/it_id/2239401,Python,/wikipedia/fr/Python_$0028langage$0029
+Falcon,/wikipedia/it_id/2239401,Ruby,/wikipedia/bg_id/86164
+Falcon,/wikipedia/it_id/2239401,Smalltalk,/en/smalltalk
+Babbage,/wikipedia/en_title/Babbage_$0028programming_language$0029,BCPL,/en/bcpl
+JSON,/en/json,Rebol,/en/rebol
+Java,/wikipedia/pt/Java_$0028linguagem_de_programa$00E7$00E3o$0029,Ada,/en/ada
+Java,/wikipedia/pt/Java_$0028linguagem_de_programa$00E7$00E3o$0029,C,/wikipedia/fr_id/1711
+Java,/wikipedia/pt/Java_$0028linguagem_de_programa$00E7$00E3o$0029,C#,/wikipedia/it_id/26842
+Java,/wikipedia/pt/Java_$0028linguagem_de_programa$00E7$00E3o$0029,C++,/en/cplusplus
+Java,/wikipedia/pt/Java_$0028linguagem_de_programa$00E7$00E3o$0029,Common Lisp,/en/common_lisp
+Java,/wikipedia/pt/Java_$0028linguagem_de_programa$00E7$00E3o$0029,Eiffel,/en/eiffel
+Java,/wikipedia/pt/Java_$0028linguagem_de_programa$00E7$00E3o$0029,Generic Java,/en/generic_java_programming_language
+Java,/wikipedia/pt/Java_$0028linguagem_de_programa$00E7$00E3o$0029,Haskell,/en/haskell
+Java,/wikipedia/pt/Java_$0028linguagem_de_programa$00E7$00E3o$0029,Mesa,/wikipedia/de_id/1570385
+Java,/wikipedia/pt/Java_$0028linguagem_de_programa$00E7$00E3o$0029,Modula-3,/en/modula-3
+Java,/wikipedia/pt/Java_$0028linguagem_de_programa$00E7$00E3o$0029,Oaklisp,/en/oaklisp
+Java,/wikipedia/pt/Java_$0028linguagem_de_programa$00E7$00E3o$0029,Oberon,/wikipedia/es/Lenguaje_de_programaci$00F3n_Oberon
+Java,/wikipedia/pt/Java_$0028linguagem_de_programa$00E7$00E3o$0029,Object Pascal,/en/object_pascal
+Java,/wikipedia/pt/Java_$0028linguagem_de_programa$00E7$00E3o$0029,Objective-C,/en/objective-c
+Java,/wikipedia/pt/Java_$0028linguagem_de_programa$00E7$00E3o$0029,Pascal,/wikipedia/ru/$041F$0430$0441$043A$0430$043B$044C_$0028$044F$0437$044B$043A_$043F$0440$043E$0433$0440$0430$043C$043C$0438$0440$043E$0432$0430$043D$0438$044F$0029
+Java,/wikipedia/pt/Java_$0028linguagem_de_programa$00E7$00E3o$0029,Smalltalk,/en/smalltalk
+Java,/wikipedia/pt/Java_$0028linguagem_de_programa$00E7$00E3o$0029,UCSD Pascal,/en/ucsd_pascal
+Go,/wikipedia/ru/Go_$0028$044F$0437$044B$043A_$043F$0440$043E$0433$0440$0430$043C$043C$0438$0440$043E$0432$0430$043D$0438$044F$0029,Alef,/en/alef
+Go,/wikipedia/ru/Go_$0028$044F$0437$044B$043A_$043F$0440$043E$0433$0440$0430$043C$043C$0438$0440$043E$0432$0430$043D$0438$044F$0029,C,/wikipedia/fr_id/1711
+Go,/wikipedia/ru/Go_$0028$044F$0437$044B$043A_$043F$0440$043E$0433$0440$0430$043C$043C$0438$0440$043E$0432$0430$043D$0438$044F$0029,Limbo,/en/limbo_programming_language
+Go,/wikipedia/ru/Go_$0028$044F$0437$044B$043A_$043F$0440$043E$0433$0440$0430$043C$043C$0438$0440$043E$0432$0430$043D$0438$044F$0029,Modula,/en/modula
+Go,/wikipedia/ru/Go_$0028$044F$0437$044B$043A_$043F$0440$043E$0433$0440$0430$043C$043C$0438$0440$043E$0432$0430$043D$0438$044F$0029,Newsqueak,/en/newsqueak
+Go,/wikipedia/ru/Go_$0028$044F$0437$044B$043A_$043F$0440$043E$0433$0440$0430$043C$043C$0438$0440$043E$0432$0430$043D$0438$044F$0029,Oberon,/wikipedia/es/Lenguaje_de_programaci$00F3n_Oberon
+Go,/wikipedia/ru/Go_$0028$044F$0437$044B$043A_$043F$0440$043E$0433$0440$0430$043C$043C$0438$0440$043E$0432$0430$043D$0438$044F$0029,Pascal,/wikipedia/ru/$041F$0430$0441$043A$0430$043B$044C_$0028$044F$0437$044B$043A_$043F$0440$043E$0433$0440$0430$043C$043C$0438$0440$043E$0432$0430$043D$0438$044F$0029
+Go,/wikipedia/ru/Go_$0028$044F$0437$044B$043A_$043F$0440$043E$0433$0440$0430$043C$043C$0438$0440$043E$0432$0430$043D$0438$044F$0029,Python,/wikipedia/fr/Python_$0028langage$0029
+Go,/wikipedia/ru/Go_$0028$044F$0437$044B$043A_$043F$0440$043E$0433$0440$0430$043C$043C$0438$0440$043E$0432$0430$043D$0438$044F$0029,occam,/en/occam
+PureBasic,/en/purebasic,BASIC,/en/basic
+ELENA,/m/0dg9lh5,Smalltalk,/en/smalltalk
+Argh!,/m/0dgcxwt,Befunge,/en/befunge
+QuickBASIC,/en/quickbasic,GW-BASIC,/en/gw-basic
+Agda,/en/agda_theorem_prover,Coq,/en/coq
+Agda,/en/agda_theorem_prover,Epigram,/en/epigram_programming_language
+Agda,/en/agda_theorem_prover,Haskell,/en/haskell
+Coq,/en/coq,ML,/en/ml
+Objeck,/wikipedia/en_title/Objeck_$0028programming_language$0029,C#,/wikipedia/it_id/26842
+Objeck,/wikipedia/en_title/Objeck_$0028programming_language$0029,Pascal,/wikipedia/ru/$041F$0430$0441$043A$0430$043B$044C_$0028$044F$0437$044B$043A_$043F$0440$043E$0433$0440$0430$043C$043C$0438$0440$043E$0432$0430$043D$0438$044F$0029
+Objeck,/wikipedia/en_title/Objeck_$0028programming_language$0029,Scheme,/en/scheme
+Alpoca,/m/0gh50t7,C,/wikipedia/fr_id/1711
+Alpoca,/m/0gh50t7,C++,/en/cplusplus
+Alpoca,/m/0gh50t7,Factor,/en/factor_programming_language
+Alpoca,/m/0gh50t7,Java,/wikipedia/pt/Java_$0028linguagem_de_programa$00E7$00E3o$0029
+Alpoca,/m/0gh50t7,Python,/wikipedia/fr/Python_$0028langage$0029
+Argus,/wikipedia/en_title/Argus_$0028programming_language$0029,CLU,/en/clu
+CoffeeScript,/wikipedia/en_title/CoffeeScript,Haskell,/en/haskell
+CoffeeScript,/wikipedia/en_title/CoffeeScript,JavaScript,/en/javascript
+CoffeeScript,/wikipedia/en_title/CoffeeScript,Perl,/en/perl
+CoffeeScript,/wikipedia/en_title/CoffeeScript,Python,/wikipedia/fr/Python_$0028langage$0029
+CoffeeScript,/wikipedia/en_title/CoffeeScript,Ruby,/wikipedia/bg_id/86164
+CoffeeScript,/wikipedia/en_title/CoffeeScript,YAML,/en/yaml
+MoonScript,/m/0hjlb4k,CoffeeScript,/wikipedia/en_title/CoffeeScript
+Beginners Programming Language,/en/bpl_beginners_programming_langauge,AutoIt,/en/autoit
+Beginners Programming Language,/en/bpl_beginners_programming_langauge,Liberty BASIC,/en/liberty_basic
+Liberty BASIC,/en/liberty_basic,QuickBASIC,/en/quickbasic
+Liberty BASIC,/en/liberty_basic,Smalltalk,/en/smalltalk
+TTM,/wikipedia/en_title/TTM_$0028programming_language$0029,TRAC,/en/trac_programming_language
+Elixir,/wikipedia/en_title/Elixir_$0028programming_language$0029,Clojure,/en/clojure
+Elixir,/wikipedia/en_title/Elixir_$0028programming_language$0029,Erlang,/en/erlang
+Elixir,/wikipedia/en_title/Elixir_$0028programming_language$0029,LFE,/dataworld/freeq/job_fc372b70-658e-4162-b332-6858145a4195_var_en_wikipedia_org_wiki_LFE_$0028programming_language$0029
+Elixir,/wikipedia/en_title/Elixir_$0028programming_language$0029,Ruby,/wikipedia/bg_id/86164
+Stylus,/wikipedia/en_title/Stylus_$0028stylesheet_language$0029,Cascading Style Sheets,/en/cascading_style_sheets
+Stylus,/wikipedia/en_title/Stylus_$0028stylesheet_language$0029,LESS,/wikipedia/en_title/LESS_$0028stylesheet_language$0029
+Stylus,/wikipedia/en_title/Stylus_$0028stylesheet_language$0029,Sass,/wikipedia/de_id/5460460
+Sass,/wikipedia/de_id/5460460,Cascading Style Sheets,/en/cascading_style_sheets
+Sass,/wikipedia/de_id/5460460,LESS,/wikipedia/en_title/LESS_$0028stylesheet_language$0029
+LESS,/wikipedia/en_title/LESS_$0028stylesheet_language$0029,Cascading Style Sheets,/en/cascading_style_sheets
+LESS,/wikipedia/en_title/LESS_$0028stylesheet_language$0029,Sass,/wikipedia/de_id/5460460
+F*,/wikipedia/en_title/F$002A_$0028programming_language$0029,F#,/en/f_sharp_programming_language
+SPL,/wikipedia/en_title/SPL_$0028Search_Processing_Language$0029,Pipeline,/wikipedia/fr/Tube_$0028shell$0029
+SPL,/wikipedia/en_title/SPL_$0028Search_Processing_Language$0029,SQL,/en/sql
+XPath,/en/xpath,XSLT,/en/xsl_transformations
+Idris,/wikipedia/en_title/Idris_$0028programming_language$0029,Agda,/en/agda_theorem_prover
+Idris,/wikipedia/en_title/Idris_$0028programming_language$0029,Coq,/en/coq
+Idris,/wikipedia/en_title/Idris_$0028programming_language$0029,Epigram,/en/epigram_programming_language
+Idris,/wikipedia/en_title/Idris_$0028programming_language$0029,Haskell,/en/haskell
+Idris,/wikipedia/en_title/Idris_$0028programming_language$0029,ML,/en/ml
+BAIL,/wikipedia/en_title/BAIL_$0028programming_language$0029,BASIC,/en/basic
+BAIL,/wikipedia/en_title/BAIL_$0028programming_language$0029,C,/wikipedia/fr_id/1711
+Nimrod,/m/0vpk27_,Ada,/en/ada
+Nimrod,/m/0vpk27_,C++,/en/cplusplus
+Nimrod,/m/0vpk27_,Lisp,/wikipedia/it_id/11078
+Nimrod,/m/0vpk27_,Modula-3,/en/modula-3
+Nimrod,/m/0vpk27_,Object Pascal,/en/object_pascal
+Nimrod,/m/0vpk27_,Python,/wikipedia/fr/Python_$0028langage$0029
+UCBLogo,/en/ucblogo,Lisp,/wikipedia/it_id/11078
+Rust,/wikipedia/en_title/Rust_$0028programming_language$0029,Alef,/en/alef
+Rust,/wikipedia/en_title/Rust_$0028programming_language$0029,C,/wikipedia/fr_id/1711
+Rust,/wikipedia/en_title/Rust_$0028programming_language$0029,C#,/wikipedia/it_id/26842
+Rust,/wikipedia/en_title/Rust_$0028programming_language$0029,C++,/en/cplusplus
+Rust,/wikipedia/en_title/Rust_$0028programming_language$0029,Camlp4,/en/camlp4
+Rust,/wikipedia/en_title/Rust_$0028programming_language$0029,Common Lisp,/en/common_lisp
+Rust,/wikipedia/en_title/Rust_$0028programming_language$0029,Cyclone,/en/cyclone_programming_language
+Rust,/wikipedia/en_title/Rust_$0028programming_language$0029,Erlang,/en/erlang
+Rust,/wikipedia/en_title/Rust_$0028programming_language$0029,Haskell,/en/haskell
+Rust,/wikipedia/en_title/Rust_$0028programming_language$0029,Hermes,/wikipedia/en_title/Hermes_$0028programming_language$0029
+Rust,/wikipedia/en_title/Rust_$0028programming_language$0029,Limbo,/en/limbo_programming_language
+Rust,/wikipedia/en_title/Rust_$0028programming_language$0029,Napier88,/en/napier88
+Rust,/wikipedia/en_title/Rust_$0028programming_language$0029,Newsqueak,/en/newsqueak
+Rust,/wikipedia/en_title/Rust_$0028programming_language$0029,Racket,/en/plt_scheme
+Rust,/wikipedia/en_title/Rust_$0028programming_language$0029,Ruby,/wikipedia/bg_id/86164
+Rust,/wikipedia/en_title/Rust_$0028programming_language$0029,Sather,/en/sather
+Rust,/wikipedia/en_title/Rust_$0028programming_language$0029,Standard ML,/en/standard_ml
+Fancy,/wikipedia/en_title/Fancy_$0028programming_language$0029,Erlang,/en/erlang
+Fancy,/wikipedia/en_title/Fancy_$0028programming_language$0029,Io,/wikipedia/de_id/216742
+Fancy,/wikipedia/en_title/Fancy_$0028programming_language$0029,Ruby,/wikipedia/bg_id/86164
+Fancy,/wikipedia/en_title/Fancy_$0028programming_language$0029,Smalltalk,/en/smalltalk
+Nemo,/dataworld/freeq/job_6cf50b0b-5659-4545-bd53-dd269f729755_var_en_wikipedia_org_wiki_Nemo_$0028programming_language$0029,C,/wikipedia/fr_id/1711
+Nemo,/dataworld/freeq/job_6cf50b0b-5659-4545-bd53-dd269f729755_var_en_wikipedia_org_wiki_Nemo_$0028programming_language$0029,Perl,/en/perl
+Ya,/dataworld/freeq/job_da6fe9a6-2c8a-4c8d-a872-f953b895c101_var_en_wikipedia_org_wiki_Ya_$0028programming_language$0029,C++,/en/cplusplus
+Ya,/dataworld/freeq/job_da6fe9a6-2c8a-4c8d-a872-f953b895c101_var_en_wikipedia_org_wiki_Ya_$0028programming_language$0029,Ceylon,/wikipedia/en_title/Ceylon_$0028programming_language$0029
+Ciao,/wikipedia/en_title/Ciao_$0028programming_language$0029,Prolog,/en/prolog
+Julia,/wikipedia/en_title/Julia_$0028programming_language$0029,C,/wikipedia/fr_id/1711
+Julia,/wikipedia/en_title/Julia_$0028programming_language$0029,Common Lisp,/en/common_lisp
+Julia,/wikipedia/en_title/Julia_$0028programming_language$0029,Dylan,/en/dylan
+Julia,/wikipedia/en_title/Julia_$0028programming_language$0029,Fortran,/en/fortran
+Julia,/wikipedia/en_title/Julia_$0028programming_language$0029,Lisp,/wikipedia/it_id/11078
+Julia,/wikipedia/en_title/Julia_$0028programming_language$0029,MATLAB,/en/matlab
+Julia,/wikipedia/en_title/Julia_$0028programming_language$0029,Perl,/en/perl
+Julia,/wikipedia/en_title/Julia_$0028programming_language$0029,Python,/wikipedia/fr/Python_$0028langage$0029
+Julia,/wikipedia/en_title/Julia_$0028programming_language$0029,R,/wikipedia/pt/R_$0028linguagem_de_programa$00E7$00E3o$0029
+Julia,/wikipedia/en_title/Julia_$0028programming_language$0029,Ruby,/wikipedia/bg_id/86164
+Julia,/wikipedia/en_title/Julia_$0028programming_language$0029,Scheme,/en/scheme
+Julia,/wikipedia/en_title/Julia_$0028programming_language$0029,Wolfram Language,/dataworld/freeq/job_fe78308a-a639-40d8-9a0f-68bd5c1305df_var_en_wikipedia_org_wiki_Wolfram_$0028programming_language$0029
+Joyce,/wikipedia/en_title/Joyce_$0028programming_language$0029,Concurrent Pascal,/en/concurrent_pascal
+Joyce,/wikipedia/en_title/Joyce_$0028programming_language$0029,Pascal,/wikipedia/ru/$041F$0430$0441$043A$0430$043B$044C_$0028$044F$0437$044B$043A_$043F$0440$043E$0433$0440$0430$043C$043C$0438$0440$043E$0432$0430$043D$0438$044F$0029
+Dart,/wikipedia/en_title/Dart_$0028programming_language$0029,C#,/wikipedia/it_id/26842
+Dart,/wikipedia/en_title/Dart_$0028programming_language$0029,Erlang,/en/erlang
+Dart,/wikipedia/en_title/Dart_$0028programming_language$0029,JavaScript,/en/javascript
+Dart,/wikipedia/en_title/Dart_$0028programming_language$0029,Smalltalk,/en/smalltalk
+SuperPascal,/en/superpascal,Concurrent Pascal,/en/concurrent_pascal
+SuperPascal,/en/superpascal,Joyce,/wikipedia/en_title/Joyce_$0028programming_language$0029
+SuperPascal,/en/superpascal,Pascal,/wikipedia/ru/$041F$0430$0441$043A$0430$043B$044C_$0028$044F$0437$044B$043A_$043F$0440$043E$0433$0440$0430$043C$043C$0438$0440$043E$0432$0430$043D$0438$044F$0029
+SuperPascal,/en/superpascal,occam,/en/occam
+ParaSail,/wikipedia/en_title/ParaSail_$0028programming_language$0029,Ada,/en/ada
+ParaSail,/wikipedia/en_title/ParaSail_$0028programming_language$0029,ML,/en/ml
+ParaSail,/wikipedia/en_title/ParaSail_$0028programming_language$0029,Modula,/en/modula
+ParaSail,/wikipedia/en_title/ParaSail_$0028programming_language$0029,Pascal,/wikipedia/ru/$041F$0430$0441$043A$0430$043B$044C_$0028$044F$0437$044B$043A_$043F$0440$043E$0433$0440$0430$043C$043C$0438$0440$043E$0432$0430$043D$0438$044F$0029
+ALGOL 60,/en/algol_60,ALGOL 58,/en/algol_58
+Dolittle,/dataworld/freeq/job_88bb6bd8-0f37-4943-9adb-80892f3ec3b9_var_en_wikipedia_org_wiki_Dolittle_$0028programming_language$0029,Logo,/wikipedia/bg_id/68599
+Potion,/dataworld/freeq/job_88bb6bd8-0f37-4943-9adb-80892f3ec3b9_var_en_wikipedia_org_wiki_Potion_$0028programming_language$0029,C,/wikipedia/fr_id/1711
+Potion,/dataworld/freeq/job_88bb6bd8-0f37-4943-9adb-80892f3ec3b9_var_en_wikipedia_org_wiki_Potion_$0028programming_language$0029,Io,/wikipedia/de_id/216742
+Potion,/dataworld/freeq/job_88bb6bd8-0f37-4943-9adb-80892f3ec3b9_var_en_wikipedia_org_wiki_Potion_$0028programming_language$0029,Lua,/en/lua_programming_language
+Potion,/dataworld/freeq/job_88bb6bd8-0f37-4943-9adb-80892f3ec3b9_var_en_wikipedia_org_wiki_Potion_$0028programming_language$0029,Rebol,/en/rebol
+Potion,/dataworld/freeq/job_88bb6bd8-0f37-4943-9adb-80892f3ec3b9_var_en_wikipedia_org_wiki_Potion_$0028programming_language$0029,Ruby,/wikipedia/bg_id/86164
+Potion,/dataworld/freeq/job_88bb6bd8-0f37-4943-9adb-80892f3ec3b9_var_en_wikipedia_org_wiki_Potion_$0028programming_language$0029,Smalltalk,/en/smalltalk
+Hoon,/dataworld/freeq/job_6b792f7c-9c35-48bf-afa6-1e7a2a970ba5_var_en_wikipedia_org_wiki_Hoon_$0028programming_language$0029,C,/wikipedia/fr_id/1711
+P*,/dataworld/freeq/job_57a0acb3-264f-4329-b948-525ab8e14fbc_var_en_wikipedia_org_wiki_P$002A,C,/wikipedia/fr_id/1711
+P*,/dataworld/freeq/job_57a0acb3-264f-4329-b948-525ab8e14fbc_var_en_wikipedia_org_wiki_P$002A,C++,/en/cplusplus
+P*,/dataworld/freeq/job_57a0acb3-264f-4329-b948-525ab8e14fbc_var_en_wikipedia_org_wiki_P$002A,PHP,/en/php
+P*,/dataworld/freeq/job_57a0acb3-264f-4329-b948-525ab8e14fbc_var_en_wikipedia_org_wiki_P$002A,Perl,/en/perl
+Genie,/wikipedia/es/Genie_$0028lenguaje_de_programaci$00F3n$0029,Boo,/en/boo
+Genie,/wikipedia/es/Genie_$0028lenguaje_de_programaci$00F3n$0029,D,/en/d
+Genie,/wikipedia/es/Genie_$0028lenguaje_de_programaci$00F3n$0029,Object Pascal,/en/object_pascal
+Genie,/wikipedia/es/Genie_$0028lenguaje_de_programaci$00F3n$0029,Python,/wikipedia/fr/Python_$0028langage$0029
+Xojo,/en/realbasic,BASIC,/en/basic
+Xojo,/en/realbasic,Visual Basic,/en/visual_basic
+LFE,/dataworld/freeq/job_fc372b70-658e-4162-b332-6858145a4195_var_en_wikipedia_org_wiki_LFE_$0028programming_language$0029,Common Lisp,/en/common_lisp
+LFE,/dataworld/freeq/job_fc372b70-658e-4162-b332-6858145a4195_var_en_wikipedia_org_wiki_LFE_$0028programming_language$0029,Elixir,/wikipedia/en_title/Elixir_$0028programming_language$0029
+LFE,/dataworld/freeq/job_fc372b70-658e-4162-b332-6858145a4195_var_en_wikipedia_org_wiki_LFE_$0028programming_language$0029,Erlang,/en/erlang
+LFE,/dataworld/freeq/job_fc372b70-658e-4162-b332-6858145a4195_var_en_wikipedia_org_wiki_LFE_$0028programming_language$0029,Scheme,/en/scheme
+Hack,/dataworld/freeq/job_a7c6672a-3218-436d-9199-448dbdeb2124_var_en_wikipedia_org_wiki_Hack_$0028programming_language$0029,C#,/wikipedia/it_id/26842
+Hack,/dataworld/freeq/job_a7c6672a-3218-436d-9199-448dbdeb2124_var_en_wikipedia_org_wiki_Hack_$0028programming_language$0029,Java,/wikipedia/pt/Java_$0028linguagem_de_programa$00E7$00E3o$0029
+Hack,/dataworld/freeq/job_a7c6672a-3218-436d-9199-448dbdeb2124_var_en_wikipedia_org_wiki_Hack_$0028programming_language$0029,PHP,/en/php
+LotusScript,/en/lotusscript,Visual Basic,/en/visual_basic
+KL0,/en/kl0,Prolog,/en/prolog
+SystemVerilog,/en/systemverilog,Verilog,/en/verilog
+Kotlin,/dataworld/freeq/job_97bee9f2-44cd-48e5-a6e4-8fb0994e8ae6_var_en_wikipedia_org_wiki_Kotlin_$0028programming_language$0029,C#,/wikipedia/it_id/26842
+Kotlin,/dataworld/freeq/job_97bee9f2-44cd-48e5-a6e4-8fb0994e8ae6_var_en_wikipedia_org_wiki_Kotlin_$0028programming_language$0029,Groovy,/en/groovy
+Kotlin,/dataworld/freeq/job_97bee9f2-44cd-48e5-a6e4-8fb0994e8ae6_var_en_wikipedia_org_wiki_Kotlin_$0028programming_language$0029,Java,/wikipedia/pt/Java_$0028linguagem_de_programa$00E7$00E3o$0029
+Kotlin,/dataworld/freeq/job_97bee9f2-44cd-48e5-a6e4-8fb0994e8ae6_var_en_wikipedia_org_wiki_Kotlin_$0028programming_language$0029,Scala,/en/scala_programming_language
+Opa,/wikipedia/en_title/Opa_$0028programming_language$0029,Erlang,/en/erlang
+Opa,/wikipedia/en_title/Opa_$0028programming_language$0029,JavaScript,/en/javascript
+Opa,/wikipedia/en_title/Opa_$0028programming_language$0029,ML,/en/ml
+Reia,/en/reia,Erlang,/en/erlang
+Reia,/en/reia,Python,/wikipedia/fr/Python_$0028langage$0029
+Reia,/en/reia,Ruby,/wikipedia/bg_id/86164
+Newsqueak,/en/newsqueak,C,/wikipedia/fr_id/1711
+Newsqueak,/en/newsqueak,Communicating sequential processes,/en/communicating_sequential_processes
+Qore,/m/0hnc442,Perl,/en/perl
+Boxer,/m/010p5v53,Logo,/wikipedia/bg_id/68599
+DScript,/m/010pkn7n,D,/en/d
+Premise,/dataworld/freeq/job_e8f1caf2-6b5c-43d6-ac03-28a4ed3e809c_var_en_wikipedia_org_wiki_Premise_$0028programming_language$0029,CLIPS,/en/clips_programming_language
+Premise,/dataworld/freeq/job_e8f1caf2-6b5c-43d6-ac03-28a4ed3e809c_var_en_wikipedia_org_wiki_Premise_$0028programming_language$0029,JavaScript,/en/javascript
+Premise,/dataworld/freeq/job_e8f1caf2-6b5c-43d6-ac03-28a4ed3e809c_var_en_wikipedia_org_wiki_Premise_$0028programming_language$0029,Lisp,/wikipedia/it_id/11078
+Premise,/dataworld/freeq/job_e8f1caf2-6b5c-43d6-ac03-28a4ed3e809c_var_en_wikipedia_org_wiki_Premise_$0028programming_language$0029,Logo,/wikipedia/bg_id/68599
+Premise,/dataworld/freeq/job_e8f1caf2-6b5c-43d6-ac03-28a4ed3e809c_var_en_wikipedia_org_wiki_Premise_$0028programming_language$0029,OPS5,/en/ops5
+Premise,/dataworld/freeq/job_e8f1caf2-6b5c-43d6-ac03-28a4ed3e809c_var_en_wikipedia_org_wiki_Premise_$0028programming_language$0029,Self,/wikipedia/ja_id/905339
+Swift,/dataworld/freeq/job_abea7b16-a55a-4d95-8ac0-5100371bfbac_var_en_wikipedia_org_wiki_Swift_$0028Apple_programming_language$0029,C#,/wikipedia/it_id/26842
+Swift,/dataworld/freeq/job_abea7b16-a55a-4d95-8ac0-5100371bfbac_var_en_wikipedia_org_wiki_Swift_$0028Apple_programming_language$0029,CLU,/en/clu
+Swift,/dataworld/freeq/job_abea7b16-a55a-4d95-8ac0-5100371bfbac_var_en_wikipedia_org_wiki_Swift_$0028Apple_programming_language$0029,Haskell,/en/haskell
+Swift,/dataworld/freeq/job_abea7b16-a55a-4d95-8ac0-5100371bfbac_var_en_wikipedia_org_wiki_Swift_$0028Apple_programming_language$0029,Objective-C,/en/objective-c
+Swift,/dataworld/freeq/job_abea7b16-a55a-4d95-8ac0-5100371bfbac_var_en_wikipedia_org_wiki_Swift_$0028Apple_programming_language$0029,Python,/wikipedia/fr/Python_$0028langage$0029
+Swift,/dataworld/freeq/job_abea7b16-a55a-4d95-8ac0-5100371bfbac_var_en_wikipedia_org_wiki_Swift_$0028Apple_programming_language$0029,Ruby,/wikipedia/bg_id/86164
+Swift,/dataworld/freeq/job_abea7b16-a55a-4d95-8ac0-5100371bfbac_var_en_wikipedia_org_wiki_Swift_$0028Apple_programming_language$0029,Rust,/wikipedia/en_title/Rust_$0028programming_language$0029
+Swift,/dataworld/freeq/job_abea7b16-a55a-4d95-8ac0-5100371bfbac_var_en_wikipedia_org_wiki_Swift_$0028Apple_programming_language$0029,Scala,/en/scala_programming_language
+LiveScript,/dataworld/freeq/job_97bee9f2-44cd-48e5-a6e4-8fb0994e8ae6_var_en_wikipedia_org_wiki_LiveScript,CoffeeScript,/wikipedia/en_title/CoffeeScript
+LiveScript,/dataworld/freeq/job_97bee9f2-44cd-48e5-a6e4-8fb0994e8ae6_var_en_wikipedia_org_wiki_LiveScript,F#,/en/f_sharp_programming_language
+LiveScript,/dataworld/freeq/job_97bee9f2-44cd-48e5-a6e4-8fb0994e8ae6_var_en_wikipedia_org_wiki_LiveScript,Haskell,/en/haskell
+LiveScript,/dataworld/freeq/job_97bee9f2-44cd-48e5-a6e4-8fb0994e8ae6_var_en_wikipedia_org_wiki_LiveScript,JavaScript,/en/javascript
+Tritium,/wikipedia/en_title/Tritium_$0028programming_language$0029,Sass,/wikipedia/de_id/5460460
+Tritium,/wikipedia/en_title/Tritium_$0028programming_language$0029,XSLT,/en/xsl_transformations
+ELI,/dataworld/freeq/job_91c5f39d-30ad-46ba-bb20-a3e294e29df8_var_en_wikipedia_org_wiki_ELI_$0028programming_language$0029,APL,/en/apl
+ELI,/dataworld/freeq/job_91c5f39d-30ad-46ba-bb20-a3e294e29df8_var_en_wikipedia_org_wiki_ELI_$0028programming_language$0029,Q,/wikipedia/en_title/Q_$0028programming_language_from_Kx_Systems$0029
