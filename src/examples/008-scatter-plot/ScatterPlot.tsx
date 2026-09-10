@@ -1,4 +1,4 @@
-import { useEffect, useRef } from 'react';
+import { useEffect, useMemo, useRef } from 'react';
 import { select } from 'd3-selection';
 import { useDimensions } from '../005-responsive-pseudo-scatter-plot/useDimensions';
 import { usePenguinsDataset } from '../006-loading-and-summarizing-data/usePenguinsDataset';
@@ -17,20 +17,32 @@ export function ScatterPlot() {
   const svgRef = useRef<SVGSVGElement>(null);
   const { ref: divRef, dimensions } = useDimensions();
   const data = usePenguinsDataset();
-  const scales = useScales({ data, ...dimensions, margins, xValue, yValue });
+
+  // Some rows in the dataset have missing measurements (NA), which would
+  // map to undefined circle positions and render as stray dots at the
+  // origin. Drop those rows so every remaining row maps to a valid circle.
+  const rows = useMemo(
+    () =>
+      data?.filter(
+        (row) => Number.isFinite(row.bill_length_mm) && Number.isFinite(row.bill_depth_mm),
+      ) ?? null,
+    [data],
+  );
+
+  const scales = useScales({ data: rows, ...dimensions, margins, xValue, yValue });
 
   useEffect(() => {
     const svg = svgRef.current;
-    if (!svg || dimensions.width === 0 || dimensions.height === 0 || !data || !scales) return;
+    if (!svg || dimensions.width === 0 || dimensions.height === 0 || !rows || !scales) return;
 
     renderCircles(select(svg), {
-      data,
+      data: rows,
       xScale: scales.xScale,
       yScale: scales.yScale,
       xValue,
       yValue,
     });
-  }, [dimensions, data, scales]);
+  }, [dimensions, rows, scales]);
 
   useEffect(() => {
     const svg = svgRef.current;
