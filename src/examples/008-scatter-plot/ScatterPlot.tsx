@@ -5,9 +5,7 @@ import { usePenguinsDataset } from '../006-loading-and-summarizing-data/usePengu
 import type { PenguinRow } from '../006-loading-and-summarizing-data/usePenguinsDataset';
 import type { Margin } from './margin';
 import { useScales } from './useScales';
-import { renderCircles } from './renderCircles';
-import { renderAxes } from './renderAxes';
-import { renderLabels } from './renderLabels';
+import { renderViz } from './renderViz';
 
 // Accessors extract the x and y values from each row of the dataset.
 const xValue = (row: PenguinRow) => row.bill_length_mm;
@@ -46,25 +44,14 @@ export function ScatterPlot() {
     const svg = svgRef.current;
     if (!svg || dimensions.width === 0 || dimensions.height === 0 || !rows || !scales) return;
 
-    // Render the marks first, then layer the axes and labels on top.
-    renderCircles(select(svg), {
+    renderViz(select(svg), {
       data: rows,
+      width: dimensions.width,
+      height: dimensions.height,
       xScale: scales.xScale,
       yScale: scales.yScale,
       xValue,
       yValue,
-    });
-
-    renderAxes(select(svg), {
-      height: dimensions.height,
-      margin,
-      xScale: scales.xScale,
-      yScale: scales.yScale,
-    });
-
-    renderLabels(select(svg), {
-      width: dimensions.width,
-      height: dimensions.height,
       margin,
       title,
       titleFontSize,
