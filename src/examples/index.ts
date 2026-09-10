@@ -6,6 +6,7 @@ import { RespondingToResize } from './004-responding-to-resize/RespondingToResiz
 import { ResponsivePseudoScatterPlot } from './005-responsive-pseudo-scatter-plot/ResponsivePseudoScatterPlot';
 import { LoadingAndSummarizingData } from './006-loading-and-summarizing-data/LoadingAndSummarizingData';
 import { ScatterplotBasic } from './007-scatterplot-basic/ScatterplotBasic';
+import { ScatterPlot } from './008-scatter-plot/ScatterPlot';
 
 export interface Example {
   id: string;
@@ -48,6 +49,11 @@ export const examples: Example[] = [
     id: '7',
     name: 'Scatterplot Basic',
     component: ScatterplotBasic,
+  },
+  {
+    id: '8',
+    name: 'Scatter Plot',
+    component: ScatterPlot,
   },
 ];
 
