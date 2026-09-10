@@ -1,0 +1,1 @@
+One last change I would like to do is to refactor the massive useEffect function in ScatterPlot.tsx so that instead of calling render circles, followed by render axes, followed by render labels, those three calls should be in a separate module called `renderViz`. That way we isolate all the D3 logic from the React logic, which I love.
